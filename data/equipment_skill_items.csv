@@ -32832,6 +32832,33 @@ Cannot be exchanged for Trade Points.",silver,0,0,0,0,47,18,1
 character. Its level is added to the equipped character's 
 Hidden Potential Skill level, and the equipped character's 
 ATK +900. Cannot be exchanged for Trade Points.",gold,0,0,900,0,47,65,1
+8961,[Character-Exclusive] EX Skill Orb DEF + Lv. 5,"Can be equipped to [Meticulously Planned Operation] 
+Dr. Gero. The equipped character's DEF +500. 
+Cannot be exchanged for Trade Points.",bronze,0,0,0,500,310,9,1
+8962,[Character-Exclusive] EX Skill Orb Evasion + Lv. 5,"Can be equipped to [Meticulously Planned Operation] 
+Dr. Gero. Its level is added to the equipped character's 
+Hidden Potential Skill level. Cannot be exchanged for 
+Trade Points.",silver,0,0,0,0,310,17,1
+8963,[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 5,"Can be equipped to [Meticulously Planned Operation] 
+Dr. Gero. Its level is added to the equipped character's 
+Hidden Potential Skill level. Cannot be exchanged for 
+Trade Points.",silver,0,0,0,0,310,13,1
+8964,"[Character-Exclusive] EX Skill Orb Evasion + Lv. 6, DEF + Lv. 2","Can be equipped to [Meticulously Planned Operation] 
+Dr. Gero. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +600. Cannot be exchanged for Trade Points.",gold,0,0,0,600,310,79,1
+8965,[Character-Exclusive] EX Skill Orb Evasion + Lv. 5,"Can be equipped to [Tiny Spy] Spy Robot. 
+Its level is added to the equipped 
+character's Hidden Potential Skill level. 
+Cannot be exchanged for Trade Points.",bronze,0,0,0,0,311,6,1
+8966,[Character-Exclusive] EX Skill Orb Evasion + Lv. 5,"Can be equipped to [Tiny Spy] Spy Robot. 
+Its level is added to the equipped 
+character's Hidden Potential Skill level. 
+Cannot be exchanged for Trade Points.",silver,0,0,0,0,311,17,1
+8967,[Character-Exclusive] EX Skill Orb Evasion + Lv. 5,"Can be equipped to [Tiny Spy] Spy Robot. 
+Its level is added to the equipped 
+character's Hidden Potential Skill level. 
+Cannot be exchanged for Trade Points.",gold,0,0,0,0,311,28,1
 8972,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 8, DEF + Lv. 4","Can be equipped to [Force of Diverse Techniques] 
 Recoome + Guldo. Its level is added to the 
 equipped character's Hidden Potential Skill level, 
@@ -32869,6 +32896,138 @@ DEF +1400. Cannot be exchanged for Trade Points.",silver,0,0,0,1400,315,85,1
 8980,"[Character-Exclusive] EX Skill Orb ATK + Lv. 8, DEF + Lv. 8","Can be equipped to [Chaos-Bringing Secret Technique] 
 Ginyu (Goku). The equipped character's ATK +800 and 
 DEF +800. Cannot be exchanged for Trade Points.",bronze,0,0,800,800,315,137,1
+8981,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 8, DEF + Lv. 4","Can be equipped to [Treacherous Clone] Cell Jr. of each Type. 
+Its level is added to the equipped character's Hidden Potential 
+Skill level, and the equipped character's DEF +1200. 
+Cannot be exchanged for Trade Points.",gold,0,0,0,1200,316,64,1
+8982,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 7, DEF + Lv. 7","Can be equipped to [Treacherous Clone] Cell Jr. of each Type. 
+Its level is added to the equipped character's Hidden Potential 
+Skill level, and the equipped character's DEF +1400. 
+Cannot be exchanged for Trade Points.",silver,0,0,0,1400,316,85,1
+8983,"[Character-Exclusive] EX Skill Orb ATK + Lv. 8, DEF + Lv. 8","Can be equipped to [Treacherous Clone] Cell Jr. of each Type. 
+The equipped character's ATK +800 and DEF +800. 
+Cannot be exchanged for Trade Points.",bronze,0,0,800,800,316,137,1
+8984,[Character-Exclusive] EX Skill Orb DEF + Lv. 9,"Can be equipped to [Mastery of Perfected Power] 
+Perfect Cell. The equipped character's DEF +900. 
+Cannot be exchanged for Trade Points.",bronze,0,0,0,900,317,9,1
+8985,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 3, DEF + Lv. 6","Can be equipped to [Mastery of Perfected Power] 
+Perfect Cell. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +1200. Cannot be exchanged for Trade Points.",silver,0,0,0,1200,317,85,1
+8986,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 6, ATK + Lv. 3","Can be equipped to [Mastery of Perfected Power] 
+Perfect Cell. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+ATK +900. Cannot be exchanged for Trade Points.",gold,0,0,900,0,317,65,1
+8987,[Character-Exclusive] EX Skill Orb DEF + Lv. 9,"Can be equipped to [Release of Mighty Power] 
+Super Saiyan Gohan (Youth). 
+The equipped character's DEF +900. 
+Cannot be exchanged for Trade Points.",bronze,0,0,0,900,318,9,1
+8988,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 3, ATK + Lv. 6","Can be equipped to [Release of Mighty Power] 
+Super Saiyan Gohan (Youth). Its level is added to 
+the equipped character's Hidden Potential Skill level, 
+and the equipped character's ATK +1200. 
+Cannot be exchanged for Trade Points.",silver,0,0,1200,0,318,86,1
+8989,"[Character-Exclusive] EX Skill Orb Combo Attack + Lv. 6, ATK + Lv. 3","Can be equipped to [Release of Mighty Power] 
+Super Saiyan Gohan (Youth). Its level is added to 
+the equipped character's Hidden Potential Skill level, 
+and the equipped character's ATK +900. 
+Cannot be exchanged for Trade Points.",gold,0,0,900,0,318,65,1
+8990,[Category-Exclusive] Skill Orb ATK + Lv. 5,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +500.",bronze,1,0,500,0,97,10,0
+8991,[Category-Exclusive] Skill Orb ATK + Lv. 6,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +600.",bronze,1,0,600,0,97,10,0
+8992,[Category-Exclusive] Skill Orb ATK + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +700.",bronze,1,0,700,0,97,10,0
+8993,[Category-Exclusive] Skill Orb ATK + Lv. 8,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +800.",bronze,1,0,800,0,97,10,0
+8994,[Category-Exclusive] Skill Orb DEF + Lv. 5,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +500.",bronze,1,0,0,500,97,9,0
+8995,[Category-Exclusive] Skill Orb DEF + Lv. 6,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +600.",bronze,1,0,0,600,97,9,0
+8996,[Category-Exclusive] Skill Orb DEF + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +700.",bronze,1,0,0,700,97,9,0
+8997,[Category-Exclusive] Skill Orb DEF + Lv. 8,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +800.",bronze,1,0,0,800,97,9,0
+8998,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 2, Critical Hit + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",bronze,1,0,0,0,97,100,0
+8999,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 2, Evasion + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",bronze,1,0,0,0,97,131,0
+9000,"[Category-Exclusive] Skill Orb Critical Hit + Lv. 2, Evasion + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",bronze,1,0,0,0,97,132,0
+9001,"[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 2, Type DEF Boost + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",bronze,1,0,0,0,97,124,0
+9002,[Category-Exclusive] Skill Orb ATK + Lv. 3,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +600.",silver,10,0,600,0,97,21,0
+9003,[Category-Exclusive] Skill Orb ATK + Lv. 4,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +800.",silver,10,0,800,0,97,21,0
+9004,[Category-Exclusive] Skill Orb ATK + Lv. 5,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +1000.",silver,10,0,1000,0,97,21,0
+9005,[Category-Exclusive] Skill Orb DEF + Lv. 3,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +600.",silver,10,0,0,600,97,20,0
+9006,[Category-Exclusive] Skill Orb DEF + Lv. 4,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +800.",silver,10,0,0,800,97,20,0
+9007,[Category-Exclusive] Skill Orb DEF + Lv. 5,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +1000.",silver,10,0,0,1000,97,20,0
+9008,[Category-Exclusive] Skill Orb Combo Attack + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,13,0
+9009,[Category-Exclusive] Skill Orb Critical Hit + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,18,0
+9010,[Category-Exclusive] Skill Orb Evasion + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,17,0
+9011,[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,16,0
+9012,[Category-Exclusive] Skill Orb Type DEF Boost + Lv. 7,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,15,0
+9013,"[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 4, Type DEF Boost + Lv. 4","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,84,0
+9014,[Category-Exclusive] Skill Orb ATK + Lv. 2,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +600.",gold,100,0,600,0,97,32,0
+9015,[Category-Exclusive] Skill Orb ATK + Lv. 3,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's ATK +900.",gold,100,0,900,0,97,32,0
+9016,[Category-Exclusive] Skill Orb DEF + Lv. 2,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +600.",gold,100,0,0,600,97,31,0
+9017,[Category-Exclusive] Skill Orb DEF + Lv. 3,"Can be equipped to an ""Androids/Cell Saga"" Category 
+character. The equipped character's DEF +900.",gold,100,0,0,900,97,31,0
+9018,"[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 5, Type DEF Boost + Lv. 5","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,41,0
+9019,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 5, Critical Hit + Lv. 5","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,55,0
+9020,"[Category-Exclusive] Skill Orb Evasion + Lv. 6, ATK + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+ATK +600.",gold,100,0,600,0,97,80,0
+9021,"[Category-Exclusive] Skill Orb Critical Hit + Lv. 6, ATK + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+ATK +600.",gold,100,0,600,0,97,62,0
+9022,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 6, ATK + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+ATK +600.",gold,100,0,600,0,97,65,0
+9023,"[Category-Exclusive] Skill Orb Evasion + Lv. 6, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +600.",gold,100,0,0,600,97,79,0
+9024,"[Category-Exclusive] Skill Orb Critical Hit + Lv. 6, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +600.",gold,100,0,0,600,97,61,0
+9025,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 6, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +600.",gold,100,0,0,600,97,64,0
 9062,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 4, Critical Hit + Lv. 4","Can be equipped to a ""Planet Namek Saga"" Category 
 character. Its level is added to the equipped character's 
 Hidden Potential Skill level.",gold,100,0,0,0,47,55,0
@@ -32896,3 +33055,30 @@ DEF +400.",silver,10,0,0,400,47,136,0
 9069,"[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 3, Type DEF Boost + Lv. 3","Can be equipped to a ""Planet Namek Saga"" Category 
 character. Its level is added to the equipped character's 
 Hidden Potential Skill level.",silver,10,0,0,0,47,84,0
+9072,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 4, Critical Hit + Lv. 4","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,55,0
+9073,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 4, Type ATK Boost + Lv. 4","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,45,0
+9074,"[Category-Exclusive] Skill Orb Critical Hit + Lv. 4, Super Attack Boost + Lv. 4","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,50,0
+9075,"[Category-Exclusive] Skill Orb Evasion + Lv. 4, Type DEF Boost + Lv. 4","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",gold,100,0,0,0,97,39,0
+9076,"[Category-Exclusive] Skill Orb Combo Attack + Lv. 2, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +400.",silver,10,0,0,400,97,85,0
+9077,"[Category-Exclusive] Skill Orb Critical Hit + Lv. 2, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +400.",silver,10,0,0,400,97,101,0
+9078,"[Category-Exclusive] Skill Orb Evasion + Lv. 4, DEF + Lv. 2","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level, and the equipped character's 
+DEF +400.",silver,10,0,0,400,97,136,0
+9079,"[Category-Exclusive] Skill Orb Type ATK Boost + Lv. 3, Type DEF Boost + Lv. 3","Can be equipped to an ""Androids/Cell Saga"" Category 
+character. Its level is added to the equipped character's 
+Hidden Potential Skill level.",silver,10,0,0,0,97,84,0

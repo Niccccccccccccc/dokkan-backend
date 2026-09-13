@@ -1627,3 +1627,8 @@ when the character is KO'd (once only)"
 639,PassiveSkill,5049,Can perform Reversible Exchange with Guldo
 640,PassiveSkill,5052,Can perform Reversible Exchange with Burter
 641,PassiveSkill,5053,Can perform Reversible Exchange with Burter
+644,PassiveSkill,16005060,"Transforms at start of next attacking turn if the 
+character performs 5 or more attacks in battle, 
+or when there is an enemy whose name includes 
+""Cell"" (characters such as Cell Jr. excluded) 
+starting from the 5th turn from the start of battle"

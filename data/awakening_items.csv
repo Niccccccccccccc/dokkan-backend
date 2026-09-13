@@ -250,6 +250,7 @@ Can be obtained at Baba's Shop with Trade Points.",100,3,12,1
 5741,Captain Ginyu,Character-specific Medal required for Awakening.,20000,3,12,1
 5751,Raditz,Character-specific Medal required for Awakening.,20000,3,12,1
 5761,Super Saiyan Goku,Character-specific Medal required for Awakening.,20000,3,12,1
+5762,Super Saiyan Gohan (Youth),Character-specific Medal required for Awakening.,20000,3,12,1
 5771,Cell (1st Form),Character-specific Medal required for Awakening.,20000,3,12,1
 5781,Super Saiyan God SS Goku,Character-specific Medal required for Awakening.,20000,3,12,1
 5791,Super Saiyan God SS Vegeta & Super Saiyan Trunks (Future),Character-specific Medal required for Awakening.,20000,3,12,1
@@ -1646,6 +1647,10 @@ the event ""Dragon Ball GT: Ultimate DB Saga"".",20000,3,12,1
 103142,Frieza (3rd Form) [Silver],Character-specific Medal required for Awakening.,200000,1,20,1
 103143,Frieza (3rd Form) [Gold],Character-specific Medal required for Awakening.,300000,2,20,1
 103144,Frieza (3rd Form) [Rainbow],Character-specific Medal required for Awakening.,400000,3,20,1
+103161,Super Saiyan Trunks (Teen) [Bronze],Character-specific Medal required for Awakening.,100000,0,20,1
+103162,Super Saiyan Trunks (Teen) [Silver],Character-specific Medal required for Awakening.,200000,1,20,1
+103163,Super Saiyan Trunks (Teen) [Gold],Character-specific Medal required for Awakening.,300000,2,20,1
+103164,Super Saiyan Trunks (Teen) [Rainbow],Character-specific Medal required for Awakening.,400000,3,20,1
 120401,Yamcha (Angel),Character-specific Medal required for Awakening.,20000,3,12,1
 121301,Jiren (Full Power) (Ultra Supervillain),Character-specific Medal required for Awakening.,20000,3,12,1
 130101,Hercule,Character-specific Medal required for Awakening.,20000,3,12,1
@@ -2467,3 +2472,4 @@ Obtainable from ""Trial Missions"".",20000,3,0,1
 2001001,Goku [Rainbow],Character-specific Medal required for Awakening.,50000,3,12,0
 2001002,Goku [Rainbow],Character-specific Medal required for Awakening.,777777,3,12,0
 2001003,Krillin,Character-specific Medal required for Awakening.,50000,3,12,0
+2002001,Dr. Gero,Character-specific Medal required for Awakening.,50000,3,12,0

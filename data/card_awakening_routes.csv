@@ -7746,6 +7746,13 @@ to get the required Awakening Medal(s).",0,2022-10-04 06:30:00
 8063,CardAwakeningRoute::Optimal,1027621,1027621,1,5516,5.0,1,,0,2026-07-29 05:00:00
 8064,CardAwakeningRoute::Optimal,1027621,1027621,1,5517,6.0,1,,0,2026-07-29 05:00:00
 8065,CardAwakeningRoute::Optimal,1027621,1027621,1,5518,7.0,1,,0,2026-07-29 05:00:00
+8066,CardAwakeningRoute::Optimal,1022701,1022701,1,5519,1.0,1,,0,2026-09-13 04:30:00
+8067,CardAwakeningRoute::Optimal,1022701,1022701,1,5520,2.0,1,,0,2026-09-13 04:30:00
+8068,CardAwakeningRoute::Optimal,1022701,1022701,1,5521,3.0,1,,0,2026-09-13 04:30:00
+8069,CardAwakeningRoute::Optimal,1022701,1022701,1,5522,4.0,1,,0,2026-09-13 04:30:00
+8070,CardAwakeningRoute::Optimal,1022701,1022701,1,5523,5.0,1,,0,2026-09-13 04:30:00
+8071,CardAwakeningRoute::Optimal,1022701,1022701,1,5524,6.0,1,,0,2026-09-13 04:30:00
+8072,CardAwakeningRoute::Optimal,1022701,1022701,1,5525,7.0,1,,0,2026-09-13 04:30:00
 8073,CardAwakeningRoute::Optimal,1027161,1027161,1,5526,1.0,1,,0,2026-08-07 05:00:00
 8074,CardAwakeningRoute::Optimal,1027161,1027161,1,5527,2.0,1,,0,2026-08-07 05:00:00
 8075,CardAwakeningRoute::Optimal,1027161,1027161,1,5528,3.0,1,,0,2026-08-07 05:00:00
@@ -7760,9 +7767,17 @@ to get the required Awakening Medal(s).",0,2022-10-04 06:30:00
 8084,CardAwakeningRoute::Optimal,1027181,1027181,1,5537,5.0,1,,0,2026-08-07 05:00:00
 8085,CardAwakeningRoute::Optimal,1027181,1027181,1,5538,6.0,1,,0,2026-08-07 05:00:00
 8086,CardAwakeningRoute::Optimal,1027181,1027181,1,5539,7.0,1,,0,2026-08-07 05:00:00
+8087,CardAwakeningRoute::Zet,1034100,1034101,1,2,,0,None,0,2010-04-01 00:00:00
+8088,CardAwakeningRoute::Dokkan,1034101,1034111,1,5540,,0,None,0,2026-09-13 04:30:00
+8089,CardAwakeningRoute::Dokkan,1034111,1034121,1,5541,,0,None,0,2026-09-13 04:30:00
 8090,CardAwakeningRoute::Optimal,1028061,1028061,1,5542,1.0,1,,0,2026-08-22 05:00:00
 8091,CardAwakeningRoute::Optimal,1028061,1028061,1,5543,2.0,1,,0,2026-08-22 05:00:00
 8092,CardAwakeningRoute::Optimal,1028061,1028061,1,5544,3.0,1,,0,2026-08-22 05:00:00
+8093,CardAwakeningRoute::Zet,1034050,1034051,1,3,,0,None,0,2010-04-01 00:00:00
+8094,CardAwakeningRoute::Dokkan,1034051,1034061,1,5545,,0,None,0,2026-09-13 04:30:00
+8095,CardAwakeningRoute::Dokkan,1034061,1034071,1,5546,,0,None,0,2026-09-13 04:30:00
+8096,CardAwakeningRoute::Zet,1034080,1034081,1,4,,0,None,0,2010-04-01 00:00:00
+8097,CardAwakeningRoute::Dokkan,1034081,1034091,1,5547,,0,None,0,2026-09-13 04:30:00
 8098,CardAwakeningRoute::Optimal,1022471,1022471,1,5548,1.0,1,,0,2026-09-03 05:00:00
 8099,CardAwakeningRoute::Optimal,1022471,1022471,1,5549,2.0,1,,0,2026-09-03 05:00:00
 8100,CardAwakeningRoute::Optimal,1022471,1022471,1,5550,3.0,1,,0,2026-09-03 05:00:00
@@ -7791,6 +7806,13 @@ to get the required Awakening Medal(s).",0,2022-10-04 06:30:00
 8123,CardAwakeningRoute::Optimal,1014371,1014371,1,5573,5.0,1,,0,2026-09-03 05:00:00
 8124,CardAwakeningRoute::Optimal,1014371,1014371,1,5574,6.0,1,,0,2026-09-03 05:00:00
 8125,CardAwakeningRoute::Optimal,1014371,1014371,1,5575,7.0,1,,0,2026-09-03 05:00:00
+8126,CardAwakeningRoute::Optimal,1027001,1027001,1,5576,1.0,1,,0,2026-09-13 04:30:00
+8127,CardAwakeningRoute::Optimal,1027001,1027001,1,5577,2.0,1,,0,2026-09-13 04:30:00
+8128,CardAwakeningRoute::Optimal,1027001,1027001,1,5578,3.0,1,,0,2026-09-13 04:30:00
+8129,CardAwakeningRoute::Optimal,1027001,1027001,1,5579,4.0,1,,0,2026-09-13 04:30:00
+8130,CardAwakeningRoute::Optimal,1027001,1027001,1,5580,5.0,1,,0,2026-09-13 04:30:00
+8131,CardAwakeningRoute::Optimal,1027001,1027001,1,5581,6.0,1,,0,2026-09-13 04:30:00
+8132,CardAwakeningRoute::Optimal,1027001,1027001,1,5582,7.0,1,,0,2026-09-13 04:30:00
 8166,CardAwakeningRoute::Zet,1033950,1033951,1,4,,0,None,0,2010-04-01 00:00:00
 8167,CardAwakeningRoute::Dokkan,1033951,1033961,1,5611,,0,None,0,2026-08-29 09:00:00
 8168,CardAwakeningRoute::Dokkan,1033961,1033971,1,5612,,0,None,0,2026-08-29 09:00:00
@@ -7799,6 +7821,8 @@ to get the required Awakening Medal(s).",0,2022-10-04 06:30:00
 8171,CardAwakeningRoute::Zet,1034010,1034011,1,1,,0,None,0,2010-04-01 00:00:00
 8172,CardAwakeningRoute::Dokkan,1034011,1034021,1,5614,,0,None,0,2026-08-29 09:00:00
 8173,CardAwakeningRoute::Dokkan,1034021,1034031,1,5615,,0,None,0,2026-08-29 09:00:00
+8198,CardAwakeningRoute::Zet,1034540,1034541,1,3,,0,None,0,2010-04-01 00:00:00
+8199,CardAwakeningRoute::Dokkan,1034541,1034551,1,5638,,0,None,0,2026-09-13 04:30:00
 9001,CardAwakeningRoute::Zet,1015400,1015401,1,4,,0,,0,2010-04-01 00:00:00
 9002,CardAwakeningRoute::Dokkan,1015401,1015411,1,17501,,0,"Awakening Medals can be obtained from the event 
 ""Universe's Strongest?! Challenge the 'Great Pontas'!"" and 

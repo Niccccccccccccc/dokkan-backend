@@ -1040,6 +1040,7 @@ id,z_battle_normal_reward_table_id,item_id,item_type,quantity,card_exp_init
 136003,136003,102002,AwakeningItem,4,0
 136004,136004,102003,AwakeningItem,4,0
 136005,136005,102004,AwakeningItem,4,0
+136006,136006,1002630,Card,1,765122
 137000,137000,102014,AwakeningItem,3,0
 138000,138000,102021,AwakeningItem,1,0
 138001,138001,102021,AwakeningItem,2,0
@@ -1459,6 +1460,12 @@ id,z_battle_normal_reward_table_id,item_id,item_type,quantity,card_exp_init
 211021,211021,103124,AwakeningItem,4,0
 211022,211022,103134,AwakeningItem,4,0
 211023,211023,103144,AwakeningItem,4,0
+213000,213000,103161,AwakeningItem,1,0
+213001,213001,103161,AwakeningItem,2,0
+213002,213002,103162,AwakeningItem,2,0
+213003,213003,103162,AwakeningItem,4,0
+213004,213004,103163,AwakeningItem,4,0
+213005,213005,103164,AwakeningItem,4,0
 701000,701000,100005,AwakeningItem,3,0
 702000,702000,100245,AwakeningItem,3,0
 703000,703000,100105,AwakeningItem,3,0

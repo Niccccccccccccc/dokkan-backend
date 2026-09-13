@@ -5360,6 +5360,47 @@ Ki +2 and HP, ATK & DEF +190%"
 103403,Furious Fighter's Immense Power,"""Golden Fighters"" or 
 ""Planet Namek Saga"" Category 
 Ki +3 and HP, ATK & DEF +220%"
+103405,Talent Beyond His Father's,"""Kamehameha"", ""Golden Fighters"" or 
+""Androids/Cell Saga"" Category Ki +2, 
+HP +150% and ATK & DEF +130%, 
+plus an additional HP, ATK & DEF +20% 
+for characters who also belong to 
+the ""Tournament Participants"", 
+""Mastered Evolution"" or 
+""Entrusted Will"" Category"
+103406,Mustered Fighting Spirit,"""Kamehameha"", ""Golden Fighters"" or 
+""Androids/Cell Saga"" Category Ki +3, 
+HP +170% and ATK & DEF +150%, 
+plus an additional HP, ATK & DEF +30% 
+for characters who also belong to 
+the ""Tournament Participants"", 
+""Mastered Evolution"" or 
+""Entrusted Will"" Category"
+103407,Release of Mighty Power,"""Kamehameha"", ""Golden Fighters"" or 
+""Androids/Cell Saga"" Category Ki +3, 
+HP +200% and ATK & DEF +170%, 
+plus an additional HP, ATK & DEF +50% 
+for characters who also belong to 
+the ""Tournament Participants"", 
+""Mastered Evolution"" or 
+""Entrusted Will"" Category"
+103408,Rematch After Growth,"""Androids/Cell Saga"" Category 
+Ki +2, HP +150% and ATK & DEF +120%, 
+plus an additional HP, ATK & DEF +20% 
+for characters who are also Super Class"
+103409,Opportunity to Rebuild,"""Androids/Cell Saga"" Category 
+Ki +3, HP +170% and ATK & DEF +140%, 
+plus an additional HP, ATK & DEF +30% 
+for characters who are also Super Class"
+103410,Evolution Beyond Perfect Form,"""Sworn Enemies"" or 
+""Androids/Cell Saga"" Category 
+Ki +2 and HP, ATK & DEF +160%"
+103411,Ruthless Takedown,"""Sworn Enemies"" or 
+""Androids/Cell Saga"" Category 
+Ki +2 and HP, ATK & DEF +190%"
+103412,Mastery of Perfected Power,"""Sworn Enemies"" or 
+""Androids/Cell Saga"" Category 
+Ki +3 and HP, ATK & DEF +220%"
 103421,Realization of the Battle Foretold in Dreams,"""Realm of Gods"", ""Planetary Destruction"" or 
 ""Successors"" Category Ki +2, HP +150% 
 and ATK & DEF +130%, plus an additional 
@@ -5443,6 +5484,17 @@ plus an additional HP, ATK & DEF +50%
 for characters who also belong to the 
 ""Demonic Power"", ""Mission Execution"" 
 or ""Siblings' Bond"" Category"
+103454,A Scheme Not to Be Taken Lightly,"""Androids/Cell Saga"" Category 
+Ki +2 and HP, ATK & DEF +30%"
+103455,Meticulously Planned Operation,"""Androids/Cell Saga"" Category 
+Ki +3 and HP, ATK & DEF +50%"
+103456,Tiny Spy,"""Artificial Life Forms"" Category 
+Ki +2 and HP, ATK & DEF +30%"
+103461,Treacherous Clone,"All Types Ki +3 and HP, ATK & DEF +50%"
+103462,Treacherous Clone,"All Types Ki +3 and HP, ATK & DEF +50%"
+103463,Treacherous Clone,"All Types Ki +3 and HP, ATK & DEF +50%"
+103464,Treacherous Clone,"All Types Ki +3 and HP, ATK & DEF +50%"
+103465,Treacherous Clone,"All Types Ki +3 and HP, ATK & DEF +50%"
 103466,Force of Top-Notch Techniques,"""Space-Traveling Warriors"" Category 
 Ki +3 and HP, ATK & DEF +50%"
 103469,Chaos-Bringing Secret Technique,"""Planet Namek Saga"" Category 
@@ -6865,6 +6917,8 @@ Ki +3 and HP, ATK & DEF +180%"
 Ki +3 and HP, ATK & DEF +170%"
 1022681,Universe of Justice's Instructor,"""Universe 11"" Category 
 Ki +3 and HP, ATK & DEF +150%"
+1022701,Wicked Life Form's Superiority Complex,"""Androids/Cell Saga"" Category 
+Ki +3 and HP, ATK & DEF +150%"
 1022721,Temptress' Surprise Attack,"""Peppy Gals"" Category 
 Ki +3 and HP, ATK & DEF +150%"
 1022751,Roar of Resentment,"""Sworn Enemies"" or 
@@ -7300,6 +7354,11 @@ Ki +3 and HP, ATK & DEF +70%"
 Ki +3 and HP, ATK & DEF +50%"
 1026942,Roaring Declaration of Destruction,"AGL & TEQ Types 
 Ki +3 and HP, ATK & DEF +70%"
+1027001,Super Power Counterattack,"""Mastered Evolution"" or ""Androids/Cell Saga"" 
+Category Ki +3 and HP, ATK & DEF +170%, 
+plus an additional Ki +1 and HP, ATK & DEF +30% 
+for characters who also belong to the 
+""Rapid Growth"" or ""Earth-Bred Fighters"" Category"
 1027161,Strikingly Beautiful Technique,"""Peppy Gals"" Category or Extreme STR Type 
 Ki +3 and HP, ATK & DEF +140%"
 1027181,True Nature of the Beautiful Demon,"""Peppy Gals"" Category or Extreme AGL Type 

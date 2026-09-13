@@ -3992,6 +3992,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5013,Ultimate Battle,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5014,Super Saiyan Is Here!,1,0,91,1,0,128.0,2,4,1,100,,30,0,0,{}
 5015,Rage Echoing Across Planet Namek,1,0,3,1,0,,2,1,0,100,,500,500,0,{}
+5016,Enemy Investigation,1,0,3,1,0,,2,1,0,100,,180,180,0,{}
+5017,Android Research,1,0,3,1,0,,2,1,0,100,,200,200,0,{}
+5018,Data Transmission,1,0,114,1,0,,0,1,0,100,,0,0,0,"{""text"": ""Taking up a defensive stance"", ""script_path"": ""lua/ab_script/ab_sys/cannot_attack.lua""}"
 5019,#21's Inner Conflicts,1,0,5,2,0,,0,1,0,100,,2,0,0,{}
 5020,#21's Determination,1,0,4,1,0,,2,1,1,100,,40,0,0,{}
 5021,Preying on All the Clones,1,0,3,1,0,38.0,2,6,1,100,,321,321,0,{}
@@ -4000,13 +4003,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5024,Rumblings of Dragon Ki,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
 5025,Roar of a Dragon,1,0,114,1,0,,0,1,0,100,,0,0,0,"{""text"": ""Observing the opponent..."", ""script_path"": ""lua/ab_script/ab_sys/cannot_attack.lua""}"
 5026,End of Everything,1,0,5,1,0,,0,1,0,100,,7,0,0,{}
+5030,Cell's Resurrection,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
+5031,Cell's Mockery,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
+5032,Cell's Counterattack,1,0,3,1,0,129.0,2,99,1,100,,300,300,0,{}
 5033,Countermeasures,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
 5034,Mamba's Treat,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
+5035,Near Completion,1,0,3,1,0,,2,1,0,100,,280,280,0,{}
 5036,Three Super Saiyans,1,0,76,1,0,40.0,0,7,1,100,"{""source"": ""3038|211"", ""compiled"": [""|"", 3038, 211]}",0,0,0,{}
+5037,Power Dwelling within Gohan,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
+5038,Power Manifested by Gohan,1,0,5,1,0,,0,1,0,100,,4,0,0,{}
+5039,Power Converging on Gohan,1,0,3,1,0,130.0,2,99,1,100,,300,300,0,{}
+5040,Path to a Rematch,1,0,5,1,0,,0,1,0,100,,1,0,0,{}
+5041,Path to Resurgence,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
 5042,Super Monster,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5043,Irrational Fury,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5044,Quick-Witted,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5045,Double-Edged Sword,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
+5046,Cell Jrs.' Intimidation,1,0,3,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",150,150,0,{}
 5047,Captain's Counterattack,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5048,Diverse Poses!,1,0,131,1,0,,0,1,0,100,,4034710,33,0,{}
 5049,Diverse Poses!,1,0,131,1,0,,0,1,0,100,,4034711,33,0,{}
@@ -4016,6 +4029,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5053,Top-Notch Pride!,1,0,131,1,0,,0,1,0,100,,4034671,35,0,{}
 5054,Top-Notch Speed!,1,0,131,1,0,,0,1,0,100,,1034660,34,0,{}
 5055,Top-Notch Speed!,1,0,131,1,0,,0,1,0,100,,1034661,34,0,{}
+5056,Cell Jrs.' Disruption,1,0,3,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",150,150,0,{}
+5057,Cell Jrs.' Encirclement,1,0,3,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",150,150,0,{}
+5058,Cell Jrs.' Dash,1,0,3,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",150,150,0,{}
+5059,Cell Jrs.' Conspiracy,1,0,3,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",150,150,0,{}
+5060,Secret Power,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
+5061,Power-Up Phase 2,1,0,4,1,0,,2,1,1,100,,60,0,0,{}
 9001,What A Farce,7,0,1,1,0,,2,3,0,100,"{""source"": ""24"", ""compiled"": 24}",55,0,0,{}
 9002,Restricted Battle,7,0,1,1,0,,2,4,0,100,"{""source"": ""24"", ""compiled"": 24}",77,0,0,{}
 10000,Node-Specific Skill,1,1,13,1,0,,2,1,0,100,,85,0,0,{}
@@ -4066,8 +4085,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 10046,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,,400,400,0,{}
 10047,Node-Specific Skill,1,1,5,1,0,,0,1,0,100,,4,0,0,{}
 10048,Node-Specific Skill,1,1,5,1,0,,0,1,0,100,,1,0,0,{}
+10049,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,300,0,0,{}
+10050,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,,1200,1200,0,{}
+10051,Node-Specific Skill,1,1,1,1,0,,2,7,1,100,,100,0,0,{}
+10052,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,450,0,0,{}
+10053,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,200,0,0,{}
+10054,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,200,0,0,{}
+10055,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,200,0,0,{}
+10056,Node-Specific Skill,1,1,1,1,0,,2,3,1,100,,100,0,0,{}
+10057,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,,500,0,0,{}
 20005,The Super Saiyan's Final Showdown,1,0,3,1,0,,2,1,0,100,,300,600,0,{}
 20006,The Emperor's Final Showdown,1,0,3,1,0,,2,1,0,100,,200,500,0,{}
+20007,Bloating Anger,1,0,3,1,0,,2,1,0,100,,1700,4000,0,{}
+20008,Shattering Blast,1,0,3,1,0,,2,1,0,100,,1200,5000,0,{}
+20009,A Serious Game,1,0,3,1,0,,2,1,0,100,,1000,4000,0,{}
+20012,Impeccable,1,0,3,1,0,,2,1,0,100,,800,2000,0,{}
 1000004,Saiyan's Pride,1,0,1,1,0,,0,1,0,100,"{""source"": ""15"", ""compiled"": 15}",2000,0,0,{}
 1000010,Rapid,1,0,20,2,0,,0,1,0,100,,4,1,0,{}
 1000066,No More Games,1,0,1,1,0,,0,1,0,7,,1500,0,0,{}
@@ -7401,6 +7433,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 1005013,Ultimate Battle,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
 1005014,Super Saiyan Is Here!,1,0,5,12,0,,0,4,1,100,,2,0,0,{}
 1005015,Rage Echoing Across Planet Namek,1,0,96,1,0,,0,1,0,100,,63,2,0,{}
+1005016,Enemy Investigation,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
+1005017,Android Research,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
+1005018,Data Transmission,1,0,2,1,0,,2,1,0,100,,300,0,0,{}
 1005019,#21's Inner Conflicts,1,0,3,1,0,,2,1,0,100,,210,210,0,{}
 1005020,#21's Determination,1,0,5,2,0,,0,1,0,100,,2,0,0,{}
 1005021,Preying on All the Clones,1,0,13,1,0,,2,6,1,100,,79,0,0,{}
@@ -7409,13 +7444,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 1005024,Rumblings of Dragon Ki,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 1005025,Roar of a Dragon,1,0,3,1,0,,2,1,0,100,,359,359,0,{}
 1005026,End of Everything,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
+1005030,Cell's Resurrection,1,0,3,1,0,,2,1,0,100,,150,150,0,{}
+1005031,Cell's Mockery,1,0,3,1,0,,2,1,0,100,,200,200,0,{}
+1005032,Cell's Counterattack,1,0,13,1,0,,2,99,1,100,,70,0,0,{}
 1005033,Countermeasures,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 1005034,Mamba's Treat,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
+1005035,Near Completion,1,0,90,1,0,,2,1,0,100,,18,0,0,{}
 1005036,Three Super Saiyans,1,0,90,1,0,,2,7,1,100,"{""source"": ""3038|211"", ""compiled"": [""|"", 3038, 211]}",40,0,0,{}
+1005037,Power Dwelling within Gohan,1,0,3,1,0,,2,1,0,100,,150,150,0,{}
+1005038,Power Manifested by Gohan,1,0,3,1,0,,2,1,0,100,,200,200,0,{}
+1005039,Power Converging on Gohan,1,0,13,1,0,,2,99,1,100,,70,0,0,{}
+1005040,Path to a Rematch,1,0,3,1,0,,2,1,0,100,,200,200,0,{}
+1005041,Path to Resurgence,1,0,3,1,0,,2,1,0,100,,300,300,0,{}
 1005042,Super Monster,1,0,91,1,0,,2,1,0,100,,30,0,0,{}
 1005043,Irrational Fury,1,0,13,1,0,,2,1,0,100,,80,0,0,{}
 1005044,Quick-Witted,1,0,91,1,0,,2,1,0,100,,30,0,0,{}
 1005045,Double-Edged Sword,1,0,90,1,0,,0,1,0,100,,50,0,0,{}
+1005046,Cell Jrs.' Intimidation,1,0,13,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",90,0,0,{}
 1005047,Captain's Counterattack,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
 1005048,Diverse Poses!,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 1005049,Diverse Poses!,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
@@ -7425,6 +7470,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 1005053,Top-Notch Pride!,1,0,96,1,0,,0,1,0,100,,8,2,0,{}
 1005054,Top-Notch Speed!,1,0,96,1,0,,0,1,0,100,,1,2,0,{}
 1005055,Top-Notch Speed!,1,0,96,1,0,,0,1,0,100,,1,2,0,{}
+1005056,Cell Jrs.' Disruption,1,0,13,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",90,0,0,{}
+1005057,Cell Jrs.' Encirclement,1,0,13,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",90,0,0,{}
+1005058,Cell Jrs.' Dash,1,0,13,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",90,0,0,{}
+1005059,Cell Jrs.' Conspiracy,1,0,13,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",90,0,0,{}
+1005060,Secret Power,1,0,3,1,0,,2,1,0,100,,200,200,0,{}
+1005061,Power-Up Phase 2,1,0,5,1,0,,0,1,0,100,,5,0,0,{}
 1009001,What A Farce,1,0,71,1,0,,2,1,0,100,,55,1,1100,{}
 1009002,Restricted Battle,1,0,71,1,0,,2,1,0,100,,77,1,1100,{}
 2000725,Turn the Tables,7,0,110,1,0,,0,1,0,100,,2,1000725,0,{}
@@ -10262,6 +10313,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 2005013,Ultimate Battle,1,0,2,12,0,,2,1,0,100,,40,0,0,{}
 2005014,Super Saiyan Is Here!,1,0,78,12,26,,0,4,1,100,,0,0,0,{}
 2005015,Rage Echoing Across Planet Namek,1,0,81,1,0,,2,1,0,100,,0,0,100,{}
+2005016,Enemy Investigation,1,0,2,1,0,,2,1,0,100,"{""source"": ""757&1091"", ""compiled"": [""&"", 757, 1091]}",200,0,0,{}
+2005017,Android Research,1,0,2,1,0,,2,1,0,100,"{""source"": ""757&1091"", ""compiled"": [""&"", 757, 1091]}",300,0,0,{}
+2005018,Data Transmission,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 2005019,#21's Inner Conflicts,4,0,3,1,0,,2,1,0,100,,210,210,0,{}
 2005020,#21's Determination,1,0,3,1,0,,2,1,0,100,,210,210,0,{}
 2005021,Preying on All the Clones,1,0,81,1,0,,0,6,1,100,,0,0,100,{}
@@ -10270,13 +10324,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 2005024,Rumblings of Dragon Ki,1,0,90,1,0,,2,1,0,100,,50,0,0,{}
 2005025,Roar of a Dragon,1,0,5,2,0,,0,1,0,100,,3,0,0,{}
 2005026,End of Everything,1,0,81,1,0,,2,1,0,100,,0,0,70,{}
+2005030,Cell's Resurrection,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
+2005031,Cell's Mockery,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
+2005032,Cell's Counterattack,1,0,81,1,0,,0,99,1,100,,0,0,100,{}
 2005033,Countermeasures,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 2005034,Mamba's Treat,1,0,90,1,0,,0,1,0,100,,50,0,0,{}
+2005035,Near Completion,1,0,13,1,0,,2,1,0,100,,82,0,0,{}
 2005036,Three Super Saiyans,1,0,13,1,0,,2,7,1,100,"{""source"": ""3038|211"", ""compiled"": [""|"", 3038, 211]}",60,0,0,{}
+2005037,Power Dwelling within Gohan,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
+2005038,Power Manifested by Gohan,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
+2005039,Power Converging on Gohan,1,0,81,1,0,,2,99,1,100,,0,0,100,{}
+2005040,Path to a Rematch,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
+2005041,Path to Resurgence,1,0,91,1,0,,2,1,0,100,,70,0,0,{}
 2005042,Super Monster,1,0,81,1,0,,0,1,0,100,,0,100,70,{}
 2005043,Irrational Fury,1,0,81,1,0,,2,1,0,100,,0,0,100,{}
 2005044,Quick-Witted,1,0,67,1,0,,0,1,0,100,,31,32,0,{}
 2005045,Double-Edged Sword,1,0,81,1,0,,0,1,0,100,,0,0,70,{}
+2005046,Cell Jrs.' Intimidation,1,0,91,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",10,0,0,{}
 2005047,Captain's Counterattack,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 2005048,Diverse Poses!,6,0,2,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",300,0,0,{}
 2005049,Diverse Poses!,6,0,2,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",300,0,0,{}
@@ -10286,6 +10350,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 2005053,Top-Notch Pride!,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 2005054,Top-Notch Speed!,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 2005055,Top-Notch Speed!,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
+2005056,Cell Jrs.' Disruption,1,0,91,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",10,0,0,{}
+2005057,Cell Jrs.' Encirclement,1,0,91,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",10,0,0,{}
+2005058,Cell Jrs.' Dash,1,0,91,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",10,0,0,{}
+2005059,Cell Jrs.' Conspiracy,1,0,91,1,0,,2,1,0,100,"{""source"": ""3807"", ""compiled"": 3807}",10,0,0,{}
+2005060,Secret Power,1,0,13,1,0,,2,1,0,100,,70,0,0,{}
+2005061,Power-Up Phase 2,1,0,3,1,0,,2,1,0,100,,500,500,0,{}
 3000778,World on His Shoulders,7,0,110,1,0,,0,1,0,100,,2,1000778,0,{}
 3000779,Warrior of the Galaxy,7,0,110,1,0,,0,1,0,100,,2,1000779,0,{}
 3000780,Burning Rivalry,7,0,110,1,0,,0,1,0,100,,2,1000780,0,{}
@@ -12727,6 +12797,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 3005013,Ultimate Battle,1,0,3,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",100,100,0,{}
 3005014,Super Saiyan Is Here!,1,0,3,1,0,,2,1,0,100,,350,350,0,{}
 3005015,Rage Echoing Across Planet Namek,1,0,76,1,0,,0,1,0,100,,0,0,0,{}
+3005016,Enemy Investigation,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",10,99999,0,{}
+3005017,Android Research,1,0,13,1,0,,2,1,0,100,"{""source"": ""757&1091"", ""compiled"": [""&"", 757, 1091]}",50,0,0,{}
+3005018,Data Transmission,6,0,68,1,0,,2,1,0,100,,63,3,100,{}
 3005019,#21's Inner Conflicts,1,0,91,1,0,,2,1,0,100,,70,0,0,{}
 3005020,#21's Determination,3,0,5,1,0,,0,1,0,100,,3,0,0,{}
 3005021,Preying on All the Clones,1,0,81,1,0,,0,1,0,70,"{""source"": ""2558"", ""compiled"": 2558}",0,0,100,{}
@@ -12735,13 +12808,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 3005024,Rumblings of Dragon Ki,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 3005025,Roar of a Dragon,1,0,3,2,0,,2,1,0,100,,59,59,0,{}
 3005026,End of Everything,1,0,3,2,26,,2,1,0,100,,30,30,0,{}
+3005030,Cell's Resurrection,1,0,81,1,0,,0,1,0,100,,0,0,30,{}
+3005031,Cell's Mockery,1,0,81,1,0,,0,1,0,100,,0,0,50,{}
+3005032,Cell's Counterattack,1,0,78,1,0,,0,99,1,100,,0,0,0,{}
 3005033,Countermeasures,1,0,2,2,10,,2,2,0,100,,50,0,0,{}
 3005034,Mamba's Treat,1,0,13,1,0,,0,1,0,100,,65,0,0,{}
+3005035,Near Completion,1,0,81,1,0,,2,1,0,100,,0,0,70,{}
 3005036,Three Super Saiyans,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
+3005037,Power Dwelling within Gohan,6,0,2,1,0,,2,1,0,100,,150,0,0,{}
+3005038,Power Manifested by Gohan,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
+3005039,Power Converging on Gohan,1,0,78,1,0,,0,99,1,100,,0,0,0,{}
+3005040,Path to a Rematch,1,0,90,1,0,,2,1,0,100,,50,0,0,{}
+3005041,Path to Resurgence,1,0,90,1,0,,2,1,0,100,,70,0,0,{}
 3005042,Super Monster,1,0,5,2,200,,0,1,0,100,,3,0,0,{}
 3005043,Irrational Fury,7,0,1,1,0,,2,7,0,100,"{""source"": ""24"", ""compiled"": 24}",600,0,0,{}
 3005044,Quick-Witted,1,0,5,2,26,,0,1,0,100,,3,0,0,{}
 3005045,Double-Edged Sword,1,0,1,1,0,,2,1,0,100,"{""source"": ""3877"", ""compiled"": 3877}",500,0,0,{}
+3005046,Cell Jrs.' Intimidation,1,0,3,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",150,150,0,{}
 3005047,Captain's Counterattack,1,0,3,2,0,,2,1,0,100,,30,30,0,{}
 3005048,Diverse Poses!,6,0,13,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",50,0,0,{}
 3005049,Diverse Poses!,6,0,13,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",50,0,0,{}
@@ -12751,6 +12834,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 3005053,Top-Notch Pride!,1,0,5,2,0,,0,1,0,100,,1,0,0,{}
 3005054,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",63,1,20,{}
 3005055,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",63,1,20,{}
+3005056,Cell Jrs.' Disruption,1,0,3,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",150,150,0,{}
+3005057,Cell Jrs.' Encirclement,1,0,3,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",150,150,0,{}
+3005058,Cell Jrs.' Dash,1,0,3,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",150,150,0,{}
+3005059,Cell Jrs.' Conspiracy,1,0,3,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",150,150,0,{}
+3005060,Secret Power,1,0,91,1,0,,2,1,0,100,,30,0,0,{}
+3005061,Power-Up Phase 2,1,0,13,1,0,,2,1,0,100,,50,0,0,{}
 4000778,World on His Shoulders,1,0,1,1,0,,2,1,0,100,,120,0,0,{}
 4000779,Warrior of the Galaxy,1,0,1,1,0,,2,1,0,100,,150,0,0,{}
 4000780,Burning Rivalry,1,0,3,1,0,,2,1,0,100,,100,100,0,{}
@@ -14835,6 +14924,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 4005013,Ultimate Battle,1,0,81,1,0,,0,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",0,0,70,{}
 4005014,Super Saiyan Is Here!,1,0,96,1,0,,0,1,0,100,,63,2,0,{}
 4005015,Rage Echoing Across Planet Namek,1,0,13,1,0,,0,1,0,100,,35,0,0,{}
+4005016,Enemy Investigation,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",10,99999,1,{}
+4005017,Android Research,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",40,99999,0,{}
+4005018,Data Transmission,15,0,1,2,0,,2,1,0,100,"{""source"": ""1992"", ""compiled"": 1992}",7,0,0,{}
 4005019,#21's Inner Conflicts,7,0,5,1,0,,0,4,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",2,0,0,{}
 4005020,#21's Determination,4,0,3,1,0,,2,1,0,100,,210,210,0,{}
 4005021,Preying on All the Clones,1,0,5,1,0,,0,1,0,100,,3,0,0,{}
@@ -14843,13 +14935,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 4005024,Rumblings of Dragon Ki,1,0,81,1,0,,2,1,0,100,,0,0,70,{}
 4005025,Roar of a Dragon,1,0,101,1,0,,2,1,0,100,,0,0,0,{}
 4005026,End of Everything,11,0,91,1,0,,2,1,0,100,"{""source"": ""639|33"", ""compiled"": [""|"", 639, 33]}",30,0,0,{}
+4005030,Cell's Resurrection,1,0,90,1,0,,2,1,0,100,,30,0,0,{}
+4005031,Cell's Mockery,1,0,90,1,0,,2,1,0,100,,30,0,0,{}
+4005032,Cell's Counterattack,1,0,5,1,0,,0,1,0,100,,4,0,0,{}
 4005033,Countermeasures,1,0,2,2,1079,,2,2,0,100,,50,0,0,{}
 4005034,Mamba's Treat,1,0,1,2,10,,2,2,0,100,,50,0,0,{}
+4005035,Near Completion,1,0,67,1,0,,0,1,0,100,,16,32,0,{}
 4005036,Three Super Saiyans,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
+4005037,Power Dwelling within Gohan,1,0,13,1,0,,2,1,0,100,"{""source"": ""3794"", ""compiled"": 3794}",90,0,0,{}
+4005038,Power Manifested by Gohan,1,0,13,1,0,,2,1,0,100,"{""source"": ""3794"", ""compiled"": 3794}",85,0,0,{}
+4005039,Power Converging on Gohan,1,0,5,1,0,,0,1,0,100,,7,0,0,{}
+4005040,Path to a Rematch,1,0,51,1,0,,0,1,0,100,,0,3,0,{}
+4005041,Path to Resurgence,1,0,51,1,0,,0,1,0,100,,0,3,0,{}
 4005042,Super Monster,1,0,3,2,200,,2,1,0,100,,50,50,0,{}
 4005043,Irrational Fury,6,0,2,1,0,,2,1,0,100,,350,0,0,{}
 4005044,Quick-Witted,1,0,3,2,26,,2,1,0,100,,40,40,0,{}
 4005045,Double-Edged Sword,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
+4005046,Cell Jrs.' Intimidation,1,0,13,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",90,0,0,{}
 4005047,Captain's Counterattack,1,0,98,1,0,,2,99,0,100,,10,100,2,{}
 4005048,Diverse Poses!,7,0,98,1,0,,2,99,0,100,"{""source"": ""757&24"", ""compiled"": [""&"", 757, 24]}",50,99999,0,{}
 4005049,Diverse Poses!,7,0,98,1,0,,2,99,0,100,"{""source"": ""757&24"", ""compiled"": [""&"", 757, 24]}",50,99999,0,{}
@@ -14859,6 +14961,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 4005053,Top-Notch Pride!,1,0,3,2,0,,2,1,0,100,,30,30,0,{}
 4005054,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",63,3,20,{}
 4005055,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",63,3,20,{}
+4005056,Cell Jrs.' Disruption,1,0,13,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",90,0,0,{}
+4005057,Cell Jrs.' Encirclement,1,0,13,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",90,0,0,{}
+4005058,Cell Jrs.' Dash,1,0,13,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",90,0,0,{}
+4005059,Cell Jrs.' Conspiracy,1,0,13,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",90,0,0,{}
+4005060,Secret Power,1,0,81,1,0,,0,1,0,100,,0,0,70,{}
+4005061,Power-Up Phase 2,1,0,78,1,0,,0,1,0,100,,0,0,0,{}
 5000948,Remarkable Adaptability,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 5000952,Plus Energy,7,0,110,1,0,,0,1,0,100,,2,3000952,0,{}
 5000953,Plus Energy of Justice,7,0,110,1,0,,0,1,0,100,,2,3000953,0,{}
@@ -16618,6 +16726,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5005013,Ultimate Battle,1,0,91,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",30,0,0,{}
 5005014,Super Saiyan Is Here!,1,0,2,12,0,,2,1,0,100,,70,0,0,{}
 5005015,Rage Echoing Across Planet Namek,1,0,5,12,0,,0,1,0,100,,2,0,0,{}
+5005016,Enemy Investigation,6,0,3,1,0,,2,99,1,100,"{""source"": ""141"", ""compiled"": 141}",200,200,0,{}
+5005017,Android Research,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",40,99999,1,{}
+5005018,Data Transmission,15,0,1,2,0,,2,1,0,100,"{""source"": ""1285"", ""compiled"": 1285}",7,0,0,{}
 5005019,#21's Inner Conflicts,7,0,1,1,0,,2,4,0,100,"{""source"": ""24|365"", ""compiled"": [""|"", 24, 365]}",210,0,0,{}
 5005020,#21's Determination,1,0,13,1,0,,2,1,0,100,,79,0,0,{}
 5005021,Preying on All the Clones,1,0,3,1,0,,2,1,0,100,,221,221,0,{}
@@ -16626,13 +16737,23 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5005024,Rumblings of Dragon Ki,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
 5005025,Roar of a Dragon,1,0,91,1,0,,2,1,0,100,,70,0,0,{}
 5005026,End of Everything,11,0,13,1,0,,2,1,0,100,"{""source"": ""26|33"", ""compiled"": [""|"", 26, 33]}",80,0,0,{}
+5005030,Cell's Resurrection,1,0,3,2,84,,2,1,0,100,,20,20,0,{}
+5005031,Cell's Mockery,1,0,3,2,84,,2,1,0,100,,30,30,0,{}
+5005032,Cell's Counterattack,1,0,3,1,0,,2,1,0,100,,250,250,0,{}
 5005033,Countermeasures,4,0,1,1,0,,2,1,0,100,,250,0,0,{}
 5005034,Mamba's Treat,1,0,1,2,1079,,2,2,0,100,,50,0,0,{}
+5005035,Near Completion,1,0,5,13,84,,0,2,0,100,,3,0,0,{}
 5005036,Three Super Saiyans,1,0,96,1,0,,0,1,0,100,,4,3,0,{}
+5005037,Power Dwelling within Gohan,4,0,110,1,0,,0,1,0,100,,2,4005037,0,{}
+5005038,Power Manifested by Gohan,4,0,110,1,0,,0,1,0,100,,2,4005038,0,{}
+5005039,Power Converging on Gohan,1,0,3,1,0,,2,1,0,100,,258,258,0,{}
+5005040,Path to a Rematch,1,0,81,1,0,,0,1,0,100,,0,0,50,{}
+5005041,Path to Resurgence,1,0,81,1,0,,0,1,0,100,,0,0,70,{}
 5005042,Super Monster,1,0,5,2,201,,0,1,0,100,,3,0,0,{}
 5005043,Irrational Fury,1,0,13,1,0,,2,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",70,0,0,{}
 5005044,Quick-Witted,1,0,98,1,0,,2,99,0,100,,50,150,0,{}
 5005045,Double-Edged Sword,7,0,98,1,0,,2,99,0,100,"{""source"": ""24"", ""compiled"": 24}",50,150,0,{}
+5005046,Cell Jrs.' Intimidation,1,0,91,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",10,0,0,{}
 5005047,Captain's Counterattack,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",150,150,0,{}
 5005048,Diverse Poses!,4,0,81,1,0,,2,1,0,100,,0,0,70,{}
 5005049,Diverse Poses!,4,0,81,1,0,,2,1,0,100,,0,0,70,{}
@@ -16642,6 +16763,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 5005053,Top-Notch Pride!,1,0,51,1,0,,0,1,1,100,,1,0,0,{}
 5005054,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,,63,1,30,{}
 5005055,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,,63,1,30,{}
+5005056,Cell Jrs.' Disruption,1,0,91,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",10,0,0,{}
+5005057,Cell Jrs.' Encirclement,1,0,91,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",10,0,0,{}
+5005058,Cell Jrs.' Dash,1,0,91,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",10,0,0,{}
+5005059,Cell Jrs.' Conspiracy,1,0,91,1,0,,2,1,0,100,"{""source"": ""3808"", ""compiled"": 3808}",10,0,0,{}
+5005060,Secret Power,1,0,3,1,0,,2,1,0,100,"{""source"": ""3839"", ""compiled"": 3839}",200,200,0,{}
+5005061,Power-Up Phase 2,1,0,81,1,0,,0,1,0,100,"{""source"": ""2625"", ""compiled"": 2625}",0,0,100,{}
 6001115,Radiant Maiden's Beautiful Love,1,0,3,1,0,,2,1,0,100,"{""source"": ""82"", ""compiled"": 82}",15,15,0,{}
 6001122,Super Positivity,1,0,1,1,0,,2,1,0,100,"{""source"": ""86"", ""compiled"": 86}",20,0,0,{}
 6001125,A Role to Play,1,0,90,1,0,,0,1,0,100,"{""source"": ""89"", ""compiled"": 89}",7,0,0,{}
@@ -18135,6 +18262,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 6005013,Ultimate Battle,1,0,13,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",70,0,0,{}
 6005014,Super Saiyan Is Here!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",150,150,0,{}
 6005015,Rage Echoing Across Planet Namek,1,0,78,12,26,,0,1,0,100,,0,0,0,{}
+6005016,Enemy Investigation,6,0,1,1,0,,2,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",300,0,0,{}
+6005017,Android Research,6,0,13,1,0,,2,1,1,100,,70,0,0,{}
+6005018,Data Transmission,15,0,1,2,0,,2,1,0,100,"{""source"": ""301"", ""compiled"": 301}",7,0,0,{}
 6005019,#21's Inner Conflicts,1,0,81,1,0,,0,1,0,100,,0,100,70,{}
 6005020,#21's Determination,6,0,2,1,0,,2,1,0,100,,210,0,0,{}
 6005021,Preying on All the Clones,4,0,1,1,0,,2,1,0,100,,321,0,0,{}
@@ -18143,13 +18273,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 6005024,Rumblings of Dragon Ki,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",300,200,0,{}
 6005025,Roar of a Dragon,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
 6005026,End of Everything,4,0,1,1,0,,2,1,0,100,,250,0,0,{}
+6005030,Cell's Resurrection,4,0,1,1,0,,2,1,0,100,,100,0,0,{}
+6005031,Cell's Mockery,4,0,1,1,0,,2,1,0,100,,120,0,0,{}
+6005032,Cell's Counterattack,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
 6005033,Countermeasures,4,0,3,1,0,,2,1,0,100,"{""source"": ""2570"", ""compiled"": 2570}",200,200,0,{}
 6005034,Mamba's Treat,4,0,1,1,0,,2,1,0,100,,250,0,0,{}
+6005035,Near Completion,1,0,3,13,84,,2,2,0,100,,60,60,0,{}
 6005036,Three Super Saiyans,1,0,96,1,0,,0,1,0,100,,27,1,0,{}
+6005039,Power Converging on Gohan,1,0,96,1,0,,0,1,0,100,,63,1,0,{}
+6005040,Path to a Rematch,1,0,13,1,0,,2,1,0,100,,80,0,0,{}
+6005041,Path to Resurgence,1,0,13,1,0,,2,1,0,100,,70,0,0,{}
 6005042,Super Monster,1,0,3,2,201,,2,1,0,100,,50,50,0,{}
 6005043,Irrational Fury,1,0,90,1,0,,2,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",50,0,0,{}
 6005044,Quick-Witted,1,0,98,1,0,,2,99,0,100,,50,150,1,{}
 6005045,Double-Edged Sword,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",200,200,0,{}
+6005046,Cell Jrs.' Intimidation,1,0,3,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",150,150,0,{}
 6005047,Captain's Counterattack,1,2,78,1,0,,0,1,0,100,"{""source"": ""1636|804"", ""compiled"": [""|"", 1636, 804]}",0,0,0,{}
 6005048,Diverse Poses!,6,0,2,2,29,,2,1,0,100,,30,0,0,{}
 6005049,Diverse Poses!,6,0,2,2,29,,2,1,0,100,,30,0,0,{}
@@ -18159,6 +18297,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 6005053,Top-Notch Pride!,1,0,51,1,0,,0,1,1,100,,2,0,0,{}
 6005054,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,,63,3,30,{}
 6005055,Top-Notch Speed!,1,0,68,1,0,,2,1,0,100,,63,3,30,{}
+6005056,Cell Jrs.' Disruption,1,0,3,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",150,150,0,{}
+6005057,Cell Jrs.' Encirclement,1,0,3,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",150,150,0,{}
+6005058,Cell Jrs.' Dash,1,0,3,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",150,150,0,{}
+6005059,Cell Jrs.' Conspiracy,1,0,3,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",150,150,0,{}
+6005060,Secret Power,1,0,78,1,0,,0,1,0,100,"{""source"": ""3839"", ""compiled"": 3839}",0,0,0,{}
+6005061,Power-Up Phase 2,1,0,81,1,0,,0,1,0,100,"{""source"": ""2625"", ""compiled"": 2625}",0,0,100,{}
 7001115,Radiant Maiden's Beautiful Love,1,0,68,1,0,,0,1,0,100,,32,2,7777,{}
 7001122,Super Positivity,1,0,91,1,0,,2,1,0,100,"{""source"": ""86"", ""compiled"": 86}",15,0,0,{}
 7001125,A Role to Play,4,0,1,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",80,0,0,{}
@@ -19428,6 +19572,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 7005013,Ultimate Battle,4,0,1,1,0,,2,1,0,100,,200,0,0,{}
 7005014,Super Saiyan Is Here!,1,0,81,1,0,,0,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",0,0,100,{}
 7005015,Rage Echoing Across Planet Namek,1,0,13,1,0,,2,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",90,0,0,{}
+7005017,Android Research,6,0,3,1,0,,2,99,1,100,"{""source"": ""141"", ""compiled"": 141}",250,250,0,{}
+7005018,Data Transmission,15,0,1,2,0,,2,1,0,100,"{""source"": ""221"", ""compiled"": 221}",7,0,0,{}
 7005019,#21's Inner Conflicts,5,0,111,3,0,,0,1,1,100,"{""source"": ""1085"", ""compiled"": 1085}",0,0,0,{}
 7005020,#21's Determination,1,0,81,1,0,,0,1,0,100,,0,100,100,{}
 7005021,Preying on All the Clones,1,0,13,1,0,,2,1,0,100,,79,0,0,{}
@@ -19436,13 +19582,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 7005024,Rumblings of Dragon Ki,11,0,3,1,0,,2,1,0,100,"{""source"": ""26|33"", ""compiled"": [""|"", 26, 33]}",259,259,0,{}
 7005025,Roar of a Dragon,1,0,13,1,0,,2,1,0,100,,41,0,0,{}
 7005026,End of Everything,4,0,3,1,0,,2,1,0,100,"{""source"": ""739"", ""compiled"": 739}",200,200,0,{}
+7005030,Cell's Resurrection,6,0,2,1,0,,2,1,0,100,,150,0,0,{}
+7005031,Cell's Mockery,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
+7005032,Cell's Counterattack,1,0,81,1,0,,0,1,0,100,,0,0,70,{}
 7005033,Countermeasures,1,0,3,1,0,,2,1,0,100,"{""source"": ""1709|2572|3783"", ""compiled"": [""|"", 1709, 2572, 3783]}",250,250,0,{}
 7005034,Mamba's Treat,4,0,3,1,0,,2,1,0,100,"{""source"": ""2574"", ""compiled"": 2574}",250,250,0,{}
+7005035,Near Completion,1,0,3,1,0,,2,1,0,100,"{""source"": ""1095"", ""compiled"": 1095}",100,100,0,{}
 7005036,Three Super Saiyans,4,0,1,1,0,,2,1,0,100,,200,0,0,{}
+7005039,Power Converging on Gohan,1,0,13,1,0,,2,1,1,100,,80,0,0,{}
+7005040,Path to a Rematch,4,0,3,1,0,,2,1,0,100,,200,200,0,{}
+7005041,Path to Resurgence,4,0,3,1,0,,2,1,0,100,,300,300,0,{}
 7005042,Super Monster,1,0,2,1,0,,2,1,0,100,"{""source"": ""3801"", ""compiled"": 3801}",150,0,0,{}
 7005043,Irrational Fury,1,0,67,1,0,,0,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",31,32,0,{}
 7005044,Quick-Witted,5,0,98,1,0,,2,99,0,100,,50,150,0,{}
 7005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,,50,0,0,{}
+7005046,Cell Jrs.' Intimidation,1,0,13,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",90,0,0,{}
 7005047,Captain's Counterattack,1,2,13,1,0,,2,1,0,100,"{""source"": ""1636|804"", ""compiled"": [""|"", 1636, 804]}",60,0,0,{}
 7005048,Diverse Poses!,6,0,13,2,29,,2,1,0,100,,95,0,0,{}
 7005049,Diverse Poses!,6,0,13,2,29,,2,1,0,100,,95,0,0,{}
@@ -19452,6 +19606,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 7005053,Top-Notch Pride!,1,0,78,1,0,,0,1,0,100,"{""source"": ""757"", ""compiled"": 757}",0,0,0,{}
 7005054,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""2756"", ""compiled"": 2756}",10,0,0,{}
 7005055,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""2756"", ""compiled"": 2756}",10,0,0,{}
+7005056,Cell Jrs.' Disruption,1,0,13,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",90,0,0,{}
+7005057,Cell Jrs.' Encirclement,1,0,13,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",90,0,0,{}
+7005058,Cell Jrs.' Dash,1,0,13,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",90,0,0,{}
+7005059,Cell Jrs.' Conspiracy,1,0,13,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",90,0,0,{}
+7005060,Secret Power,11,0,91,1,0,,2,1,0,100,"{""source"": ""1802&2079"", ""compiled"": [""&"", 1802, 2079]}",60,0,0,{}
+7005061,Power-Up Phase 2,4,0,3,1,0,,2,1,0,100,"{""source"": ""3361"", ""compiled"": 3361}",300,300,0,{}
 8001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""22"", ""compiled"": 22}",7,0,0,{}
 8001249,Perfect Form Pride,1,0,1,1,0,,2,1,0,100,"{""source"": ""22"", ""compiled"": 22}",8,0,0,{}
 8001250,Perfect Form Nightmare,1,0,1,1,0,,2,1,0,100,"{""source"": ""22"", ""compiled"": 22}",10,0,0,{}
@@ -20523,6 +20683,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 8005013,Ultimate Battle,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
 8005014,Super Saiyan Is Here!,1,0,76,1,0,,0,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",0,0,0,{}
 8005015,Rage Echoing Across Planet Namek,4,0,110,1,0,,0,1,0,100,,2,7005015,0,{}
+8005017,Android Research,6,0,5,1,0,,0,99,1,100,"{""source"": ""1410"", ""compiled"": 1410}",8,0,0,{}
+8005018,Data Transmission,15,0,1,2,0,,2,1,0,100,"{""source"": ""302"", ""compiled"": 302}",7,0,0,{}
 8005019,#21's Inner Conflicts,5,0,111,3,0,,0,1,1,100,"{""source"": ""2636"", ""compiled"": 2636}",0,0,0,{}
 8005020,#21's Determination,1,0,90,1,0,,2,1,0,100,,70,0,0,{}
 8005021,Preying on All the Clones,1,0,90,1,0,,2,1,0,100,,50,0,0,{}
@@ -20531,13 +20693,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 8005024,Rumblings of Dragon Ki,11,0,90,1,0,,2,1,0,100,"{""source"": ""26|33"", ""compiled"": [""|"", 26, 33]}",20,0,0,{}
 8005025,Roar of a Dragon,1,0,3,1,0,,2,1,0,100,"{""source"": ""2204"", ""compiled"": 2204}",259,259,0,{}
 8005026,End of Everything,4,0,1,2,26,,2,2,0,100,"{""source"": ""611"", ""compiled"": 611}",15,0,0,{}
+8005030,Cell's Resurrection,5,0,81,1,0,,0,99,0,100,"{""source"": ""3790"", ""compiled"": 3790}",0,0,50,{}
+8005031,Cell's Mockery,5,0,81,1,0,,0,99,0,100,"{""source"": ""3790"", ""compiled"": 3790}",0,0,70,{}
+8005032,Cell's Counterattack,1,0,90,1,0,,2,1,0,100,,50,0,0,{}
 8005033,Countermeasures,1,0,91,1,0,,2,1,0,100,"{""source"": ""1709|2572|3783"", ""compiled"": [""|"", 1709, 2572, 3783]}",25,0,0,{}
 8005034,Mamba's Treat,4,0,1,1,0,,2,1,0,100,"{""source"": ""2574&2575|2574&2576|2574&2577|2574&2578|2574&2993"", ""compiled"": [""|"", [""&"", 2574, 2575], [""&"", 2574, 2576], [""&"", 2574, 2577], [""&"", 2574, 2578], [""&"", 2574, 2993]]}",800,0,0,{}
+8005035,Near Completion,1,0,3,1,0,,2,1,0,100,"{""source"": ""1096"", ""compiled"": 1096}",100,100,0,{}
 8005036,Three Super Saiyans,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
+8005039,Power Converging on Gohan,4,0,1,1,0,,2,1,0,100,"{""source"": ""3797"", ""compiled"": 3797}",158,0,0,{}
+8005040,Path to a Rematch,6,0,2,1,0,,2,1,0,100,,100,0,0,{}
+8005041,Path to Resurgence,6,0,2,1,0,,2,1,0,100,,150,0,0,{}
 8005042,Super Monster,1,0,91,1,0,,2,1,0,100,"{""source"": ""3801"", ""compiled"": 3801}",15,0,0,{}
 8005043,Irrational Fury,11,0,3,1,0,,2,1,0,100,"{""source"": ""33"", ""compiled"": 33}",250,250,0,{}
 8005044,Quick-Witted,5,0,98,1,0,,2,99,0,100,,50,150,1,{}
 8005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""960"", ""compiled"": 960}",50,0,0,{}
+8005046,Cell Jrs.' Intimidation,1,0,91,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",10,0,0,{}
 8005047,Captain's Counterattack,1,2,81,1,0,,0,1,0,100,"{""source"": ""1636|804"", ""compiled"": [""|"", 1636, 804]}",0,100,50,{}
 8005048,Diverse Poses!,1,0,13,1,0,,2,1,0,100,,80,0,0,{}
 8005049,Diverse Poses!,1,0,13,1,0,,2,1,0,100,,80,0,0,{}
@@ -20547,6 +20717,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 8005053,Top-Notch Pride!,4,0,81,1,0,,0,1,0,100,,0,0,70,{}
 8005054,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""1155"", ""compiled"": 1155}",10,0,0,{}
 8005055,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""1155"", ""compiled"": 1155}",10,0,0,{}
+8005056,Cell Jrs.' Disruption,1,0,91,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",10,0,0,{}
+8005057,Cell Jrs.' Encirclement,1,0,91,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",10,0,0,{}
+8005058,Cell Jrs.' Dash,1,0,91,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",10,0,0,{}
+8005059,Cell Jrs.' Conspiracy,1,0,91,1,0,,2,1,0,100,"{""source"": ""3809"", ""compiled"": 3809}",10,0,0,{}
+8005060,Secret Power,11,0,81,1,0,,0,1,0,100,"{""source"": ""1802&2079"", ""compiled"": [""&"", 1802, 2079]}",0,0,30,{}
+8005061,Power-Up Phase 2,5,0,9,3,0,,0,1,0,100,"{""source"": ""3840"", ""compiled"": 3840}",0,0,0,{}
 9001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""18"", ""compiled"": 18}",7,0,0,{}
 9001249,Perfect Form Pride,1,0,1,1,0,,2,1,0,100,"{""source"": ""18"", ""compiled"": 18}",8,0,0,{}
 9001250,Perfect Form Nightmare,1,0,1,1,0,,2,1,0,100,"{""source"": ""18"", ""compiled"": 18}",10,0,0,{}
@@ -21450,6 +21626,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 9005011,Tension Gripping Planet Namek,7,0,98,1,0,,2,1,0,100,"{""source"": ""24"", ""compiled"": 24}",20,100,2,{}
 9005014,Super Saiyan Is Here!,1,0,91,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",50,0,0,{}
 9005015,Rage Echoing Across Planet Namek,4,0,1,1,0,,2,1,0,100,,300,0,0,{}
+9005017,Android Research,6,0,1,1,0,,2,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",500,0,0,{}
+9005018,Data Transmission,15,0,90,2,0,,2,1,0,100,"{""source"": ""1992"", ""compiled"": 1992}",7,0,0,{}
 9005019,#21's Inner Conflicts,1,0,13,1,0,,2,1,0,100,"{""source"": ""3329"", ""compiled"": 3329}",79,0,0,{}
 9005020,#21's Determination,9,0,4,1,0,,2,1,0,100,,21,0,0,{}
 9005021,Preying on All the Clones,1,0,90,1,0,,2,1,0,100,"{""source"": ""728"", ""compiled"": 728}",100,0,0,{}
@@ -21458,13 +21636,19 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 9005024,Rumblings of Dragon Ki,11,0,91,1,0,,2,1,0,100,"{""source"": ""26|33"", ""compiled"": [""|"", 26, 33]}",30,0,0,{}
 9005025,Roar of a Dragon,1,0,91,1,0,,2,1,0,100,"{""source"": ""2204"", ""compiled"": 2204}",20,0,0,{}
 9005026,End of Everything,4,0,90,2,26,,2,2,0,100,"{""source"": ""611"", ""compiled"": 611}",15,0,0,{}
+9005032,Cell's Counterattack,1,0,3,2,84,,2,1,0,100,,40,40,0,{}
 9005033,Countermeasures,1,0,81,1,0,,0,1,0,100,"{""source"": ""1709|2572|3783"", ""compiled"": [""|"", 1709, 2572, 3783]}",0,0,70,{}
 9005034,Mamba's Treat,4,0,90,1,0,,2,1,0,100,"{""source"": ""2575|2576|2577|2578|2993"", ""compiled"": [""|"", 2575, 2576, 2577, 2578, 2993]}",100,0,0,{}
+9005035,Near Completion,1,0,101,1,0,,0,1,0,100,"{""source"": ""3786|3884"", ""compiled"": [""|"", 3786, 3884]}",0,0,0,{}
 9005036,Three Super Saiyans,1,0,1,1,0,,2,1,0,100,"{""source"": ""3036|3037"", ""compiled"": [""|"", 3036, 3037]}",200,0,0,{}
+9005039,Power Converging on Gohan,4,0,76,1,0,,0,1,0,100,"{""source"": ""3797"", ""compiled"": 3797}",0,0,0,{}
+9005040,Path to a Rematch,1,0,3,1,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",200,200,0,{}
+9005041,Path to Resurgence,1,0,3,1,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",250,250,0,{}
 9005042,Super Monster,1,0,90,1,0,,2,1,0,100,"{""source"": ""3801"", ""compiled"": 3801}",50,0,0,{}
 9005043,Irrational Fury,15,0,1,2,26,,2,3,0,100,"{""source"": ""33"", ""compiled"": 33}",25,0,0,{}
 9005044,Quick-Witted,15,0,5,2,0,,0,1,0,100,"{""source"": ""1835"", ""compiled"": 1835}",1,0,0,{}
 9005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""3778"", ""compiled"": 3778}",50,0,0,{}
+9005046,Cell Jrs.' Intimidation,1,0,3,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",150,150,0,{}
 9005047,Captain's Counterattack,1,2,3,1,0,,2,1,0,100,"{""source"": ""3593"", ""compiled"": 3593}",100,100,0,{}
 9005048,Diverse Poses!,4,0,110,1,0,,0,1,0,100,,2,8005048,0,{}
 9005049,Diverse Poses!,4,0,110,1,0,,0,1,0,100,,2,8005049,0,{}
@@ -21474,6 +21658,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 9005053,Top-Notch Pride!,1,0,68,1,0,,2,1,0,100,,63,1,30,{}
 9005054,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""779"", ""compiled"": 779}",10,0,0,{}
 9005055,Top-Notch Speed!,15,0,91,1,0,,2,1,0,100,"{""source"": ""779"", ""compiled"": 779}",10,0,0,{}
+9005056,Cell Jrs.' Disruption,1,0,3,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",150,150,0,{}
+9005057,Cell Jrs.' Encirclement,1,0,3,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",150,150,0,{}
+9005058,Cell Jrs.' Dash,1,0,3,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",150,150,0,{}
+9005059,Cell Jrs.' Conspiracy,1,0,3,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",150,150,0,{}
+9005060,Secret Power,11,0,81,1,0,,0,1,0,100,"{""source"": ""1802&2079"", ""compiled"": [""&"", 1802, 2079]}",0,0,30,{}
 10000338,The Final Decision,1,0,5,2,0,,0,1,0,100,,2,0,0,{}
 10000613,Signature Technique,4,0,1,1,0,,2,1,0,100,"{""source"": ""47"", ""compiled"": 47}",30,0,0,{}
 10001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""101"", ""compiled"": 101}",7,0,0,{}
@@ -22246,6 +22435,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 10005011,Tension Gripping Planet Namek,6,0,119,1,0,,0,1,0,70,"{""source"": ""1595&141&3046"", ""compiled"": [""&"", 1595, 141, 3046]}",0,0,0,{}
 10005014,Super Saiyan Is Here!,1,0,13,1,0,,2,1,0,100,"{""source"": ""3600|3698"", ""compiled"": [""|"", 3600, 3698]}",50,0,0,{}
 10005015,Rage Echoing Across Planet Namek,6,0,2,1,0,,2,1,0,100,,300,0,0,{}
+10005017,Android Research,6,0,97,1,0,,2,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",20,1,33,{}
+10005018,Data Transmission,15,0,90,2,0,,2,1,0,100,"{""source"": ""1285"", ""compiled"": 1285}",7,0,0,{}
 10005019,#21's Inner Conflicts,1,0,90,1,0,,2,1,0,100,,70,0,0,{}
 10005020,#21's Determination,1,0,3,2,637,,2,1,0,100,,21,21,0,{}
 10005021,Preying on All the Clones,4,0,90,1,0,,2,1,0,100,"{""source"": ""3773"", ""compiled"": 3773}",100,0,0,{}
@@ -22254,12 +22445,18 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 10005024,Rumblings of Dragon Ki,1,0,1,1,0,,2,1,0,100,"{""source"": ""2926"", ""compiled"": 2926}",259,0,0,{}
 10005025,Roar of a Dragon,4,0,1,1,0,,2,1,0,100,,859,0,0,{}
 10005026,End of Everything,4,0,2,2,26,,2,2,0,100,"{""source"": ""941"", ""compiled"": 941}",15,0,0,{}
+10005032,Cell's Counterattack,1,0,2,2,1081,,2,1,0,100,,20,0,0,{}
 10005033,Countermeasures,7,0,3,1,0,,2,99,1,100,"{""source"": ""365"", ""compiled"": 365}",250,250,0,{}
 10005034,Mamba's Treat,5,0,111,3,0,,0,1,0,100,"{""source"": ""2575|2576|2577|2578|2993"", ""compiled"": [""|"", 2575, 2576, 2577, 2578, 2993]}",0,0,0,{}
+10005035,Near Completion,1,0,78,1,0,,0,1,0,100,"{""source"": ""3786|3884"", ""compiled"": [""|"", 3786, 3884]}",0,0,0,{}
 10005036,Three Super Saiyans,1,0,67,1,0,,0,1,0,100,"{""source"": ""3036|3037"", ""compiled"": [""|"", 3036, 3037]}",25,4,0,{}
+10005039,Power Converging on Gohan,4,0,1,1,0,,2,1,0,100,"{""source"": ""3798"", ""compiled"": 3798}",158,0,0,{}
+10005040,Path to a Rematch,1,0,81,1,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",0,0,70,{}
+10005041,Path to Resurgence,1,0,101,1,0,,0,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",0,0,0,{}
 10005042,Super Monster,4,0,3,1,0,,2,1,0,100,"{""source"": ""3228"", ""compiled"": 3228}",150,150,0,{}
 10005044,Quick-Witted,15,0,3,2,0,,2,1,0,100,"{""source"": ""1835"", ""compiled"": 1835}",20,20,0,{}
 10005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",50,0,0,{}
+10005046,Cell Jrs.' Intimidation,1,0,13,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",90,0,0,{}
 10005047,Captain's Counterattack,1,2,3,1,0,,2,1,0,100,"{""source"": ""960"", ""compiled"": 960}",100,100,0,{}
 10005048,Diverse Poses!,1,0,3,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",200,200,0,{}
 10005049,Diverse Poses!,1,0,3,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",200,200,0,{}
@@ -22269,6 +22466,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 10005053,Top-Notch Pride!,1,0,68,1,0,,2,1,0,100,,63,3,30,{}
 10005054,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""2756"", ""compiled"": 2756}",90,0,0,{}
 10005055,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""2756"", ""compiled"": 2756}",90,0,0,{}
+10005056,Cell Jrs.' Disruption,1,0,13,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",90,0,0,{}
+10005057,Cell Jrs.' Encirclement,1,0,13,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",90,0,0,{}
+10005058,Cell Jrs.' Dash,1,0,13,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",90,0,0,{}
+10005059,Cell Jrs.' Conspiracy,1,0,13,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",90,0,0,{}
+10005060,Secret Power,11,0,81,1,0,,0,1,0,100,"{""source"": ""1802&2079"", ""compiled"": [""&"", 1802, 2079]}",0,0,30,{}
 10010001,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,,1000,800,0,{}
 10010002,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
 10010003,Node-Specific Skill,1,1,68,1,0,,2,1,0,100,,63,1,150,{}
@@ -22313,8 +22515,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 10010046,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,"{""source"": ""3704"", ""compiled"": 3704}",200,200,0,{}
 10010047,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,,500,500,0,{}
 10010048,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,,800,800,0,{}
+10010049,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010050,Node-Specific Skill,1,1,13,1,0,,2,1,0,100,,20,0,0,{}
+10010051,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010052,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010053,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010054,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010055,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+10010056,Node-Specific Skill,1,1,1,1,0,,2,2,1,100,,100,0,0,{}
+10010057,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
 10020005,The Super Saiyan's Final Showdown,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
 10020006,The Emperor's Final Showdown,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
+10020007,Bloating Anger,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
+10020008,Shattering Blast,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
+10020009,A Serious Game,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
+10020012,Impeccable,1,0,90,1,0,,2,1,0,100,,100,0,0,{}
 11001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""102"", ""compiled"": 102}",7,0,0,{}
 11001249,Perfect Form Pride,1,0,1,1,0,,2,1,0,100,"{""source"": ""102"", ""compiled"": 102}",8,0,0,{}
 11001250,Perfect Form Nightmare,1,0,1,1,0,,2,1,0,100,"{""source"": ""102"", ""compiled"": 102}",10,0,0,{}
@@ -22985,6 +23200,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 11005011,Tension Gripping Planet Namek,6,0,120,1,0,,0,1,0,70,"{""source"": ""1595&141&3046"", ""compiled"": [""&"", 1595, 141, 3046]}",0,300,37,{}
 11005014,Super Saiyan Is Here!,4,0,1,1,0,,2,1,0,100,,300,0,0,{}
 11005015,Rage Echoing Across Planet Namek,7,0,90,1,0,,2,99,1,100,"{""source"": ""24"", ""compiled"": 24}",50,0,0,{}
+11005017,Android Research,1,1,101,1,0,,0,1,0,100,"{""source"": ""3771"", ""compiled"": 3771}",0,0,0,{}
+11005018,Data Transmission,15,0,90,2,0,,2,1,0,100,"{""source"": ""301"", ""compiled"": 301}",7,0,0,{}
 11005019,#21's Inner Conflicts,5,0,13,1,0,,2,1,1,100,"{""source"": ""1085"", ""compiled"": 1085}",79,0,0,{}
 11005020,#21's Determination,1,0,3,2,138,,2,1,0,100,,21,21,0,{}
 11005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&3041&3042"", ""compiled"": [""&"", 1286, 3041, 3042]}",40,0,0,{}
@@ -22993,12 +23210,18 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 11005024,Rumblings of Dragon Ki,1,0,90,1,0,,2,1,0,100,"{""source"": ""2926"", ""compiled"": 2926}",50,0,0,{}
 11005025,Roar of a Dragon,4,0,91,1,0,,2,1,0,100,,100,0,0,{}
 11005026,End of Everything,6,0,2,1,0,,2,1,0,100,,250,0,0,{}
+11005032,Cell's Counterattack,1,0,13,2,1081,,2,1,0,100,,90,0,0,{}
 11005033,Countermeasures,7,0,76,1,0,,0,99,1,100,"{""source"": ""365"", ""compiled"": 365}",0,0,0,{}
 11005034,Mamba's Treat,1,0,3,1,0,,2,1,0,100,"{""source"": ""1709|2580|3783"", ""compiled"": [""|"", 1709, 2580, 3783]}",250,250,0,{}
+11005035,Near Completion,4,0,3,1,0,,2,1,0,100,"{""source"": ""926"", ""compiled"": 926}",280,280,0,{}
 11005036,Three Super Saiyans,15,0,81,1,0,,2,1,0,100,"{""source"": ""461"", ""compiled"": 461}",0,0,70,{}
+11005039,Power Converging on Gohan,4,0,90,1,0,,2,1,0,100,"{""source"": ""3798"", ""compiled"": 3798}",100,0,0,{}
+11005040,Path to a Rematch,1,0,5,2,0,,0,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",1,0,0,{}
+11005041,Path to Resurgence,1,0,81,1,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",0,0,100,{}
 11005042,Super Monster,5,0,98,1,0,,2,99,0,100,,30,150,0,{}
 11005044,Quick-Witted,1,0,68,1,0,,2,1,0,100,,32,2,6,{}
 11005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",50,0,0,{}
+11005046,Cell Jrs.' Intimidation,1,0,91,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",10,0,0,{}
 11005047,Captain's Counterattack,1,2,3,1,0,,2,1,0,100,"{""source"": ""3690"", ""compiled"": 3690}",100,100,0,{}
 11005048,Diverse Poses!,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
 11005049,Diverse Poses!,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
@@ -23008,6 +23231,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 11005053,Top-Notch Pride!,1,0,68,1,0,,2,1,0,100,,8,4,10,{}
 11005054,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""1155"", ""compiled"": 1155}",90,0,0,{}
 11005055,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""1155"", ""compiled"": 1155}",90,0,0,{}
+11005056,Cell Jrs.' Disruption,1,0,91,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",10,0,0,{}
+11005057,Cell Jrs.' Encirclement,1,0,91,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",10,0,0,{}
+11005058,Cell Jrs.' Dash,1,0,91,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",10,0,0,{}
+11005059,Cell Jrs.' Conspiracy,1,0,91,1,0,,2,1,0,100,"{""source"": ""3810"", ""compiled"": 3810}",10,0,0,{}
+11005060,Secret Power,11,0,2,1,0,,2,1,0,100,"{""source"": ""2922|2923"", ""compiled"": [""|"", 2922, 2923]}",250,0,0,{}
 12001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""103"", ""compiled"": 103}",7,0,0,{}
 12001249,Perfect Form Pride,1,0,1,1,0,,2,1,0,100,"{""source"": ""103"", ""compiled"": 103}",8,0,0,{}
 12001250,Perfect Form Nightmare,1,0,1,1,0,,2,1,0,100,"{""source"": ""103"", ""compiled"": 103}",10,0,0,{}
@@ -23588,6 +23816,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 12005011,Tension Gripping Planet Namek,7,0,110,1,0,,0,1,0,100,,2,10005011,0,{}
 12005014,Super Saiyan Is Here!,6,0,2,1,0,,2,1,0,100,,300,0,0,{}
 12005015,Rage Echoing Across Planet Namek,7,0,98,1,0,,2,1,0,100,"{""source"": ""24"", ""compiled"": 24}",50,99999,0,{}
+12005017,Android Research,20,1,1011,16,84,,0,1,0,100,"{""source"": ""277"", ""compiled"": 277}",1,1,5,{}
+12005018,Data Transmission,15,0,90,2,0,,2,1,0,100,"{""source"": ""221"", ""compiled"": 221}",7,0,0,{}
 12005019,#21's Inner Conflicts,5,0,91,1,0,,2,1,1,100,"{""source"": ""2636"", ""compiled"": 2636}",21,0,0,{}
 12005020,#21's Determination,1,0,3,2,149,,2,1,0,100,,21,21,0,{}
 12005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&602&9"", ""compiled"": [""&"", 1286, 602, 9]}",40,0,0,{}
@@ -23596,11 +23826,17 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 12005024,Rumblings of Dragon Ki,6,0,119,1,0,,0,1,0,70,"{""source"": ""1595"", ""compiled"": 1595}",0,0,25,{}
 12005025,Roar of a Dragon,12,0,117,1,0,,0,1,0,100,"{""source"": ""579|3048"", ""compiled"": [""|"", 579, 3048]}",0,0,0,{}
 12005026,End of Everything,1,0,91,1,0,,2,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",40,0,0,{}
+12005032,Cell's Counterattack,4,0,1,1,0,,2,1,0,100,,150,0,0,{}
 12005034,Mamba's Treat,1,0,13,1,0,,0,1,0,100,"{""source"": ""1709|2580|3783"", ""compiled"": [""|"", 1709, 2580, 3783]}",75,0,0,{}
+12005035,Near Completion,4,0,90,1,0,,2,1,0,100,"{""source"": ""926"", ""compiled"": 926}",18,0,0,{}
 12005036,Three Super Saiyans,15,0,81,1,0,,2,1,0,100,"{""source"": ""462"", ""compiled"": 462}",0,0,70,{}
+12005039,Power Converging on Gohan,6,0,2,1,0,,2,1,0,100,,258,0,0,{}
+12005040,Path to a Rematch,1,0,3,2,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",30,30,0,{}
+12005041,Path to Resurgence,1,0,5,2,0,,0,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",2,0,0,{}
 12005042,Super Monster,5,0,98,1,0,,2,99,0,100,,30,150,1,{}
 12005044,Quick-Witted,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",200,200,0,{}
 12005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""3814"", ""compiled"": 3814}",50,0,0,{}
+12005046,Cell Jrs.' Intimidation,1,0,3,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",150,150,0,{}
 12005047,Captain's Counterattack,5,2,98,1,0,,2,99,0,100,,30,99999,0,{}
 12005050,Diverse Abilities!,1,0,90,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",20,0,0,{}
 12005051,Diverse Abilities!,1,0,90,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",20,0,0,{}
@@ -23608,6 +23844,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 12005053,Top-Notch Pride!,4,0,68,1,0,,2,1,0,100,,8,1,30,{}
 12005054,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""779"", ""compiled"": 779}",90,0,0,{}
 12005055,Top-Notch Speed!,15,0,13,1,0,,2,1,0,100,"{""source"": ""779"", ""compiled"": 779}",90,0,0,{}
+12005056,Cell Jrs.' Disruption,1,0,3,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",150,150,0,{}
+12005057,Cell Jrs.' Encirclement,1,0,3,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",150,150,0,{}
+12005058,Cell Jrs.' Dash,1,0,3,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",150,150,0,{}
+12005059,Cell Jrs.' Conspiracy,1,0,3,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",150,150,0,{}
+12005060,Secret Power,11,0,81,1,0,,0,1,0,100,"{""source"": ""2922|2923"", ""compiled"": [""|"", 2922, 2923]}",0,0,100,{}
 13001248,Perfect Form Confidence,1,0,1,1,0,,2,1,0,100,"{""source"": ""104"", ""compiled"": 104}",7,0,0,{}
 13001249,Perfect Form Pride,1,0,1,1,0,,2,1,0,100,"{""source"": ""104"", ""compiled"": 104}",8,0,0,{}
 13001250,Perfect Form Nightmare,1,0,1,1,0,,2,1,0,100,"{""source"": ""104"", ""compiled"": 104}",10,0,0,{}
@@ -24099,6 +24340,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 13005007,Arinsu's Ambition,1,0,91,1,0,,2,1,0,100,,70,0,0,{}
 13005011,Tension Gripping Planet Namek,7,0,110,1,0,,0,1,0,100,,2,11005011,0,{}
 13005015,Rage Echoing Across Planet Namek,6,0,119,1,0,,0,1,0,70,"{""source"": ""1410&3046"", ""compiled"": [""&"", 1410, 3046]}",0,0,32,{}
+13005017,Android Research,7,0,110,1,0,,0,1,0,100,,2,10005017,0,{}
+13005018,Data Transmission,15,0,90,2,0,,2,1,0,100,"{""source"": ""302"", ""compiled"": 302}",7,0,0,{}
 13005020,#21's Determination,1,0,13,1,0,,2,1,0,100,"{""source"": ""3329"", ""compiled"": 3329}",79,0,0,{}
 13005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&22&67"", ""compiled"": [""&"", 1286, 22, 67]}",40,0,0,{}
 13005022,Careful Now...,1,0,91,1,0,,2,1,0,100,"{""source"": ""1764|3776|3779"", ""compiled"": [""|"", 1764, 3776, 3779]}",5,0,0,{}
@@ -24106,11 +24349,16 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 13005024,Rumblings of Dragon Ki,7,0,110,1,0,,0,1,0,100,,2,12005024,0,{}
 13005025,Roar of a Dragon,7,0,110,1,0,,0,1,0,100,"{""source"": ""24"", ""compiled"": 24}",2,7005025,0,{}
 13005026,End of Everything,1,0,13,1,0,,2,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",60,0,0,{}
+13005032,Cell's Counterattack,15,0,13,1,0,,2,1,0,100,,85,0,0,{}
 13005034,Mamba's Treat,1,0,1,2,0,,2,1,0,100,"{""source"": ""1709|2580|3783"", ""compiled"": [""|"", 1709, 2580, 3783]}",40,0,0,{}
+13005035,Near Completion,4,0,13,1,0,,2,1,0,100,"{""source"": ""926"", ""compiled"": 926}",82,0,0,{}
 13005036,Three Super Saiyans,15,0,81,1,0,,2,1,0,100,"{""source"": ""3035"", ""compiled"": 3035}",0,0,70,{}
+13005039,Power Converging on Gohan,15,0,13,1,0,,2,1,0,100,"{""source"": ""3794"", ""compiled"": 3794}",80,0,0,{}
+13005041,Path to Resurgence,1,0,3,2,0,,2,1,0,100,"{""source"": ""3891|3327"", ""compiled"": [""|"", 3891, 3327]}",50,50,0,{}
 13005042,Super Monster,5,0,98,1,0,,2,1,0,100,,10,100,3,{}
 13005044,Quick-Witted,1,0,91,1,0,,2,1,0,100,,5,0,0,{}
 13005045,Double-Edged Sword,1,0,2,1,0,,2,1,0,100,"{""source"": ""3815"", ""compiled"": 3815}",50,0,0,{}
+13005046,Cell Jrs.' Intimidation,1,0,13,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",90,0,0,{}
 13005047,Captain's Counterattack,5,2,98,1,0,,2,99,0,100,,20,99999,1,{}
 13005050,Diverse Abilities!,1,0,90,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",20,0,0,{}
 13005051,Diverse Abilities!,1,0,90,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",20,0,0,{}
@@ -24118,6 +24366,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 13005053,Top-Notch Pride!,4,0,68,1,0,,2,1,0,100,,8,3,30,{}
 13005054,Top-Notch Speed!,15,0,3,2,0,,2,1,0,100,"{""source"": ""221"", ""compiled"": 221}",50,50,0,{}
 13005055,Top-Notch Speed!,15,0,3,2,0,,2,1,0,100,"{""source"": ""221"", ""compiled"": 221}",50,50,0,{}
+13005056,Cell Jrs.' Disruption,1,0,13,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",90,0,0,{}
+13005057,Cell Jrs.' Encirclement,1,0,13,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",90,0,0,{}
+13005058,Cell Jrs.' Dash,1,0,13,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",90,0,0,{}
+13005059,Cell Jrs.' Conspiracy,1,0,13,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",90,0,0,{}
+13005060,Secret Power,11,0,3,12,84,,2,1,0,100,"{""source"": ""2922|2923"", ""compiled"": [""|"", 2922, 2923]}",60,60,0,{}
 14001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""164"", ""compiled"": 164}",1,0,0,{}
 14001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""176"", ""compiled"": 176}",6,0,0,{}
 14001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""176"", ""compiled"": 176}",7,0,0,{}
@@ -24541,16 +24794,22 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 14005007,Arinsu's Ambition,4,0,110,1,0,,0,1,0,100,,2,13005007,0,{}
 14005011,Tension Gripping Planet Namek,6,0,119,1,0,,0,1,0,100,"{""source"": ""1595&141&2505"", ""compiled"": [""&"", 1595, 141, 2505]}",0,0,0,{}
 14005015,Rage Echoing Across Planet Namek,7,0,110,1,0,,0,1,0,100,,2,13005015,0,{}
+14005018,Data Transmission,15,1,91,1,0,,2,1,1,100,"{""source"": ""665"", ""compiled"": 665}",100,0,0,{}
 14005020,#21's Determination,4,0,1,1,0,,2,1,0,100,"{""source"": ""3329"", ""compiled"": 3329}",210,0,0,{}
 14005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&18&66"", ""compiled"": [""&"", 1286, 18, 66]}",40,0,0,{}
 14005022,Careful Now...,1,0,91,1,0,,2,1,0,100,"{""source"": ""1765|3777|3780"", ""compiled"": [""|"", 1765, 3777, 3780]}",5,0,0,{}
 14005023,I Won't Be Gentle Like Before,1,0,91,1,0,,2,1,0,100,"{""source"": ""1765|3777|3780"", ""compiled"": [""|"", 1765, 3777, 3780]}",10,0,0,{}
 14005025,Roar of a Dragon,1,0,1,1,0,,2,1,0,100,"{""source"": ""2926"", ""compiled"": 2926}",259,0,0,{}
 14005026,End of Everything,1,0,3,4,0,,3,1,0,100,"{""source"": ""3290"", ""compiled"": 3290}",30,30,0,{}
+14005032,Cell's Counterattack,4,0,110,1,0,,0,1,0,100,,2,13005032,0,{}
 14005034,Mamba's Treat,1,0,1,4,0,,3,1,0,100,"{""source"": ""1709|2580|3783"", ""compiled"": [""|"", 1709, 2580, 3783]}",20,0,0,{}
+14005035,Near Completion,1,0,1,1,0,,2,1,0,100,"{""source"": ""3787|3788|3789"", ""compiled"": [""|"", 3787, 3788, 3789]}",100,0,0,{}
 14005036,Three Super Saiyans,15,0,90,1,0,,2,1,0,100,"{""source"": ""461"", ""compiled"": 461}",11,0,0,{}
+14005039,Power Converging on Gohan,4,0,110,1,0,,0,1,0,100,,2,13005039,0,{}
+14005041,Path to Resurgence,6,0,91,1,0,,2,1,1,100,"{""source"": ""2903"", ""compiled"": 2903}",100,0,0,{}
 14005044,Quick-Witted,1,0,91,1,0,,2,1,0,100,"{""source"": ""960"", ""compiled"": 960}",5,0,0,{}
 14005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,,93,0,0,{}
+14005046,Cell Jrs.' Intimidation,1,0,91,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",10,0,0,{}
 14005047,Captain's Counterattack,1,1,3,1,0,,2,1,0,100,"{""source"": ""982"", ""compiled"": 982}",180,180,0,{}
 14005050,Diverse Abilities!,1,0,2,2,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",30,0,0,{}
 14005051,Diverse Abilities!,1,0,2,2,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",30,0,0,{}
@@ -24558,6 +24817,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 14005053,Top-Notch Pride!,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",250,250,0,{}
 14005054,Top-Notch Speed!,15,0,81,1,0,,0,1,0,100,"{""source"": ""221"", ""compiled"": 221}",0,100,50,{}
 14005055,Top-Notch Speed!,15,0,81,1,0,,0,1,0,100,"{""source"": ""221"", ""compiled"": 221}",0,100,50,{}
+14005056,Cell Jrs.' Disruption,1,0,91,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",10,0,0,{}
+14005057,Cell Jrs.' Encirclement,1,0,91,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",10,0,0,{}
+14005058,Cell Jrs.' Dash,1,0,91,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",10,0,0,{}
+14005059,Cell Jrs.' Conspiracy,1,0,91,1,0,,2,1,0,100,"{""source"": ""3811"", ""compiled"": 3811}",10,0,0,{}
+14005060,Secret Power,4,0,3,1,0,,2,1,0,100,"{""source"": ""3361"", ""compiled"": 3361}",200,250,0,{}
 15001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""165"", ""compiled"": 165}",1,0,0,{}
 15001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""177"", ""compiled"": 177}",6,0,0,{}
 15001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""177"", ""compiled"": 177}",7,0,0,{}
@@ -24931,13 +25195,17 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 15005007,Arinsu's Ambition,1,0,13,1,0,,2,1,0,100,,90,0,0,{}
 15005011,Tension Gripping Planet Namek,6,0,120,1,0,,0,1,0,100,"{""source"": ""1595&141&2505"", ""compiled"": [""&"", 1595, 141, 2505]}",0,300,37,{}
 15005015,Rage Echoing Across Planet Namek,6,0,119,1,0,,0,1,0,100,"{""source"": ""1410&2505"", ""compiled"": [""&"", 1410, 2505]}",0,0,32,{}
+15005018,Data Transmission,6,0,91,1,0,,2,1,0,100,"{""source"": ""141"", ""compiled"": 141}",10,0,0,{}
 15005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&101&3043"", ""compiled"": [""&"", 1286, 101, 3043]}",40,0,0,{}
 15005022,Careful Now...,1,0,13,1,0,,2,1,0,100,"{""source"": ""1761|3774|3593"", ""compiled"": [""|"", 1761, 3774, 3593]}",95,0,0,{}
 15005023,I Won't Be Gentle Like Before,1,0,13,1,0,,2,1,0,100,"{""source"": ""1761|3774|3593"", ""compiled"": [""|"", 1761, 3774, 3593]}",90,0,0,{}
 15005025,Roar of a Dragon,1,0,91,1,0,,2,1,0,100,"{""source"": ""2926"", ""compiled"": 2926}",20,0,0,{}
+15005032,Cell's Counterattack,6,0,2,1,0,,2,1,0,100,,250,0,0,{}
+15005035,Near Completion,1,0,9,4,0,,0,1,0,100,"{""source"": ""3787|3788|3789"", ""compiled"": [""|"", 3787, 3788, 3789]}",0,0,0,{}
 15005036,Three Super Saiyans,15,0,13,1,0,,2,1,0,100,"{""source"": ""461"", ""compiled"": 461}",89,0,0,{}
 15005044,Quick-Witted,1,0,91,1,0,,2,1,0,100,"{""source"": ""3778"", ""compiled"": 3778}",5,0,0,{}
 15005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""960"", ""compiled"": 960}",93,0,0,{}
+15005046,Cell Jrs.' Intimidation,4,0,3,1,0,,2,1,0,100,,250,250,0,{}
 15005047,Captain's Counterattack,1,1,3,1,0,,2,1,0,100,"{""source"": ""983"", ""compiled"": 983}",180,180,0,{}
 15005050,Diverse Abilities!,4,0,81,1,0,,0,1,0,100,,0,0,50,{}
 15005051,Diverse Abilities!,4,0,81,1,0,,0,1,0,100,,0,0,50,{}
@@ -24945,6 +25213,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 15005053,Top-Notch Pride!,1,0,67,1,0,,0,1,0,100,"{""source"": ""3813"", ""compiled"": 3813}",30,1,0,{}
 15005054,Top-Notch Speed!,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",250,250,0,{}
 15005055,Top-Notch Speed!,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",250,250,0,{}
+15005056,Cell Jrs.' Disruption,4,0,3,1,0,,2,1,0,100,,250,250,0,{}
+15005057,Cell Jrs.' Encirclement,4,0,3,1,0,,2,1,0,100,,250,250,0,{}
+15005058,Cell Jrs.' Dash,4,0,3,1,0,,2,1,0,100,,250,250,0,{}
+15005059,Cell Jrs.' Conspiracy,4,0,3,1,0,,2,1,0,100,,250,250,0,{}
+15005060,Secret Power,1,0,90,1,0,,2,1,0,100,"{""source"": ""2587"", ""compiled"": 2587}",100,0,0,{}
 16001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""166"", ""compiled"": 166}",1,0,0,{}
 16001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""178"", ""compiled"": 178}",6,0,0,{}
 16001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""178"", ""compiled"": 178}",7,0,0,{}
@@ -25254,12 +25527,16 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 16005007,Arinsu's Ambition,4,0,110,1,0,,0,1,0,100,,2,15005007,0,{}
 16005011,Tension Gripping Planet Namek,7,0,110,1,0,,0,1,0,100,,2,14005011,0,{}
 16005015,Rage Echoing Across Planet Namek,7,0,110,1,0,,0,1,0,100,,2,15005015,0,{}
+16005018,Data Transmission,6,0,110,1,0,,0,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",2,15005018,0,{}
 16005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&102&3044"", ""compiled"": [""&"", 1286, 102, 3044]}",40,0,0,{}
 16005022,Careful Now...,1,0,13,1,0,,2,1,0,100,"{""source"": ""1762|3047|3600"", ""compiled"": [""|"", 1762, 3047, 3600]}",95,0,0,{}
 16005023,I Won't Be Gentle Like Before,1,0,13,1,0,,2,1,0,100,"{""source"": ""1762|3047|3600"", ""compiled"": [""|"", 1762, 3047, 3600]}",90,0,0,{}
+16005032,Cell's Counterattack,4,0,81,1,0,,0,1,0,100,"{""source"": ""3793"", ""compiled"": 3793}",0,0,100,{}
+16005035,Near Completion,1,0,90,1,0,,2,1,0,100,"{""source"": ""3787|3788|3789"", ""compiled"": [""|"", 3787, 3788, 3789]}",100,0,0,{}
 16005036,Three Super Saiyans,15,0,90,1,0,,2,1,0,100,"{""source"": ""462"", ""compiled"": 462}",11,0,0,{}
 16005044,Quick-Witted,1,0,91,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",5,0,0,{}
 16005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""3778"", ""compiled"": 3778}",93,0,0,{}
+16005046,Cell Jrs.' Intimidation,1,0,81,1,0,,0,1,0,100,,0,0,100,{}
 16005047,Captain's Counterattack,1,1,3,1,0,,2,1,0,100,"{""source"": ""984"", ""compiled"": 984}",180,180,0,{}
 16005050,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3593"", ""compiled"": 3593}",60,60,0,{}
 16005051,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3593"", ""compiled"": 3593}",60,60,0,{}
@@ -25267,6 +25544,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 16005053,Top-Notch Pride!,4,0,110,1,0,,0,1,0,100,,2,15005053,0,{}
 16005054,Top-Notch Speed!,1,0,67,1,0,,0,1,0,100,"{""source"": ""3813"", ""compiled"": 3813}",23,8,0,{}
 16005055,Top-Notch Speed!,1,0,67,1,0,,0,1,0,100,"{""source"": ""3813"", ""compiled"": 3813}",23,8,0,{}
+16005056,Cell Jrs.' Disruption,1,0,81,1,0,,0,1,0,100,,0,0,100,{}
+16005057,Cell Jrs.' Encirclement,1,0,81,1,0,,0,1,0,100,,0,0,100,{}
+16005058,Cell Jrs.' Dash,1,0,81,1,0,,0,1,0,100,,0,0,100,{}
+16005059,Cell Jrs.' Conspiracy,1,0,81,1,0,,0,1,0,100,,0,0,100,{}
+16005060,Secret Power,1,0,103,1,0,,0,1,0,100,"{""source"": ""2588|2589&2587"", ""compiled"": [""|"", 2588, [""&"", 2589, 2587]]}",4027011,1,1752,{}
 17001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""167"", ""compiled"": 167}",1,0,0,{}
 17001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""179"", ""compiled"": 179}",6,0,0,{}
 17001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""179"", ""compiled"": 179}",7,0,0,{}
@@ -25529,12 +25811,16 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 17005007,Arinsu's Ambition,6,0,2,1,0,,2,1,0,100,,200,0,0,{}
 17005011,Tension Gripping Planet Namek,7,0,110,1,0,,0,1,0,100,,2,15005011,0,{}
 17005015,Rage Echoing Across Planet Namek,6,0,81,1,0,,2,99,1,100,"{""source"": ""1410"", ""compiled"": 1410}",0,0,50,{}
+17005018,Data Transmission,7,0,110,1,0,,0,1,0,100,,2,15005018,0,{}
 17005021,Preying on All the Clones,14,0,4,1,0,,2,1,0,100,"{""source"": ""1286&103&3045"", ""compiled"": [""&"", 1286, 103, 3045]}",40,0,0,{}
 17005022,Careful Now...,1,0,13,1,0,,2,1,0,100,"{""source"": ""1763|3775|3778"", ""compiled"": [""|"", 1763, 3775, 3778]}",95,0,0,{}
 17005023,I Won't Be Gentle Like Before,1,0,13,1,0,,2,1,0,100,"{""source"": ""1763|3775|3778"", ""compiled"": [""|"", 1763, 3775, 3778]}",90,0,0,{}
+17005032,Cell's Counterattack,5,0,81,1,0,,0,99,0,100,"{""source"": ""3790"", ""compiled"": 3790}",0,0,100,{}
+17005035,Near Completion,1,0,1,1,0,,2,5,1,100,"{""source"": ""3873"", ""compiled"": 3873}",120,0,0,{}
 17005036,Three Super Saiyans,15,0,13,1,0,,2,1,0,100,"{""source"": ""462"", ""compiled"": 462}",89,0,0,{}
 17005044,Quick-Witted,1,0,13,1,0,,2,1,0,100,,90,0,0,{}
 17005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",93,0,0,{}
+17005046,Cell Jrs.' Intimidation,4,0,110,1,0,,0,1,0,100,"{""source"": ""3820&3046"", ""compiled"": [""&"", 3820, 3046]}",2,15005046,0,{}
 17005047,Captain's Counterattack,1,1,90,1,0,,2,1,0,100,"{""source"": ""982"", ""compiled"": 982}",10,0,0,{}
 17005050,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3600"", ""compiled"": 3600}",60,60,0,{}
 17005051,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3600"", ""compiled"": 3600}",60,60,0,{}
@@ -25542,6 +25828,10 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 17005053,Top-Notch Pride!,1,0,3,1,0,,2,1,0,100,"{""source"": ""757"", ""compiled"": 757}",200,200,0,{}
 17005054,Top-Notch Speed!,4,0,110,1,0,,0,1,0,100,,2,16005054,0,{}
 17005055,Top-Notch Speed!,4,0,110,1,0,,0,1,0,100,,2,16005055,0,{}
+17005056,Cell Jrs.' Disruption,4,0,110,1,0,,0,1,0,100,"{""source"": ""3821&3046"", ""compiled"": [""&"", 3821, 3046]}",2,15005056,0,{}
+17005057,Cell Jrs.' Encirclement,4,0,110,1,0,,0,1,0,100,"{""source"": ""3822&3046"", ""compiled"": [""&"", 3822, 3046]}",2,15005057,0,{}
+17005058,Cell Jrs.' Dash,4,0,110,1,0,,0,1,0,100,"{""source"": ""3823&3046"", ""compiled"": [""&"", 3823, 3046]}",2,15005058,0,{}
+17005059,Cell Jrs.' Conspiracy,4,0,110,1,0,,0,1,0,100,"{""source"": ""3824&3046"", ""compiled"": [""&"", 3824, 3046]}",2,15005059,0,{}
 18001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""168"", ""compiled"": 168}",1,0,0,{}
 18001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""180"", ""compiled"": 180}",6,0,0,{}
 18001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""180"", ""compiled"": 180}",7,0,0,{}
@@ -25751,17 +26041,25 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 18005007,Arinsu's Ambition,1,0,91,1,0,,2,1,0,100,"{""source"": ""3556"", ""compiled"": 3556}",20,0,0,{}
 18005011,Tension Gripping Planet Namek,7,0,2,13,26,,2,1,0,100,"{""source"": ""24"", ""compiled"": 24}",50,0,0,{}
 18005015,Rage Echoing Across Planet Namek,4,0,1,1,0,,2,1,1,100,,300,0,0,{}
+18005018,Data Transmission,6,1,91,1,0,,2,1,0,100,"{""source"": ""141"", ""compiled"": 141}",20,0,0,{}
 18005021,Preying on All the Clones,1,0,68,1,0,,2,1,0,100,,448,2,2,{}
 18005022,Careful Now...,1,0,13,1,0,,2,1,0,100,"{""source"": ""1764|3776|3779"", ""compiled"": [""|"", 1764, 3776, 3779]}",95,0,0,{}
 18005023,I Won't Be Gentle Like Before,1,0,13,1,0,,2,1,0,100,"{""source"": ""1764|3776|3779"", ""compiled"": [""|"", 1764, 3776, 3779]}",90,0,0,{}
+18005032,Cell's Counterattack,1,0,13,1,0,,2,1,0,100,"{""source"": ""3794"", ""compiled"": 3794}",90,0,0,{}
+18005035,Near Completion,1,0,2,1,0,,2,7,1,100,"{""source"": ""3873"", ""compiled"": 3873}",10,0,0,{}
 18005036,Three Super Saiyans,15,0,90,1,0,,2,1,0,100,"{""source"": ""3035"", ""compiled"": 3035}",11,0,0,{}
 18005044,Quick-Witted,1,0,13,1,0,,2,1,0,100,"{""source"": ""960"", ""compiled"": 960}",90,0,0,{}
 18005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",93,0,0,{}
+18005046,Cell Jrs.' Intimidation,1,0,110,1,0,,0,1,0,100,"{""source"": ""3820&3046"", ""compiled"": [""&"", 3820, 3046]}",2,16005046,0,{}
 18005047,Captain's Counterattack,1,1,90,1,0,,2,1,0,100,"{""source"": ""983"", ""compiled"": 983}",10,0,0,{}
 18005050,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3690"", ""compiled"": 3690}",60,60,0,{}
 18005051,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3690"", ""compiled"": 3690}",60,60,0,{}
 18005054,Top-Notch Speed!,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 18005055,Top-Notch Speed!,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
+18005056,Cell Jrs.' Disruption,1,0,110,1,0,,0,1,0,100,"{""source"": ""3821&3046"", ""compiled"": [""&"", 3821, 3046]}",2,16005056,0,{}
+18005057,Cell Jrs.' Encirclement,1,0,110,1,0,,0,1,0,100,"{""source"": ""3822&3046"", ""compiled"": [""&"", 3822, 3046]}",2,16005057,0,{}
+18005058,Cell Jrs.' Dash,1,0,110,1,0,,0,1,0,100,"{""source"": ""3823&3046"", ""compiled"": [""&"", 3823, 3046]}",2,16005058,0,{}
+18005059,Cell Jrs.' Conspiracy,1,0,110,1,0,,0,1,0,100,"{""source"": ""3824&3046"", ""compiled"": [""&"", 3824, 3046]}",2,16005059,0,{}
 19001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""169"", ""compiled"": 169}",1,0,0,{}
 19001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""181"", ""compiled"": 181}",6,0,0,{}
 19001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""181"", ""compiled"": 181}",7,0,0,{}
@@ -25929,17 +26227,25 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 19005005,Panzy's Specialty,4,0,1,1,0,,2,1,0,100,"{""source"": ""735|736"", ""compiled"": [""|"", 735, 736]}",300,0,0,{}
 19005007,Arinsu's Ambition,4,0,110,1,0,,0,1,0,100,,2,18005007,0,{}
 19005015,Rage Echoing Across Planet Namek,7,0,1,12,26,,2,1,0,100,"{""source"": ""24"", ""compiled"": 24}",50,0,0,{}
+19005018,Data Transmission,6,1,110,1,0,,0,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",2,18005018,0,{}
 19005021,Preying on All the Clones,1,0,3,2,637,,2,1,0,100,,21,21,0,{}
 19005022,Careful Now...,1,0,13,1,0,,2,1,0,100,"{""source"": ""1765|3777|3780"", ""compiled"": [""|"", 1765, 3777, 3780]}",95,0,0,{}
 19005023,I Won't Be Gentle Like Before,1,0,13,1,0,,2,1,0,100,"{""source"": ""1765|3777|3780"", ""compiled"": [""|"", 1765, 3777, 3780]}",90,0,0,{}
+19005032,Cell's Counterattack,1,0,3,2,1124,,2,1,0,100,,40,40,0,{}
+19005035,Near Completion,1,0,13,1,0,,2,7,1,100,"{""source"": ""3873"", ""compiled"": 3873}",96,0,0,{}
 19005036,Three Super Saiyans,15,0,13,1,0,,2,1,0,100,"{""source"": ""3035"", ""compiled"": 3035}",89,0,0,{}
 19005044,Quick-Witted,1,0,13,1,0,,2,1,0,100,"{""source"": ""3778"", ""compiled"": 3778}",90,0,0,{}
 19005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""3814"", ""compiled"": 3814}",93,0,0,{}
+19005046,Cell Jrs.' Intimidation,15,0,1,1,0,,2,99,1,100,"{""source"": ""796"", ""compiled"": 796}",250,0,0,{}
 19005047,Captain's Counterattack,1,1,90,1,0,,2,1,0,100,"{""source"": ""984"", ""compiled"": 984}",10,0,0,{}
 19005050,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",60,60,0,{}
 19005051,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",60,60,0,{}
 19005054,Top-Notch Speed!,6,0,68,1,0,,2,1,0,100,,1,3,30,{}
 19005055,Top-Notch Speed!,6,0,68,1,0,,2,1,0,100,,1,3,30,{}
+19005056,Cell Jrs.' Disruption,15,0,1,1,0,,2,99,1,100,"{""source"": ""2756"", ""compiled"": 2756}",250,0,0,{}
+19005057,Cell Jrs.' Encirclement,15,0,1,1,0,,2,99,1,100,"{""source"": ""3825"", ""compiled"": 3825}",250,0,0,{}
+19005058,Cell Jrs.' Dash,15,0,1,1,0,,2,99,1,100,"{""source"": ""3826"", ""compiled"": 3826}",250,0,0,{}
+19005059,Cell Jrs.' Conspiracy,15,0,1,1,0,,2,99,1,100,"{""source"": ""3827"", ""compiled"": 3827}",250,0,0,{}
 20001483,Honoring Our Brethren,1,0,5,1,0,,0,1,0,100,"{""source"": ""170"", ""compiled"": 170}",1,0,0,{}
 20001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""182"", ""compiled"": 182}",6,0,0,{}
 20001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""182"", ""compiled"": 182}",7,0,0,{}
@@ -26077,15 +26383,22 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 20004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3748"", ""compiled"": 3748}",20,0,0,{}
 20005005,Panzy's Specialty,4,0,90,1,0,,2,1,0,100,"{""source"": ""735|736"", ""compiled"": [""|"", 735, 736]}",30,0,0,{}
 20005007,Arinsu's Ambition,4,0,1,1,0,,2,1,0,100,"{""source"": ""3765|3767"", ""compiled"": [""|"", 3765, 3767]}",200,0,0,{}
+20005018,Data Transmission,7,1,110,1,0,,0,1,0,100,,2,18005018,0,{}
 20005021,Preying on All the Clones,1,0,3,2,138,,2,1,0,100,,21,21,0,{}
 20005022,Careful Now...,15,0,3,1,0,,2,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",100,100,0,{}
 20005023,I Won't Be Gentle Like Before,1,0,101,1,0,,0,1,0,100,"{""source"": ""3693"", ""compiled"": 3693}",0,0,0,{}
+20005035,Near Completion,1,0,90,1,0,,2,7,1,100,"{""source"": ""3873"", ""compiled"": 3873}",10,0,0,{}
 20005036,Three Super Saiyans,1,0,91,1,0,,2,1,0,100,,50,0,0,{}
 20005044,Quick-Witted,1,0,13,1,0,,2,1,0,100,"{""source"": ""3779"", ""compiled"": 3779}",90,0,0,{}
 20005045,Double-Edged Sword,1,0,13,1,0,,2,1,0,100,"{""source"": ""3815"", ""compiled"": 3815}",93,0,0,{}
+20005046,Cell Jrs.' Intimidation,15,0,91,1,0,,2,99,1,100,"{""source"": ""796"", ""compiled"": 796}",20,0,0,{}
 20005047,Captain's Counterattack,1,1,13,1,0,,2,1,0,100,"{""source"": ""982"", ""compiled"": 982}",90,0,0,{}
 20005050,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",60,60,0,{}
 20005051,Diverse Abilities!,1,0,3,1,0,,2,1,0,100,"{""source"": ""3780"", ""compiled"": 3780}",60,60,0,{}
+20005056,Cell Jrs.' Disruption,15,0,91,1,0,,2,99,1,100,"{""source"": ""2756"", ""compiled"": 2756}",20,0,0,{}
+20005057,Cell Jrs.' Encirclement,15,0,91,1,0,,2,99,1,100,"{""source"": ""3825"", ""compiled"": 3825}",20,0,0,{}
+20005058,Cell Jrs.' Dash,15,0,91,1,0,,2,99,1,100,"{""source"": ""3826"", ""compiled"": 3826}",20,0,0,{}
+20005059,Cell Jrs.' Conspiracy,15,0,91,1,0,,2,99,1,100,"{""source"": ""3827"", ""compiled"": 3827}",20,0,0,{}
 20010001,Node-Specific Skill,1,1,68,1,0,,2,1,0,100,,63,1,100,{}
 20010003,Node-Specific Skill,1,1,68,1,0,,2,1,0,100,,63,3,150,{}
 20010005,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,2,0,0,{}
@@ -26122,8 +26435,21 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 20010046,Node-Specific Skill,1,1,13,1,0,,2,1,0,100,"{""source"": ""3704"", ""compiled"": 3704}",85,0,0,{}
 20010047,Node-Specific Skill,1,1,5,2,35,,0,1,0,100,,3,0,0,{}
 20010048,Node-Specific Skill,1,1,5,2,170,,0,1,0,100,,3,0,0,{}
+20010049,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010050,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
+20010051,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010052,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010053,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010054,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010055,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+20010056,Node-Specific Skill,1,1,1,1,0,,2,1,1,100,,100,0,0,{}
+20010057,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
 20020005,The Super Saiyan's Final Showdown,1,0,5,1,0,,0,1,0,100,,5,0,0,{}
 20020006,The Emperor's Final Showdown,1,0,5,1,0,,0,1,0,100,,5,0,0,{}
+20020007,Bloating Anger,1,0,5,1,0,,0,1,0,100,,10,0,0,{}
+20020008,Shattering Blast,1,0,5,1,0,,0,1,0,100,,10,0,0,{}
+20020009,A Serious Game,1,0,5,1,0,,0,1,0,100,,10,0,0,{}
+20020012,Impeccable,1,0,5,1,0,,0,1,0,100,,6,0,0,{}
 21001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""183"", ""compiled"": 183}",6,0,0,{}
 21001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""183"", ""compiled"": 183}",7,0,0,{}
 21001501,Let's Go Even Further Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""183"", ""compiled"": 183}",10,0,0,{}
@@ -26245,13 +26571,20 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 21004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3748"", ""compiled"": 3748}",2,0,0,{}
 21005005,Panzy's Specialty,4,0,81,1,0,,2,1,0,100,"{""source"": ""735|736"", ""compiled"": [""|"", 735, 736]}",0,0,70,{}
 21005007,Arinsu's Ambition,4,0,1,1,0,,2,1,0,100,"{""source"": ""3766|3768"", ""compiled"": [""|"", 3766, 3768]}",200,0,0,{}
+21005018,Data Transmission,1,1,1009,1,0,,2,99,0,100,,150,1500,0,{}
 21005021,Preying on All the Clones,1,0,3,2,149,,2,1,0,100,,21,21,0,{}
 21005022,Careful Now...,15,0,91,1,0,,2,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",10,0,0,{}
 21005023,I Won't Be Gentle Like Before,15,0,3,1,0,,2,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",200,200,0,{}
+21005035,Near Completion,1,0,1,2,67,,2,1,1,100,"{""source"": ""3873"", ""compiled"": 3873}",90,0,0,{}
 21005036,Three Super Saiyans,1,0,51,1,0,,0,7,1,100,"{""source"": ""3038|211"", ""compiled"": [""|"", 3038, 211]}",1,2,0,{}
 21005044,Quick-Witted,1,0,81,1,0,,0,1,0,100,"{""source"": ""3637"", ""compiled"": 3637}",0,0,70,{}
 21005045,Double-Edged Sword,11,0,1,1,0,,2,1,1,100,"{""source"": ""2921"", ""compiled"": 2921}",2000,0,0,{}
+21005046,Cell Jrs.' Intimidation,15,0,78,1,0,,0,4,1,100,"{""source"": ""796"", ""compiled"": 796}",0,0,0,{}
 21005047,Captain's Counterattack,1,1,13,1,0,,2,1,0,100,"{""source"": ""983"", ""compiled"": 983}",90,0,0,{}
+21005056,Cell Jrs.' Disruption,15,0,2,13,0,,2,3,1,100,"{""source"": ""2756"", ""compiled"": 2756}",20,0,0,{}
+21005057,Cell Jrs.' Encirclement,15,0,1,13,0,,2,3,1,100,"{""source"": ""3825"", ""compiled"": 3825}",20,0,0,{}
+21005058,Cell Jrs.' Dash,15,0,91,1,0,,2,1,1,100,"{""source"": ""3826"", ""compiled"": 3826}",25,0,0,{}
+21005059,Cell Jrs.' Conspiracy,15,0,90,1,0,,2,4,1,100,"{""source"": ""3827"", ""compiled"": 3827}",100,0,0,{}
 22001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""184"", ""compiled"": 184}",6,0,0,{}
 22001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""184"", ""compiled"": 184}",7,0,0,{}
 22001501,Let's Go Even Further Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""184"", ""compiled"": 184}",10,0,0,{}
@@ -26355,12 +26688,19 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 22004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3749"", ""compiled"": 3749}",20,0,0,{}
 22005005,Panzy's Specialty,5,0,98,1,0,,2,99,0,100,"{""source"": ""435"", ""compiled"": 435}",50,200,0,{}
 22005007,Arinsu's Ambition,11,0,1,1,0,,2,1,0,100,"{""source"": ""2921"", ""compiled"": 2921}",300,0,0,{}
+22005018,Data Transmission,1,1,1009,1,0,,2,99,0,100,,30,300,1,{}
 22005021,Preying on All the Clones,6,0,2,1,0,,2,1,0,100,,221,0,0,{}
 22005022,Careful Now...,15,0,81,1,0,,0,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",0,0,70,{}
 22005023,I Won't Be Gentle Like Before,15,0,91,1,0,,2,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",20,0,0,{}
+22005035,Near Completion,1,0,13,2,67,,2,1,1,100,"{""source"": ""3873"", ""compiled"": 3873}",96,0,0,{}
 22005044,Quick-Witted,1,0,101,1,0,,0,1,0,100,"{""source"": ""3637"", ""compiled"": 3637}",0,0,0,{}
 22005045,Double-Edged Sword,11,0,13,1,0,,2,1,1,100,"{""source"": ""2921"", ""compiled"": 2921}",80,0,0,{}
+22005046,Cell Jrs.' Intimidation,15,0,5,1,0,,0,99,1,100,"{""source"": ""796"", ""compiled"": 796}",2,0,0,{}
 22005047,Captain's Counterattack,1,1,13,1,0,,2,1,0,100,"{""source"": ""984"", ""compiled"": 984}",90,0,0,{}
+22005056,Cell Jrs.' Disruption,15,0,91,13,0,,2,3,1,100,"{""source"": ""2756"", ""compiled"": 2756}",5,0,0,{}
+22005057,Cell Jrs.' Encirclement,15,0,90,13,0,,2,3,1,100,"{""source"": ""3825"", ""compiled"": 3825}",15,0,0,{}
+22005058,Cell Jrs.' Dash,15,0,5,1,0,,0,99,1,100,"{""source"": ""3826"", ""compiled"": 3826}",2,0,0,{}
+22005059,Cell Jrs.' Conspiracy,15,0,5,1,0,,0,99,1,100,"{""source"": ""3827"", ""compiled"": 3827}",2,0,0,{}
 23001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""185"", ""compiled"": 185}",6,0,0,{}
 23001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""185"", ""compiled"": 185}",7,0,0,{}
 23001501,Let's Go Even Further Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""185"", ""compiled"": 185}",10,0,0,{}
@@ -26448,11 +26788,17 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 23004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3749"", ""compiled"": 3749}",2,0,0,{}
 23005005,Panzy's Specialty,5,0,98,1,0,,2,99,0,100,"{""source"": ""435"", ""compiled"": 435}",50,200,1,{}
 23005007,Arinsu's Ambition,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|2964"", ""compiled"": [""|"", 24, 2964]}",50,200,0,{}
+23005018,Data Transmission,1,0,67,1,0,,0,1,0,100,,31,32,0,{}
 23005021,Preying on All the Clones,6,0,13,1,0,,2,1,1,100,"{""source"": ""3329"", ""compiled"": 3329}",79,0,0,{}
 23005022,Careful Now...,15,0,1,1,0,,2,1,0,100,"{""source"": ""1291"", ""compiled"": 1291}",100,0,0,{}
 23005023,I Won't Be Gentle Like Before,15,0,81,1,0,,0,1,0,100,"{""source"": ""1289"", ""compiled"": 1289}",0,0,100,{}
 23005044,Quick-Witted,1,0,91,16,138,,2,2,0,100,"{""source"": ""3637"", ""compiled"": 3637}",20,0,0,{}
+23005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",5,5,0,{}
 23005047,Captain's Counterattack,1,1,76,1,0,,0,1,0,100,"{""source"": ""1005"", ""compiled"": 1005}",0,0,0,{}
+23005056,Cell Jrs.' Disruption,15,0,5,1,0,,0,99,1,100,"{""source"": ""2756"", ""compiled"": 2756}",2,0,0,{}
+23005057,Cell Jrs.' Encirclement,15,0,5,1,0,,0,99,1,100,"{""source"": ""3825"", ""compiled"": 3825}",2,0,0,{}
+23005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",5,5,0,{}
+23005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",5,5,0,{}
 24001499,Let's Join the Fight Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""186"", ""compiled"": 186}",6,0,0,{}
 24001500,Let's Become Stronger Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""186"", ""compiled"": 186}",7,0,0,{}
 24001501,Let's Go Even Further Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""186"", ""compiled"": 186}",10,0,0,{}
@@ -26527,11 +26873,17 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 24004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3750"", ""compiled"": 3750}",20,0,0,{}
 24005005,Panzy's Specialty,4,0,1,2,138,,2,2,1,100,"{""source"": ""2648"", ""compiled"": 2648}",20,0,0,{}
 24005007,Arinsu's Ambition,7,0,98,1,0,,2,99,0,100,"{""source"": ""24|2964"", ""compiled"": [""|"", 24, 2964]}",50,200,1,{}
+24005018,Data Transmission,15,0,91,1,0,,2,1,0,100,"{""source"": ""1992"", ""compiled"": 1992}",5,0,0,{}
 24005021,Preying on All the Clones,1,0,91,1,0,,2,1,0,100,"{""source"": ""2558"", ""compiled"": 2558}",50,0,0,{}
 24005022,Careful Now...,15,0,90,1,0,,2,1,0,100,"{""source"": ""1291"", ""compiled"": 1291}",10,0,0,{}
 24005023,I Won't Be Gentle Like Before,15,0,1,1,0,,2,1,0,100,"{""source"": ""1291"", ""compiled"": 1291}",200,0,0,{}
 24005044,Quick-Witted,1,0,13,16,142,,2,2,0,100,"{""source"": ""3637"", ""compiled"": 3637}",95,0,0,{}
+24005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",1,0,0,{}
 24005047,Captain's Counterattack,1,1,81,1,0,,0,1,0,100,"{""source"": ""1005"", ""compiled"": 1005}",0,0,100,{}
+24005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",5,5,0,{}
+24005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",5,5,0,{}
+24005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",1,0,0,{}
+24005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",1,0,0,{}
 25001499,Let's Join the Fight Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""187"", ""compiled"": 187}",0,0,100,{}
 25001500,Let's Become Stronger Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""187"", ""compiled"": 187}",0,0,100,{}
 25001501,Let's Go Even Further Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""187"", ""compiled"": 187}",0,0,100,{}
@@ -26598,9 +26950,15 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 25004991,Terror of the Revived Cooler,1,0,13,1,0,,2,1,1,100,,70,0,0,{}
 25004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3750"", ""compiled"": 3750}",2,0,0,{}
 25005007,Arinsu's Ambition,4,0,13,1,0,,2,1,0,100,"{""source"": ""3227"", ""compiled"": 3227}",90,0,0,{}
+25005018,Data Transmission,15,0,91,1,0,,2,1,0,100,"{""source"": ""1285"", ""compiled"": 1285}",5,0,0,{}
 25005022,Careful Now...,4,0,3,1,0,,2,1,0,100,"{""source"": ""3224"", ""compiled"": 3224}",100,100,0,{}
 25005023,I Won't Be Gentle Like Before,15,0,90,1,0,,2,1,0,100,"{""source"": ""1291"", ""compiled"": 1291}",20,0,0,{}
+25005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",5,5,0,{}
 25005047,Captain's Counterattack,4,1,1,1,0,,2,1,0,100,"{""source"": ""3737"", ""compiled"": 3737}",100,0,0,{}
+25005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",1,0,0,{}
+25005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3885"", ""compiled"": 3885}",1,0,0,{}
+25005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",5,5,0,{}
+25005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",5,5,0,{}
 26001499,Let's Join the Fight Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""137"", ""compiled"": 137}",0,0,100,{}
 26001500,Let's Become Stronger Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""137"", ""compiled"": 137}",0,0,100,{}
 26001501,Let's Go Even Further Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""137"", ""compiled"": 137}",0,0,100,{}
@@ -26656,9 +27014,15 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 26004991,Terror of the Revived Cooler,4,0,110,1,0,,0,1,0,100,,2,21004991,0,{}
 26004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3751"", ""compiled"": 3751}",20,0,0,{}
 26005007,Arinsu's Ambition,4,0,1,2,637,,2,2,1,100,"{""source"": ""2648"", ""compiled"": 2648}",20,0,0,{}
+26005018,Data Transmission,15,0,91,1,0,,2,1,0,100,"{""source"": ""301"", ""compiled"": 301}",5,0,0,{}
 26005022,Careful Now...,4,0,68,1,0,,2,1,0,100,"{""source"": ""3224"", ""compiled"": 3224}",63,1,10,{}
 26005023,I Won't Be Gentle Like Before,4,0,3,1,0,,2,1,0,100,"{""source"": ""3228"", ""compiled"": 3228}",200,200,0,{}
+26005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",1,0,0,{}
 26005047,Captain's Counterattack,4,1,1,1,0,,2,1,0,100,"{""source"": ""3738"", ""compiled"": 3738}",100,0,0,{}
+26005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",5,5,0,{}
+26005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",5,5,0,{}
+26005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",1,0,0,{}
+26005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",1,0,0,{}
 27003411,Rescue Complete,5,0,48,3,0,,2,2,0,100,,0,0,0,{}
 27003435,Let's Go Even Further Together!,1,0,1,1,0,,2,1,0,100,"{""source"": ""2298"", ""compiled"": 2298}",10,0,0,{}
 27003856,Test of Rage,9,0,4,1,0,,2,1,0,100,"{""source"": ""2739"", ""compiled"": 2739}",6,0,0,{}
@@ -26701,9 +27065,15 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 27004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3567"", ""compiled"": [""&"", 3714, 3567]}",5,0,0,{}
 27004986,Telekinetic's Willpower,1,0,3,2,0,,2,1,0,100,"{""source"": ""1895"", ""compiled"": 1895}",10,10,0,{}
 27004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3751"", ""compiled"": 3751}",2,0,0,{}
+27005018,Data Transmission,15,0,91,1,0,,2,1,0,100,"{""source"": ""221"", ""compiled"": 221}",5,0,0,{}
 27005022,Careful Now...,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
 27005023,I Won't Be Gentle Like Before,4,0,68,1,0,,2,1,0,100,"{""source"": ""3228"", ""compiled"": 3228}",63,1,20,{}
+27005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",5,5,0,{}
 27005047,Captain's Counterattack,6,1,2,1,0,,2,1,0,100,"{""source"": ""3737"", ""compiled"": 3737}",100,0,0,{}
+27005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",1,0,0,{}
+27005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3886"", ""compiled"": 3886}",1,0,0,{}
+27005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",5,5,0,{}
+27005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",5,5,0,{}
 28003435,Let's Go Even Further Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""2299"", ""compiled"": 2299}",0,0,100,{}
 28003930,Beauty and Magnificence of Love,1,0,90,1,0,,2,1,0,100,"{""source"": ""2852"", ""compiled"": 2852}",10,0,0,{}
 28004056,Enhanced Sensitivity,1,0,91,1,0,,2,1,0,100,"{""source"": ""82"", ""compiled"": 82}",8,0,0,{}
@@ -26741,7 +27111,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 28004986,Telekinetic's Willpower,1,0,3,2,0,,2,1,0,100,"{""source"": ""1896"", ""compiled"": 1896}",10,10,0,{}
 28004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3752"", ""compiled"": 3752}",20,0,0,{}
 28005023,I Won't Be Gentle Like Before,1,0,5,1,0,,0,1,0,100,,2,0,0,{}
+28005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",1,0,0,{}
 28005047,Captain's Counterattack,6,1,2,1,0,,2,1,0,100,"{""source"": ""3738"", ""compiled"": 3738}",100,0,0,{}
+28005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",5,5,0,{}
+28005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",5,5,0,{}
+28005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",1,0,0,{}
+28005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",1,0,0,{}
 29003435,Let's Go Even Further Together!,4,0,81,1,0,,0,1,0,100,"{""source"": ""2300"", ""compiled"": 2300}",0,0,100,{}
 29003930,Beauty and Magnificence of Love,1,0,90,1,0,,2,1,0,100,"{""source"": ""2853"", ""compiled"": 2853}",10,0,0,{}
 29004056,Enhanced Sensitivity,1,0,91,1,0,,2,1,0,100,"{""source"": ""187|137"", ""compiled"": [""|"", 187, 137]}",100,0,0,{}
@@ -26775,7 +27150,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 29004986,Telekinetic's Willpower,4,0,2,1,0,,2,1,0,100,"{""source"": ""47"", ""compiled"": 47}",150,0,0,{}
 29004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3752"", ""compiled"": 3752}",2,0,0,{}
 29005023,I Won't Be Gentle Like Before,1,0,67,1,0,,0,1,0,100,"{""source"": ""3693"", ""compiled"": 3693}",31,32,0,{}
+29005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",5,5,0,{}
 29005047,Captain's Counterattack,1,2,91,1,0,,2,1,0,100,"{""source"": ""1636|804"", ""compiled"": [""|"", 1636, 804]}",20,0,0,{}
+29005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",1,0,0,{}
+29005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3887"", ""compiled"": 3887}",1,0,0,{}
+29005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",5,5,0,{}
+29005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",5,5,0,{}
 30003930,Beauty and Magnificence of Love,1,0,91,1,0,,2,1,0,100,"{""source"": ""2851"", ""compiled"": 2851}",4,0,0,{}
 30004056,Enhanced Sensitivity,7,0,1,2,0,,2,2,0,100,"{""source"": ""162&1578"", ""compiled"": [""&"", 162, 1578]}",16,0,0,{}
 30004057,Wavering Emotions,1,0,3,1,0,,2,1,0,100,"{""source"": ""456"", ""compiled"": 456}",160,160,0,{}
@@ -26805,6 +27185,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 30004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3570"", ""compiled"": [""&"", 3714, 3570]}",5,0,0,{}
 30004986,Telekinetic's Willpower,4,0,1,1,0,,2,1,0,100,"{""source"": ""33"", ""compiled"": 33}",150,0,0,{}
 30004995,Luud Power Level 2,4,0,1,1,0,,2,1,0,100,"{""source"": ""3753"", ""compiled"": 3753}",20,0,0,{}
+30005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",1,0,0,{}
+30005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",5,5,0,{}
+30005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",5,5,0,{}
+30005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",1,0,0,{}
+30005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",1,0,0,{}
 30010006,Node-Specific Skill,1,1,3,2,29,,2,1,0,100,,40,40,0,{}
 30010007,Node-Specific Skill,1,1,68,1,0,,2,1,0,100,,63,3,500,{}
 30010008,Node-Specific Skill,1,1,2,2,0,,2,1,0,100,,100,0,0,{}
@@ -26830,6 +27215,15 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 30010046,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,"{""source"": ""3770"", ""compiled"": 3770}",63,2,0,{}
 30010047,Node-Specific Skill,1,1,3,2,35,,2,1,0,100,,1000,1000,0,{}
 30010048,Node-Specific Skill,1,1,3,2,170,,2,1,0,100,,400,400,0,{}
+30010049,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010050,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
+30010051,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010052,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010053,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010054,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010055,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+30010056,Node-Specific Skill,1,1,13,1,0,,2,3,1,100,,90,0,0,{}
+30010057,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
 31003930,Beauty and Magnificence of Love,1,0,91,1,0,,2,1,0,100,"{""source"": ""2852"", ""compiled"": 2852}",4,0,0,{}
 31004056,Enhanced Sensitivity,1,0,1,1,0,,2,1,0,100,"{""source"": ""455"", ""compiled"": 455}",160,0,0,{}
 31004057,Wavering Emotions,1,0,78,1,0,,0,1,0,100,"{""source"": ""456"", ""compiled"": 456}",0,0,0,{}
@@ -26856,6 +27250,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 31004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3571"", ""compiled"": [""&"", 3714, 3571]}",5,0,0,{}
 31004986,Telekinetic's Willpower,4,0,81,1,0,,0,1,0,100,"{""source"": ""33"", ""compiled"": 33}",0,0,70,{}
 31004995,Luud Power Level 2,4,0,90,1,0,,2,1,0,100,"{""source"": ""3753"", ""compiled"": 3753}",2,0,0,{}
+31005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",5,5,0,{}
+31005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",1,0,0,{}
+31005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3888"", ""compiled"": 3888}",1,0,0,{}
+31005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",5,5,0,{}
+31005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",5,5,0,{}
 32003930,Beauty and Magnificence of Love,1,0,91,1,0,,2,1,0,100,"{""source"": ""2853"", ""compiled"": 2853}",4,0,0,{}
 32004056,Enhanced Sensitivity,1,0,81,1,0,,0,1,0,100,"{""source"": ""455"", ""compiled"": 455}",0,0,100,{}
 32004057,Wavering Emotions,1,0,81,1,0,,0,1,0,100,"{""source"": ""162"", ""compiled"": 162}",0,0,100,{}
@@ -26881,6 +27280,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 32004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3572"", ""compiled"": [""&"", 3714, 3572]}",5,0,0,{}
 32004986,Telekinetic's Willpower,9,0,4,1,0,,2,1,0,100,"{""source"": ""1286"", ""compiled"": 1286}",30,0,0,{}
 32004995,Luud Power Level 2,6,0,2,1,0,,2,1,0,100,"{""source"": ""3742"", ""compiled"": 3742}",20,0,0,{}
+32005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",1,0,0,{}
+32005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",5,5,0,{}
+32005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",5,5,0,{}
+32005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",1,0,0,{}
+32005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",1,0,0,{}
 33003930,Beauty and Magnificence of Love,1,0,68,1,0,,2,1,0,100,,448,2,2,{}
 33004057,Wavering Emotions,4,0,81,1,0,,0,1,0,100,"{""source"": ""137"", ""compiled"": 137}",0,0,100,{}
 33004099,True Power of the Robot Suit,15,0,3,1,0,,2,1,1,100,"{""source"": ""580&677"", ""compiled"": [""&"", 580, 677]}",30,30,0,{}
@@ -26901,6 +27305,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 33004966,Menacing Legion,7,0,3,2,1080,,2,99,0,100,"{""source"": ""933|3590"", ""compiled"": [""|"", 933, 3590]}",5,5,0,{}
 33004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3573"", ""compiled"": [""&"", 3714, 3573]}",5,0,0,{}
 33004995,Luud Power Level 2,6,0,13,1,0,,2,1,0,100,"{""source"": ""3742"", ""compiled"": 3742}",98,0,0,{}
+33005046,Cell Jrs.' Intimidation,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",5,5,0,{}
+33005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",1,0,0,{}
+33005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3889"", ""compiled"": 3889}",1,0,0,{}
+33005058,Cell Jrs.' Dash,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",5,5,0,{}
+33005059,Cell Jrs.' Conspiracy,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",5,5,0,{}
 34004099,True Power of the Robot Suit,15,0,3,1,0,,2,1,1,100,"{""source"": ""580&794"", ""compiled"": [""&"", 580, 794]}",30,30,0,{}
 34004136,Threat of Pure Evil,4,0,3,1,0,,2,1,0,100,"{""source"": ""46"", ""compiled"": 46}",60,60,0,{}
 34004189,Like a Human,15,0,3,16,0,,2,1,0,100,"{""source"": ""2065"", ""compiled"": 2065}",7,7,0,{}
@@ -26919,6 +27328,11 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 34004966,Menacing Legion,7,0,3,2,1080,,2,99,0,100,"{""source"": ""(933&3590)|2403|3785"", ""compiled"": [""|"", [""&"", 933, 3590], 2403, 3785]}",5,5,0,{}
 34004971,The Best Fruit,15,0,4,1,0,,2,1,0,100,"{""source"": ""3714&3574"", ""compiled"": [""&"", 3714, 3574]}",5,0,0,{}
 34004995,Luud Power Level 2,6,0,2,1,0,,2,1,0,100,"{""source"": ""3743"", ""compiled"": 3743}",20,0,0,{}
+34005046,Cell Jrs.' Intimidation,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",1,0,0,{}
+34005056,Cell Jrs.' Disruption,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",5,5,0,{}
+34005057,Cell Jrs.' Encirclement,4,0,3,16,1125,,2,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",5,5,0,{}
+34005058,Cell Jrs.' Dash,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",1,0,0,{}
+34005059,Cell Jrs.' Conspiracy,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",1,0,0,{}
 35004099,True Power of the Robot Suit,15,0,3,1,0,,2,1,1,100,"{""source"": ""580&795"", ""compiled"": [""&"", 580, 795]}",30,30,0,{}
 35004136,Threat of Pure Evil,4,0,1,1,0,,2,1,0,100,"{""source"": ""144"", ""compiled"": 144}",60,0,0,{}
 35004222,Let's Join Forces!!!,15,0,2,2,0,,2,2,0,100,"{""source"": ""3258"", ""compiled"": 3258}",7,0,0,{}
@@ -26931,6 +27345,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 35004965,Menacing Legion,7,0,3,2,1080,,2,99,0,100,"{""source"": ""(933&3785)|(3590&2403)|791|1676"", ""compiled"": [""|"", [""&"", 933, 3785], [""&"", 3590, 2403], 791, 1676]}",5,5,0,{}
 35004966,Menacing Legion,7,0,3,2,1080,,2,99,0,100,"{""source"": ""(933&3785)|(3590&2403)|791|1676"", ""compiled"": [""|"", [""&"", 933, 3785], [""&"", 3590, 2403], 791, 1676]}",5,5,0,{}
 35004995,Luud Power Level 2,6,0,13,1,0,,2,1,0,100,"{""source"": ""3743"", ""compiled"": 3743}",98,0,0,{}
+35005056,Cell Jrs.' Disruption,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",1,0,0,{}
+35005057,Cell Jrs.' Encirclement,3,0,5,16,1125,,0,2,0,100,"{""source"": ""3896"", ""compiled"": 3896}",1,0,0,{}
 36004099,True Power of the Robot Suit,15,0,3,1,0,,2,1,1,100,"{""source"": ""580&3099"", ""compiled"": [""&"", 580, 3099]}",30,30,0,{}
 36004136,Threat of Pure Evil,1,0,4,1,0,,2,1,0,100,,5,0,0,{}
 36004222,Let's Join Forces!!!,15,0,2,2,0,,2,2,0,100,"{""source"": ""3259"", ""compiled"": 3259}",7,0,0,{}
@@ -27005,6 +27421,9 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 40010046,Node-Specific Skill,11,1,3,1,0,,2,1,0,100,"{""source"": ""3770&(3296|3297)"", ""compiled"": [""&"", 3770, [""|"", 3296, 3297]]}",200,200,0,{}
 40010047,Node-Specific Skill,1,1,13,2,35,,2,1,0,100,,50,0,0,{}
 40010048,Node-Specific Skill,5,1,3,3,0,,3,2,0,100,,50,50,0,{}
+40010050,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
+40010051,Node-Specific Skill,1,1,1,1,0,,2,6,1,100,,100,0,0,{}
+40010056,Node-Specific Skill,1,1,13,1,0,,2,2,1,100,,90,0,0,{}
 41004222,Let's Join Forces!!!,15,0,2,2,0,,2,2,0,100,"{""source"": ""3264"", ""compiled"": 3264}",7,0,0,{}
 41004946,God of Destruction's Discerning Eye,1,0,90,2,989,,2,1,0,100,,25,0,0,{}
 41004965,Menacing Legion,7,0,3,2,1080,,2,99,0,100,"{""source"": ""(933&959)|(2403&1676)|(791&3785)|(746&3590)|681|3066"", ""compiled"": [""|"", [""&"", 933, 959], [""&"", 2403, 1676], [""&"", 791, 3785], [""&"", 746, 3590], 681, 3066]}",5,5,0,{}
@@ -27042,6 +27461,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 50010042,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
 50010045,Node-Specific Skill,1,1,5,1,0,,0,1,0,100,,3,0,0,{}
 50010046,Node-Specific Skill,1,1,13,1,0,,2,1,0,100,"{""source"": ""3770"", ""compiled"": 3770}",85,0,0,{}
+50010051,Node-Specific Skill,1,1,1,1,0,,2,5,1,100,,100,0,0,{}
+50010056,Node-Specific Skill,1,1,13,1,0,,2,1,1,100,,90,0,0,{}
 51004995,Luud Power Level 2,6,0,13,1,0,,2,1,0,100,"{""source"": ""3751"", ""compiled"": 3751}",98,0,0,{}
 52004995,Luud Power Level 2,6,0,2,1,0,,2,1,0,100,"{""source"": ""3752"", ""compiled"": 3752}",20,0,0,{}
 53004995,Luud Power Level 2,6,0,13,1,0,,2,1,0,100,"{""source"": ""3752"", ""compiled"": 3752}",98,0,0,{}
@@ -27059,6 +27480,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 60010036,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,"{""source"": ""579"", ""compiled"": 579}",700,0,0,{}
 60010045,Node-Specific Skill,1,1,13,1,0,,2,1,0,100,,45,0,0,{}
 60010046,Node-Specific Skill,4,1,110,1,0,,0,1,0,100,,2,50010046,0,{}
+60010051,Node-Specific Skill,1,1,1,1,0,,2,4,1,100,,100,0,0,{}
+60010056,Node-Specific Skill,1,1,96,1,0,,0,1,0,100,,63,2,0,{}
 61004995,Luud Power Level 2,1,0,13,1,0,,2,99,1,100,,98,0,0,{}
 62004995,Luud Power Level 2,1,0,13,1,0,,2,99,1,100,,98,0,0,{}
 63004995,Luud Power Level 2,1,0,13,1,0,,2,99,1,100,,98,0,0,{}
@@ -27074,6 +27497,8 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 70010035,Node-Specific Skill,1,1,5,1,0,,0,1,0,100,"{""source"": ""3737"", ""compiled"": 3737}",1,0,0,{}
 70010036,Node-Specific Skill,7,1,1,1,0,,3,99,0,100,"{""source"": ""933"", ""compiled"": 933}",100,0,0,{}
 70010046,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,"{""source"": ""3733"", ""compiled"": 3733}",500,500,0,{}
+70010051,Node-Specific Skill,1,1,1,1,0,,2,3,1,100,,100,0,0,{}
+70010056,Node-Specific Skill,1,1,5,2,0,,0,1,0,100,,3,0,0,{}
 71004995,Luud Power Level 2,7,0,110,1,0,,0,1,0,100,"{""source"": ""3834"", ""compiled"": 3834}",2,61004995,0,{}
 72004995,Luud Power Level 2,7,0,110,1,0,,0,1,0,100,"{""source"": ""3835"", ""compiled"": 3835}",2,62004995,0,{}
 73004995,Luud Power Level 2,7,0,110,1,0,,0,1,0,100,"{""source"": ""3836"", ""compiled"": 3836}",2,63004995,0,{}
@@ -27087,9 +27512,12 @@ id,name,exec_timing_type,exec_game_type,efficacy_type,target_type,sub_target_typ
 80010035,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,"{""source"": ""3737"", ""compiled"": 3737}",1000,1000,0,{}
 80010036,Node-Specific Skill,7,1,1,1,0,,3,99,0,100,"{""source"": ""2403"", ""compiled"": 2403}",100,0,0,{}
 80010046,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,"{""source"": ""3737"", ""compiled"": 3737}",600,0,0,{}
+80010051,Node-Specific Skill,1,1,1,1,0,,2,2,1,100,,100,0,0,{}
+80010056,Node-Specific Skill,1,1,3,2,0,,2,1,0,100,,100,100,0,{}
 90010035,Node-Specific Skill,1,1,5,1,0,,0,1,0,100,"{""source"": ""3738"", ""compiled"": 3738}",1,0,0,{}
 90010036,Node-Specific Skill,7,1,1,1,0,,3,99,0,100,"{""source"": ""791"", ""compiled"": 791}",100,0,0,{}
 90010046,Node-Specific Skill,1,1,1,1,0,,2,1,0,100,"{""source"": ""3738"", ""compiled"": 3738}",600,0,0,{}
+90010051,Node-Specific Skill,1,1,1,1,0,,2,1,1,100,,100,0,0,{}
 100010035,Node-Specific Skill,1,1,3,1,0,,2,1,0,100,"{""source"": ""3738"", ""compiled"": 3738}",1000,1000,0,{}
 100010036,Node-Specific Skill,7,1,1,1,0,,3,99,0,100,"{""source"": ""746"", ""compiled"": 746}",100,0,0,{}
 110010035,Node-Specific Skill,1,1,13,1,0,,0,1,0,100,"{""source"": ""2265"", ""compiled"": 2265}",90,0,0,{}

@@ -13650,6 +13650,11 @@ and greatly lowers ATK & DEF",,0,180,25,0
 9065,Phantom Demon Flame Cannon,Causes supreme damage to enemy,,0,150,20,0
 9066,Lightning Blast Wave,Causes immense damage to enemy,,0,180,25,0
 9067,Master and Disciple Special Beam Cannon,Causes colossal damage to enemy,,0,200,5,0
+9068,Photon Wave,"Raises ATK & DEF for 1 turn and 
+causes supreme damage to enemy",,0,150,20,0
+9069,Photon Wave,"Greatly raises ATK & DEF for 1 turn and 
+causes supreme damage to enemy",,0,150,20,0
+9070,None,None,,0,0,0,1
 9071,"You, Go and Fight!","Raises ATK for 1 turn, 
 causes supreme damage to enemy and 
 raises chance of evading enemy's attack 
@@ -13756,11 +13761,30 @@ stuns the enemy for 1 turn",,0,150,20,0
 9133,Super Dragon Fist,Causes supreme damage to enemy,,0,150,20,0
 9134,Super Dragon Fist,Causes supreme damage to enemy,,0,150,20,0
 9137,Hellzone Grenade,Causes supreme damage to enemy,,0,150,20,0
+9138,Galick Gun (Extreme),"Greatly raises ATK and raises DEF for 1 turn, 
+causes supreme damage to enemy 
+and recovers 2% HP",,0,150,20,0
 9139,Punish Blitz (Extreme),"Greatly raises ATK & DEF for 4 turns and 
 causes supreme damage to enemy",,0,150,20,0
 9140,Demon Scythe (Extreme),"Greatly raises ATK & DEF for 4 turns, 
 causes supreme damage to enemy 
 and greatly lowers ATK",,0,150,20,0
+9141,Perfect Shot,"Raises ATK for 1 turn and 
+causes supreme damage to enemy",,0,150,20,0
+9142,Perfect Shot,"Raises ATK for 1 turn and 
+causes colossal damage to enemy",,0,200,5,0
+9143,Instant Transmission Perfect Attack,"Massively raises ATK and 
+greatly raises DEF for 1 turn, 
+causes mega-colossal damage to enemy 
+and recovers 5% HP",,0,250,10,0
+9144,Perfect Death Beam,"Massively raises ATK and 
+raises DEF for 1 turn and 
+causes mega-colossal damage to enemy; 
+raises Extreme Class allies' 
+ATK by 50% for 1 turn","When a Super Attack is 
+launched as an additional attack, 
+70% chance for the Super Attack 
+to become an EX Super Attack",0,200,10,0
 9145,Demon Eye,Causes supreme damage to enemy,,0,150,20,0
 9146,Guilty Flash,Causes supreme damage to enemy,,0,150,20,0
 9147,Flame Shower Breath,Causes supreme damage to enemy,,0,150,20,0
@@ -13771,6 +13795,30 @@ raises allies' ATK & DEF by 3% for 3 turns",,0,197,5,0
 9149,Triple Ki Wave (Extreme),"Massively raises ATK and 
 greatly raises DEF for 3 turns and 
 causes mega-colossal damage to enemy",,0,250,10,0
+9150,Soaring Dragon Havoc,"Raises DEF, raises ATK for 1 turn and 
+causes supreme damage to enemy",,0,150,20,0
+9151,Soaring Dragon Havoc,"Raises DEF, 
+raises ATK by 58% for 1 turn and 
+causes colossal damage to enemy",,0,200,5,0
+9152,Wild Rush Blaster,"Raises DEF by 58%, 
+raises ATK by 158% for 1 turn and 
+causes mega-colossal damage to enemy",,0,250,10,0
+9153,Super Kamehameha,"Raises DEF by 58%, 
+raises ATK by 258% for 1 turn and 
+causes ultimate damage to enemy; 
+raises Type ATK by 100% for 1 turn","When the 1st attack in the turn is 
+a Super Attack performed with 24 Ki, 
+70% chance for the Super Attack 
+to become an EX Super Attack",0,550,10,0
+9154,Change the Future,"Raises ATK & DEF for 1 turn and 
+causes supreme damage to enemy; 
+raises allies' ATK by 10% for 2 turns",,0,140,20,0
+9155,Change the Future,"Greatly raises ATK & DEF for 1 turn and 
+causes supreme damage to enemy; 
+raises allies' ATK by 10% for 2 turns",,0,140,20,0
+9156,Kamehameha,"Greatly raises ATK and raises DEF for 1 turn 
+and causes supreme damage with 
+a high chance of stunning the enemy",,0,150,20,0
 9157,Evil Quasar,Causes supreme damage to enemy,,0,150,20,0
 9158,None,None,,0,0,0,1
 9159,Evil Gravity,Causes colossal damage to enemy,,0,200,5,0
@@ -13795,6 +13843,18 @@ causes supreme damage to enemy;
 raises allies' DEF by 20% for 2 turns",,0,150,20,0
 9170,Rivalry Between Three Great Super Saiyans,Causes supreme damage to enemy,,0,150,20,0
 9171,Rivalry Between Three Great Super Saiyans,Causes supreme damage to enemy,,0,150,20,0
+9172,Kamehameha,"Greatly raises ATK and raises DEF for 1 turn, 
+causes supreme damage to enemy 
+and greatly lowers ATK",,0,150,20,0
+9173,Kamehameha,"Greatly raises ATK and raises DEF for 1 turn, 
+causes supreme damage to enemy 
+and greatly lowers DEF",,0,150,20,0
+9174,Kamehameha,"Greatly raises ATK and raises DEF for 1 turn, 
+causes supreme damage to enemy 
+and lowers ATK & DEF",,0,150,20,0
+9175,Kamehameha,"Greatly raises ATK and raises DEF for 1 turn, 
+causes supreme damage to enemy 
+and seals Super Attack",,0,150,20,0
 9176,Crazy Finger Beam (Extreme),"Greatly raises ATK, 
 greatly raises DEF for 1 turn and 
 causes supreme damage to enemy",,0,100,20,0
@@ -13808,6 +13868,12 @@ causes supreme damage to enemy",,0,150,20,0
 9180,Demon Scythe,Causes supreme damage to enemy,,0,150,20,0
 9181,Punish Blitz,Causes supreme damage to enemy,,0,150,20,0
 9182,All-Out Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9183,Burning Breaker (Extreme),"Greatly raises ATK & DEF for 1 turn and 
+causes immense damage to enemy",,0,180,25,0
+9184,Buster Cannon (Extreme),"Massively raises ATK and 
+greatly raises DEF for 1 turn, 
+causes immense damage to enemy and 
+all attacks become critical hits for 1 turn",,0,180,25,0
 9195,Death Drive,"Causes supreme damage and 
 stuns the enemy for 1 turn",,0,150,20,0
 9196,Death Drive,Causes supreme damage to enemy,,0,150,20,0
@@ -13834,12 +13900,25 @@ stuns the enemy for 1 turn",,0,150,20,0
 9220,Milky Cannon,Causes supreme damage to enemy,,0,150,20,0
 9221,Milky Bomber,Causes supreme damage to enemy,,0,150,20,0
 9222,Final Burst Cannon,Causes supreme damage to enemy,,0,150,20,0
+9223,Psychokinesis Crash,Causes supreme damage to enemy,,0,150,20,0
+9224,Perfect Attack,Causes supreme damage to enemy,,0,150,20,0
+9225,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9226,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9227,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9228,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9229,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9230,Perfect Death Beam,Causes supreme damage to enemy,,0,150,20,0
 9231,Chain Destructo-Disc Barrage,Causes supreme damage to enemy,,0,150,20,0
+9232,Buster Cannon,Causes supreme damage to enemy,,0,150,20,0
+9233,Soaring Dragon Havoc,Causes supreme damage to enemy,,0,150,20,0
+9234,Soaring Dragon Havoc,Causes supreme damage to enemy,,0,150,20,0
+9235,Soaring Dragon Havoc,Causes supreme damage to enemy,,0,150,20,0
 9241,Recoome Eraser Gun,Causes supreme damage to enemy,,0,150,20,0
 9242,Psychokinesis,Causes supreme damage to enemy,,0,150,20,0
 9243,Crusher Ball,Causes supreme damage to enemy,,0,150,20,0
 9244,Blue Impulse,Causes supreme damage to enemy,,0,150,20,0
 9245,Milky Cannon,Causes supreme damage to enemy,,0,150,20,0
+9246,Kamehameha,Causes supreme damage to enemy,,0,150,20,0
 9247,Quick Combo,"Causes supreme damage to enemy and 
 seals Super Attack for 1 turn",,0,150,20,0
 9248,Dastard Impact,Causes supreme damage to enemy,,0,150,20,0
@@ -13858,9 +13937,32 @@ stuns the enemy for 1 turn",,0,150,20,0
 9260,Wild Rush Blaster,Causes supreme damage to enemy,,0,150,20,0
 9261,Chain Destructo-Disc Barrage,"Causes supreme damage and 
 stuns the enemy for 1 turn",,0,150,20,0
+9265,Burning Breaker,Causes supreme damage to enemy,,0,150,20,0
+9266,Burning Breaker,Causes supreme damage to enemy,,0,150,20,0
+9267,Buster Cannon,Causes supreme damage to enemy,,0,150,20,0
 9268,Milky Cannon,Causes supreme damage to enemy,,0,150,20,0
+9271,Full Power Death Beam,Causes supreme damage to enemy,,0,150,20,0
+9272,Final Flash,"Causes supreme damage with 
+a medium chance of stunning 
+the enemy for 1 turn",,0,150,20,0
+9273,Light Grenade,"Causes supreme damage to enemy with 
+a high chance of sealing Super Attack for 1 turn",,0,150,20,0
+9274,Sadistic Dance,Causes supreme damage to enemy,,0,150,20,0
+9275,Bionic Punisher,Causes supreme damage to enemy,,0,150,20,0
+9276,Instant Transmission Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9277,Raging Masenko,Causes supreme damage to enemy,,0,150,20,0
+9278,Rocket Punch,Causes supreme damage to enemy,,0,150,20,0
+9279,Gohan Explodes!,Causes supreme damage to enemy,,0,150,20,0
+9280,Father-Son Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9281,Perfect Attack,Causes supreme damage to enemy,,0,150,20,0
+9282,Perfect Shot,Causes supreme damage to enemy,,0,150,20,0
+9283,Perfect Death Beam,Causes supreme damage to enemy,,0,150,20,0
+9284,Finish Buster,Causes supreme damage to enemy,,0,150,20,0
+9285,Burning Attack,Causes supreme damage to enemy,,0,150,20,0
+9286,Change the Future,Causes supreme damage to enemy,,0,150,20,0
 9288,Kaioken x3 Kamehameha,Causes supreme damage to enemy,,0,150,20,0
 9289,Elegant Blaster,Causes supreme damage to enemy,,0,150,20,0
+9293,Big Bang Crash,Causes supreme damage to enemy,,0,150,20,0
 9298,Weekend,"Raises ATK & DEF for 1 turn and 
 causes supreme damage to enemy",,0,150,20,0
 9299,Blazing Storm,"Greatly raises DEF for 1 turn and 
@@ -13868,6 +13970,18 @@ causes supreme damage to enemy",,0,150,20,0
 9300,Final Bullet Attack,"Raises ATK for 1 turn and 
 causes supreme damage to enemy",,0,150,20,0
 9308,Death Ball,Causes supreme damage to enemy,,0,150,20,0
+9309,Death Blaster,Causes supreme damage to enemy,,0,150,20,0
+9310,Dirty Slash,Causes supreme damage to enemy,,0,150,20,0
+9311,Instant Transmission Kamehameha,Causes supreme damage to enemy,,0,150,20,0
+9312,Eye Beam,Causes supreme damage to enemy,,0,150,20,0
+9313,Eye Beam,Causes supreme damage to enemy,,0,150,20,0
+9314,Eye Beam,Causes supreme damage to enemy,,0,150,20,0
+9315,Photon Bomber,Causes supreme damage to enemy,,0,150,20,0
+9316,Photon Wave,Causes supreme damage to enemy,,0,150,20,0
+9317,Infinity Bullet,Causes supreme damage to enemy,,0,150,20,0
+9318,Infinity Bullet,Causes supreme damage to enemy,,0,150,20,0
+9319,Sadistic Dance,Causes supreme damage to enemy,,0,150,20,0
+9320,Bloody Crash,Causes supreme damage to enemy,,0,150,20,0
 9321,Dastard Impact,"Causes extreme damage to enemy 
 and lowers DEF for 1 turn",,0,120,15,0
 9322,Execution of Orders,Causes supreme damage to enemy,,0,150,20,0
@@ -13886,6 +14000,10 @@ causes colossal damage to enemy",,0,200,5,0
 9336,Death Drive,Causes supreme damage to enemy,,0,150,20,0
 9339,20x Kaioken Kamehameha,Causes supreme damage to enemy,,0,150,20,0
 9340,Desperate Covering Fire,Causes supreme damage to enemy,,0,150,20,0
+9355,Perfect Shot,Causes supreme damage to enemy,,0,150,20,0
+9356,Instant Transmission Perfect Attack,Causes colossal damage to enemy,,0,200,5,0
+9357,Soaring Dragon Havoc,Causes supreme damage to enemy,,0,150,20,0
+9358,Wild Rush Blaster,Causes colossal damage to enemy,,0,200,5,0
 9834,Fierce Hand-to-Hand Battle,Causes supreme damage to enemy,,0,150,20,0
 9835,Masenko,Causes supreme damage to enemy,,0,150,20,0
 9836,Meteor Smash,Causes supreme damage to enemy,,0,150,20,0

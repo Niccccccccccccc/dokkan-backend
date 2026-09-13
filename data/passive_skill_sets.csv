@@ -17747,7 +17747,7 @@ battle*
 - Transforms",,
 3548,Power-Up Phase 2,"*Basic effect(s)*
 - Ki +4 and ATK & DEF 300%{passiveImg:up_g}
-*For 3 turn(s) from the character's entry turn*
+*For 3 turns from the character's entry turn*
 - Launches an additional Super Attack
 - Guards all attacks
 *The more HP remaining*
@@ -21288,20 +21288,19 @@ enemy's attack & damage reduction rate 18%{passiveImg:up_g}
 4085,Superiority Complex Over Rival,"*Basic effect(s)*
 - Ki +2 and ATK & DEF 150%{passiveImg:up_g}
 - Guards all attacks
-*For 3 turn(s) from the character's entry turn*
+*For 3 turns from the character's entry turn*
 - Damage reduction rate 18%{passiveImg:up_g}
 - Launches an additional Super Attack
 *When attacking for the 1st time*
-- The more HP remaining, the greater the ATK boost within
-the turn (up to 150%{passiveImg:up_g})
+- The more HP remaining, the greater the ATK boost within the turn
+(up to 150%{passiveImg:up_g})
 *When receiving an attack for the 1st time*
-- The more HP remaining, the greater the DEF boost within the
-turn (up to 150%{passiveImg:up_g})
+- The more HP remaining, the greater the DEF boost within the turn
+(up to 150%{passiveImg:up_g})
 *For every attack received*
 - {passiveImg:forever}DEF 31%{passiveImg:up_g} (up to 80%)
 *When the name of an ally who is attacking in the same turn or
-an enemy includes ""Goku"" (Youth, Captain Ginyu, Jr., etc.
-excluded)*
+an enemy includes ""Goku"" (Youth, Captain Ginyu, Jr., etc. excluded)*
 - Launches an additional attack that has a great chance of
 becoming a Super Attack",,
 4086,Shocking Evolution,"*Basic effect(s)*
@@ -34921,6 +34920,58 @@ character's entry turn
 *After the enemy launches a Ki Blast Super Attack at the character*
 - {passiveImg:once}{passiveImg:forever}Launches an additional attack that has a high chance of
 becoming a Super Attack",,
+5016,Enemy Investigation,"*Basic effect(s)*
+- Ki +2 and ATK & DEF 180%{passiveImg:up_g}
+*When there are 3 Extreme Class ""Androids/Cell Saga""
+Category allies attacking in the same turn*
+- DEF 200%{passiveImg:up_g}
+*For every attack received or evaded*
+- {passiveImg:forever}ATK & DEF 10%{passiveImg:up_g}
+*When receiving a Super Attack*
+- {passiveImg:once}{passiveImg:forever}ATK & DEF 200%{passiveImg:up_g}
+*When receiving a Ki Blast Super Attack*
+- ATK 300%{passiveImg:up_g}",,
+5017,Android Research,"*Basic effect(s)*
+- Ki +2 and ATK & DEF 200%{passiveImg:up_g}
+*When there are 3 Extreme Class ""Androids/Cell Saga""
+Category allies attacking in the same turn*
+- DEF 300%{passiveImg:up_g}
+- Damage reduction rate 50%{passiveImg:up_g}
+*For every attack received or evaded*
+- {passiveImg:forever}ATK & DEF 40%{passiveImg:up_g}
+*When receiving an attack*
+- {passiveImg:once}Damage reduction rate 30%{passiveImg:up_g}
+*When receiving a Super Attack*
+- {passiveImg:once}{passiveImg:forever}ATK & DEF 250%{passiveImg:up_g}
+*When receiving a Ki Blast Super Attack*
+- {passiveImg:once}{passiveImg:forever}Ki +8
+- ATK 500%{passiveImg:up_g}
+- Absorbs it and recovers 20% of the damage absorbed as HP",,"*When there is another ""Androids/Cell Saga"" Category ally attacking
+in the same turn*
+- Foresees enemy's Super Attack
+*If an ""Androids/Cell Saga"" Category ally attacking in the same turn
+is receiving a Ki Blast Super Attack when 3 or more ""Androids/Cell
+Saga"" Category allies are on the team*
+- Temporarily covers and takes damage for that ally (up to 5 times)"
+5018,Data Transmission,"*Basic effect(s)*
+- Unable to attack
+- DEF 300%{passiveImg:up_g}
+- Randomly changes Ki Spheres of a certain Type to Rainbow
+Ki Spheres
+- High chance of evading enemy's attack
+*For every Ki Sphere obtained*
+- DEF 100%{passiveImg:up_g} when receiving an attack
+- All allies' ATK & chance of performing a critical hit 7%{passiveImg:up_g}
+(up to 35%)
+- Chance of evading enemy's attack 5%{passiveImg:up_g} (up to 20%)
+*When receiving a Super Attack (Ki Blast Super Attacks excluded)*
+- Chance of evading enemy's attack 10%{passiveImg:up_g} temporarily",,"*At the start of each turn*
+- Accumulates 150% ATK (up to 1500%)
+- Accumulates 30% DEF (up to 300%)
+*1 or more Rainbow Ki Spheres obtained*
+- {passiveImg:once}Evades enemy's attack
+*When receiving a Super Attack (Ki Blast Super Attacks excluded)*
+- Chance of evading enemy's attack 20%{passiveImg:up_g} temporarily"
 5019,#21's Inner Conflicts,"*Basic effect(s)*
 - ATK & DEF 210%{passiveImg:up_g}
 - All allies' Ki +2
@@ -35088,6 +35139,62 @@ performing a critical hit 15%{passiveImg:up_g} for 2 turns
 attacking in the same turn*
 - Chance of evading enemy's attack & damage reduction rate 40%{passiveImg:up_g}
 - All enemies' ATK & DEF 30%{passiveImg:down_y}",,
+5030,Cell's Resurrection,"*Basic effect(s)*
+- Ki +2 and ATK & DEF 150%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+- Launches an additional attack that has a medium chance of
+becoming a Super Attack
+- Medium chance of performing a critical hit
+- ""Androids/Cell Saga"" Category allies' ATK & DEF 20%{passiveImg:up_g}
+*When attacking*
+- ATK 100%{passiveImg:up_g}
+*When receiving an attack*
+- DEF 150%{passiveImg:up_g}
+*After performing 7 or more Super Attacks in battle*
+- {passiveImg:forever}Launches an additional attack that has a high chance of
+becoming a Super Attack",,
+5031,Cell's Mockery,"*Basic effect(s)*
+- Ki +3 and ATK & DEF 200%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+- Launches an additional attack that has a high chance of
+becoming a Super Attack
+- Medium chance of performing a critical hit
+- ""Androids/Cell Saga"" Category allies' ATK & DEF 30%{passiveImg:up_g}
+*When attacking*
+- ATK 120%{passiveImg:up_g}
+*When receiving an attack*
+- DEF 200%{passiveImg:up_g}
+*After performing 7 or more Super Attacks in battle*
+- {passiveImg:forever}Launches an additional attack that has a great chance of
+becoming a Super Attack",,
+5032,Cell's Counterattack,"*Activates the Entrance Animation upon the character's entry*
+- {passiveImg:once}{passiveImg:forever}ATK & DEF 300%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Damage reduction rate 30%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Launches an additional Super Attack
+- {passiveImg:once}{passiveImg:forever}Guards all attacks
+*Basic effect(s)*
+- Ki +4 and ATK & DEF 250%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+- Launches an additional attack that has a great chance of
+becoming a Super Attack
+- High chance of performing a critical hit
+- ""Androids/Cell Saga"" or ""Sworn Enemies"" Category allies'
+ATK & DEF 40%{passiveImg:up_g}
+- DEF 20%{passiveImg:up_g} and damage reduction rate 10%{passiveImg:up_g} for allies
+whose names include ""Cell"" (Cellza and Cell Max excluded)
+*When there are 3 ""Androids/Cell Saga"" Category allies
+attacking in the same turn*
+- Damage reduction rate 10%{passiveImg:up_g}
+*Before attacking*
+- Damage reduction rate 15%{passiveImg:up_g}
+*When attacking*
+- ATK 150%{passiveImg:up_g}
+*When activating the Active Skill or when attacking with 18 or more Ki*
+- Launches an additional Super Attack
+*When receiving an attack*
+- DEF 250%{passiveImg:up_g}
+*After performing 7 or more Super Attacks in battle*
+- {passiveImg:forever}Launches an additional Super Attack",,
 5033,Countermeasures,"*Basic effect(s)*
 - Ki +3 and ATK & DEF 250%{passiveImg:up_g}
 - High chance of evading enemy's attack
@@ -35127,6 +35234,35 @@ allies are on the team, or when there is a STR Type enemy*
 - Damage reduction rate 25%{passiveImg:up_g}
 - All allies' ATK 40%{passiveImg:up_g}
 - All enemies' ATK 20%{passiveImg:down_y}",,
+5035,Near Completion,"*Basic effect(s)*
+- ATK & DEF 280%{passiveImg:up_g}
+- Chance of performing a critical hit & damage reduction rate 18%{passiveImg:up_g}
+- Launches an additional attack that has a great chance of becoming
+a Super Attack
+- Changes Ki Spheres: PHY to Rainbow
+- ""Androids/Cell Saga"" Category Extreme Class allies' Ki +3 and
+ATK & DEF 60%{passiveImg:up_g} for 2 turns
+*Per ""Androids"" Category ally on the team*
+- ATK & DEF 100%{passiveImg:up_g} (up to 200%)
+*When all allies are ""Androids/Cell Saga"" or ""Sworn Enemies""
+Category characters*
+- Foresees enemy's Super Attack
+- Guards all attacks
+*When attacking with 12 or more Ki*
+- ATK & DEF 280%{passiveImg:up_g}
+- Chance of performing a critical hit & damage reduction rate 18%{passiveImg:up_g}
+*When there is an ""Androids/Cell Saga"" or ""Vegeta's Family"" Category
+enemy, or when there is an enemy whose name includes ""Android""*
+- ATK 100%{passiveImg:up_g}
+- Stuns all enemies
+- Performs a critical hit
+*When there is a ""Vegeta's Family"" Category ally attacking
+in the same turn*
+- {passiveImg:once}ATK 120%{passiveImg:up_g} for 5 turns and DEF 10%{passiveImg:up_g},
+damage reduction rate 4%{passiveImg:up_g} and chance of performing
+a critical hit 10%{passiveImg:up_g} for 7 turns
+- {passiveImg:once}""Vegeta's Family"" Category allies' ATK 90%{passiveImg:up_g}
+and damage reduction rate 4%{passiveImg:up_g}",,
 5036,Three Super Saiyans,"*Activates the Entrance Animation when another 2 or more
 ""Super Saiyans"" or ""Movie Heroes"" Category allies are on the team*
 - {passiveImg:once}Attacks are effective against all Types for 7 turns
@@ -35153,6 +35289,80 @@ to INT Ki Spheres
 a Super Attack (up to 3 times within a turn)
 - Chance of performing a critical hit & damage reduction rate 11%{passiveImg:up_g}
 (up to 33%)",,
+5037,Power Dwelling within Gohan,"*Basic effect(s)*
+- Ki +3 and ATK & DEF 150%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+*When there are 3 ""Androids/Cell Saga"" Category allies
+attacking in the same turn*
+- Damage reduction rate 10%{passiveImg:up_g} before attacking
+*When receiving an attack*
+- DEF 150%{passiveImg:up_g}",,
+5038,Power Manifested by Gohan,"*Basic effect(s)*
+- Ki +4 and ATK & DEF 200%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+*When there are 3 ""Androids/Cell Saga"" Category allies
+attacking in the same turn*
+- Damage reduction rate 15%{passiveImg:up_g} before attacking
+*When receiving an attack*
+- DEF 200%{passiveImg:up_g}",,
+5039,Power Converging on Gohan,"*Activates the Entrance Animation upon the character's entry*
+- {passiveImg:once}{passiveImg:forever}ATK & DEF 300%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Damage reduction rate 30%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Launches an additional Super Attack
+- {passiveImg:once}{passiveImg:forever}Guards all attacks
+*Basic effect(s)*
+- Ki +7 and ATK & DEF 258%{passiveImg:up_g}
+- Receives an additional Ki +1 per Ki Sphere obtained
+- {passiveImg:once}Damage reduction rate 20%{passiveImg:up_g}
+*When there are 3 ""Androids/Cell Saga"" Category allies
+attacking in the same turn*
+- Damage reduction rate 20%{passiveImg:up_g} before attacking
+*When attacking with 18 or more Ki*
+- ATK 158%{passiveImg:up_g}
+- Attacks are effective against all Types
+*When activating the Active Skill or when attacking with 24 Ki*
+- ATK 158%{passiveImg:up_g}
+- Performs a critical hit
+*When receiving an attack*
+- DEF 258%{passiveImg:up_g}",,
+5040,Path to a Rematch,"*Basic effect(s)*
+- Ki +1 and ATK & DEF 200%{passiveImg:up_g}
+- High chance of evading enemy's attack
+- High chance of performing a critical hit
+- Changes Ki Spheres: AGL to STR
+- Launches an additional attack that has a high chance of becoming
+a Super Attack
+- Damage reduction rate 20%{passiveImg:up_g}
+*When there is another ""Androids/Cell Saga"" or ""Time Travelers""
+Category ally attacking in the same turn*
+- ATK & DEF 200%{passiveImg:up_g}
+- Launches an additional attack that has a great chance of becoming
+a Super Attack
+- All allies' Ki +1 and ATK & DEF 30%{passiveImg:up_g}
+*When attacking*
+- ATK & DEF 200%{passiveImg:up_g}
+*When receiving an attack*
+- DEF 100%{passiveImg:up_g}",,
+5041,Path to Resurgence,"*Basic effect(s)*
+- Ki +2 and ATK & DEF 300%{passiveImg:up_g}
+- Great chance of evading enemy's attack
+- Great chance of performing a critical hit
+- Changes Ki Spheres: AGL to STR
+- Launches an additional attack that has a great chance of becoming
+a Super Attack
+- Damage reduction rate 30%{passiveImg:up_g}
+*When there is another ""Androids/Cell Saga"" or ""Time Travelers""
+Category ally attacking in the same turn*
+- ATK & DEF 250%{passiveImg:up_g}
+- Foresees enemy's Super Attack
+- Launches an additional Super Attack
+- All allies' Ki +2 and ATK & DEF 50%{passiveImg:up_g}
+*When attacking*
+- ATK & DEF 300%{passiveImg:up_g}
+*When receiving an attack*
+- DEF 150%{passiveImg:up_g}
+*After the enemy launches a Super Attack at the character*
+- {passiveImg:once}Evades enemy's attack within the turn",,
 5042,Super Monster,"*Basic effect(s)*
 - ATK & DEF 250%{passiveImg:up_g}
 - Medium chance of evading enemy's attack
@@ -35234,6 +35444,23 @@ becoming a Super Attack
 *As the 1st attacker in a turn*
 - {passiveImg:once}ATK 2000%{passiveImg:up_g}
 - {passiveImg:once}Damage reduction rate 20%{passiveImg:up_g}",,
+5046,Cell Jrs.' Intimidation,"*Per ally whose name includes ""Cell"" (Cellza and Cell Max excluded)
+on the team*
+- ATK & DEF 150%{passiveImg:up_g} (up to 750%)
+- Damage reduction rate & chance of evading enemy's attack 10%{passiveImg:up_g}
+(up to 50%)
+*Per ally whose name includes ""Cell Jr."" on the team*
+- Ki +1 and ATK & DEF 5%{passiveImg:up_g} for 2 turns for ""Cell (Perfect Form)""
+or ""Perfect Cell"" when attacking
+*For 1 turn from the character's entry turn, or when the character is
+the only PHY Type ally attacking in the turn*
+- ATK & DEF 250%{passiveImg:up_g} when attacking
+- Launches an additional Super Attack
+*With a PHY Ki Sphere obtained*
+- {passiveImg:once}{passiveImg:forever}Ki +2
+- {passiveImg:once}{passiveImg:forever}ATK 250%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Chance of evading enemy's attack 20%{passiveImg:up_g}
+- {passiveImg:once}Guards all attacks for 4 turns",,
 5047,Captain's Counterattack,"*Basic effect(s)*
 - Ki +2 and ATK & DEF 250%{passiveImg:up_g}
 - High chance of evading enemy's attack
@@ -35413,6 +35640,114 @@ becoming a Super Attack
 *When attacking*
 - Randomly changes Ki Spheres of a certain Type (STR excluded)
 to STR Ki Spheres at the start of the character's next attacking turn",,
+5056,Cell Jrs.' Disruption,"*Per ally whose name includes ""Cell"" (Cellza and Cell Max excluded)
+on the team*
+- ATK & DEF 150%{passiveImg:up_g} (up to 750%)
+- Damage reduction rate & chance of evading enemy's attack 10%{passiveImg:up_g}
+(up to 50%)
+*Per ally whose name includes ""Cell Jr."" on the team*
+- Ki +1 and ATK & DEF 5%{passiveImg:up_g} for 2 turns for ""Cell (Perfect Form)""
+or ""Perfect Cell"" when attacking
+*For 1 turn from the character's entry turn, or when the character is
+the only AGL Type ally attacking in the turn*
+- ATK & DEF 250%{passiveImg:up_g} when attacking
+- Launches an additional Super Attack
+*With an AGL Ki Sphere obtained*
+- {passiveImg:once}{passiveImg:forever}Ki +2
+- {passiveImg:once}{passiveImg:forever}ATK 250%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Chance of evading enemy's attack 20%{passiveImg:up_g}
+- {passiveImg:once}Extreme Class allies' DEF 20%{passiveImg:up_g} and chance of evading
+enemy's attack 5%{passiveImg:up_g} for 3 turns",,
+5057,Cell Jrs.' Encirclement,"*Per ally whose name includes ""Cell"" (Cellza and Cell Max excluded)
+on the team*
+- ATK & DEF 150%{passiveImg:up_g} (up to 750%)
+- Damage reduction rate & chance of evading enemy's attack 10%{passiveImg:up_g}
+(up to 50%)
+*Per ally whose name includes ""Cell Jr."" on the team*
+- Ki +1 and ATK & DEF 5%{passiveImg:up_g} for 2 turns for ""Cell (Perfect Form)""
+or ""Perfect Cell"" when attacking
+*For 1 turn from the character's entry turn, or when there are 2 or less
+TEQ Type allies attacking in the same turn*
+- ATK & DEF 250%{passiveImg:up_g} when attacking
+- Launches an additional Super Attack
+*With a TEQ Ki Sphere obtained*
+- {passiveImg:once}{passiveImg:forever}Ki +2
+- {passiveImg:once}{passiveImg:forever}ATK 250%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Chance of evading enemy's attack 20%{passiveImg:up_g}
+- {passiveImg:once}Extreme Class allies' ATK 20%{passiveImg:up_g} and chance of performing
+a critical hit 15%{passiveImg:up_g} for 3 turns",,
+5058,Cell Jrs.' Dash,"*Per ally whose name includes ""Cell"" (Cellza and Cell Max excluded)
+on the team*
+- ATK & DEF 150%{passiveImg:up_g} (up to 750%)
+- Damage reduction rate & chance of evading enemy's attack 10%{passiveImg:up_g}
+(up to 50%)
+*Per ally whose name includes ""Cell Jr."" on the team*
+- Ki +1 and ATK & DEF 5%{passiveImg:up_g} for 2 turns for ""Cell (Perfect Form)""
+or ""Perfect Cell"" when attacking
+*For 1 turn from the character's entry turn, or when the character is
+the only INT Type ally attacking in the turn*
+- ATK & DEF 250%{passiveImg:up_g} when attacking
+- Launches an additional Super Attack
+*With an INT Ki Sphere obtained*
+- {passiveImg:once}{passiveImg:forever}Ki +2
+- {passiveImg:once}{passiveImg:forever}ATK 250%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Chance of evading enemy's attack 20%{passiveImg:up_g}
+- {passiveImg:once}Chance of evading enemy's attack 25%{passiveImg:up_g} within the turn",,
+5059,Cell Jrs.' Conspiracy,"*Per ally whose name includes ""Cell"" (Cellza and Cell Max excluded)
+on the team*
+- ATK & DEF 150%{passiveImg:up_g} (up to 750%)
+- Damage reduction rate & chance of evading enemy's attack 10%{passiveImg:up_g}
+(up to 50%)
+*Per ally whose name includes ""Cell Jr."" on the team*
+- Ki +1 and ATK & DEF 5%{passiveImg:up_g} for 2 turns for ""Cell (Perfect Form)""
+or ""Perfect Cell"" when attacking
+*For 1 turn from the character's entry turn, or when the character is
+the only STR Type ally attacking in the turn*
+- ATK & DEF 250%{passiveImg:up_g} when attacking
+- Launches an additional Super Attack
+*With a STR Ki Sphere obtained*
+- {passiveImg:once}{passiveImg:forever}Ki +2
+- {passiveImg:once}{passiveImg:forever}ATK 250%{passiveImg:up_g}
+- {passiveImg:once}{passiveImg:forever}Chance of evading enemy's attack 20%{passiveImg:up_g}
+- {passiveImg:once}Performs a critical hit for 4 turns",,
+5060,Secret Power,"*Basic effect(s)*
+- Ki +3 and ATK & DEF 200%{passiveImg:up_g}
+- Damage reduction rate & chance of evading enemy's attack 30%{passiveImg:up_g}
+- Launches an additional attack that has a great chance of becoming
+a Super Attack
+*When another 2 or more ""Androids/Cell Saga"" Category allies are
+on the team*
+- ATK & DEF 200%{passiveImg:up_g}
+- Guards all attacks
+*When 6 or more Super Class allies are on the team*
+- Chance of evading enemy's attack 60%{passiveImg:up_g} and launches
+3 additional attacks, each of which has a medium chance of
+becoming a Super Attack, as the 1st attacker in a turn
+*As the 2nd or 3rd attacker in a turn*
+- DEF 250%{passiveImg:up_g}
+- Launches an additional Super Attack
+- ""Androids/Cell Saga"" Category Super Class allies' ATK & DEF 60%{passiveImg:up_g}
+*When attacking with 12 or more Ki*
+- ATK 200%{passiveImg:up_g} and DEF 250%{passiveImg:up_g}
+*When there is an enemy whose name includes ""Cell""
+(characters such as Cell Jr. excluded)*
+- Performs a critical hit
+*At the start of the character's next attacking turn after the
+character performs 5 or more attacks in battle, or when there is
+an enemy whose name includes ""Cell"" (characters such as Cell Jr.
+excluded) starting from the 5th turn from the start of battle*
+- Transforms",,
+5061,Power-Up Phase 2,"*Basic effect(s)*
+- {passiveImg:once}Recovers 60% HP
+- Ki +5 and ATK & DEF 500%{passiveImg:up_g}
+- Damage reduction rate 50%{passiveImg:up_g}
+- Guards all attacks
+*For 3 turns from the character's entry turn*
+- Launches 2 additional Super Attacks
+*When attacking with 12 or more Ki*
+- ATK & DEF 300%{passiveImg:up_g}
+*After performing a Super Attack*
+- Stuns the attacked enemy",,
 9001,What A Farce,"*After receiving an attack*
 - ATK 55%{passiveImg:up_g} for 3 turn(s)
 *The less HP remaining*
@@ -35701,6 +36036,50 @@ ATK & DEF 1000%{passiveImg:up_g} and damage reduction rate 50%{passiveImg:up_g}"
 and ATK & DEF 400%{passiveImg:up_g}
 - [Node-Specific] Attacked enemy's ATK & DEF 50%{passiveImg:down_y}
 for 2 turns"
+10049,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 300%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10050,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK & DEF 1200%{passiveImg:up_g}
+- [Node-Specific] Damage reduction rate 80%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10051,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 700%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}
+*For every turn passed*
+- [Node-Specific] {passiveImg:forever}ATK 100%{passiveImg:down_r} (no more than -700%)"
+10052,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 450%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10053,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 200%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10054,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 200%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10055,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 200%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
+10056,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 300%{passiveImg:up_g}
+- [Node-Specific] Damage reduction rate 30%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}
+*For every turn passed*
+- [Node-Specific] {passiveImg:forever}ATK 100%{passiveImg:down_r} (no more than -300%)
+- [Node-Specific] {passiveImg:forever}Damage reduction rate 10%{passiveImg:down_r}
+(no more than -30%)"
+10057,Node-Specific Skill,,,"*Basic effect(s)*
+- [Node-Specific] ATK 500%{passiveImg:up_g}
+- [Node-Specific] Receives an additional Ki +2 per Ki Sphere obtained
+- [Node-Specific] All allies' Ki +3 and ATK & DEF 100%{passiveImg:up_g}"
 20005,The Super Saiyan's Final Showdown,"*Basic effect(s)*
 - Ki +5
 - ATK 300%{passiveImg:up_g} and DEF 600%{passiveImg:up_g}
@@ -35708,4 +36087,20 @@ for 2 turns"
 20006,The Emperor's Final Showdown,"*Basic effect(s)*
 - Ki +5
 - ATK 200%{passiveImg:up_g} and DEF 500%{passiveImg:up_g}
+- Performs a critical hit",,
+20007,Bloating Anger,"*Basic effect(s)*
+- Ki +10
+- ATK 1700%{passiveImg:up_g} and DEF 4000%{passiveImg:up_g}
+- Performs a critical hit",,
+20008,Shattering Blast,"*Basic effect(s)*
+- Ki +10
+- ATK 1200%{passiveImg:up_g} and DEF 5000%{passiveImg:up_g}
+- Performs a critical hit",,
+20009,A Serious Game,"*Basic effect(s)*
+- Ki +10
+- ATK 1000%{passiveImg:up_g} and DEF 4000%{passiveImg:up_g}
+- Performs a critical hit",,
+20012,Impeccable,"*Basic effect(s)*
+- Ki +6
+- ATK 800%{passiveImg:up_g} and DEF 2000%{passiveImg:up_g}
 - Performs a critical hit",,

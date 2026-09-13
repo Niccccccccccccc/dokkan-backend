@@ -16742,7 +16742,7 @@ on Z-HARD once!",,1150,3,"Clear Stage 1 of
 the Story Event 
 ""Ultimate Confrontation! 
 The Cell Games"" on 
-Z-HARD once!",1,,,"{""sugoroku_map_ids"": [3690012]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
+Z-HARD once!",1,,,"{""sugoroku_map_ids"": [3690012]}",,369.0,,,,2021-10-28 06:30:00,2026-09-13 04:29:59,0
 12440,Mission::CardTrainingMission::UpSpecificCardSkillLevelMission,369,"Level up the specified character's 
 Super Attack to Lv. 10!",,1150,3,"Recruit [Aim to Surpass 
 Super Saiyan] Goku 
@@ -16754,47 +16754,55 @@ to Lv. 10!
 
 * The mission can be completed 
 even if this character has been 
-Dokkan Awakened.",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741], ""target_lv"": 10}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12441,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 10% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+Dokkan Awakened.",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741], ""target_lv"": 10}",,369.0,,,,2021-10-28 06:30:00,2026-09-13 04:29:59,0
+12441,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 10% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 10% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",34,10.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12442,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 20% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",34,10.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12442,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 20% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 20% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",67,20.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12443,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 30% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",67,20.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12443,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 30% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 30% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",101,30.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12444,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 40% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",101,30.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12444,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 40% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 40% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",134,40.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",134,40.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 12445,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 50% of Goku's 
 Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
 to your team from the Story Event 
@@ -16804,99 +16812,117 @@ You'll need special Potential Orbs,
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",167,50.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12446,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 60% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.",167,50.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2026-09-13 04:29:59,0
+12446,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 60% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 60% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",201,60.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12447,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 70% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",201,60.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12447,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 70% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 70% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",234,70.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12448,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 80% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",234,70.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12448,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 80% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 80% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",268,80.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12449,Mission::CardPotentialReleaseMission::ReleaseCountMission,369,"Activate 90% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",268,80.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12449,Mission::CardPotentialReleaseMission::ReleaseCountMission,934,"Activate 90% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 90% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",301,90.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12450,Mission::CardPotentialUnlockMission::UnlockCountMission,369,"Unlock 1 of Goku's 
-Hidden Potential routes!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",301,90.0,334.0,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12450,Mission::CardPotentialUnlockMission::UnlockCountMission,934,"Unlock 1 of Goku's 
+Hidden Potential routes!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 1 of his Hidden Potential routes! 
 You can choose whichever route you like! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12451,Mission::CardPotentialUnlockMission::UnlockCountMission,369,"Unlock 2 of Goku's 
-Hidden Potential routes!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12451,Mission::CardPotentialUnlockMission::UnlockCountMission,934,"Unlock 2 of Goku's 
+Hidden Potential routes!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 2 of his Hidden Potential routes! 
 You can choose whichever routes you like! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",2,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12452,Mission::CardPotentialUnlockMission::UnlockCountMission,369,"Unlock 3 of Goku's 
-Hidden Potential routes!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",2,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12452,Mission::CardPotentialUnlockMission::UnlockCountMission,934,"Unlock 3 of Goku's 
+Hidden Potential routes!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 3 of his Hidden Potential routes! 
 You can choose whichever routes you like! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",3,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12453,Mission::CardPotentialUnlockMission::UnlockCountMission,369,"Unlock 4 of Goku's 
-Hidden Potential routes!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",3,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12453,Mission::CardPotentialUnlockMission::UnlockCountMission,934,"Unlock 4 of Goku's 
+Hidden Potential routes!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 4 of his Hidden Potential routes! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",4,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
-12454,Mission::CardPotentialReleaseMission::CompleteMission,369,"Activate 100% of Goku's 
-Hidden Potential!",,1150,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
-to your team from the Story Event 
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",4,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+12454,Mission::CardPotentialReleaseMission::CompleteMission,934,"Activate 100% of Goku's 
+Hidden Potential!",,1,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
 and unlock 100% of his Hidden Potential! 
 You'll need special Potential Orbs, 
 also obtainable from the event! 
 
 * The mission can be completed even if 
-this character has been Dokkan Awakened.",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",1,,,"{""card_ids"": [1017730, 1017731, 1017740, 1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 12455,Mission::CardAcquisitionMission::AwakeningMission,369,"Dokkan Awaken 
 the specified character!",,1150,3,"Recruit [Aim to Surpass 
 Super Saiyan] Goku 
 from the Story Event 
 ""Ultimate Confrontation! 
 The Cell Games"" and 
-Dokkan Awaken him!",1,,,"{""card_ids"": [1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2038-01-01 00:00:00,1
+Dokkan Awaken him!",1,,,"{""card_ids"": [1017740, 1017741]}",,369.0,,,,2021-10-28 06:30:00,2026-09-13 04:29:59,0
 12456,Mission::QuestAndZBattleClearMission::CountMission,1000,"[300M Daily] 
 Clear any stage 2 times!",,10040,15,"Clear any of the stages 2 times! 
 Note: World Tournament and 
@@ -32666,7 +32692,7 @@ on any character!",7,,,{},internal:AwakenTopScene,,,,,2022-02-22 00:00:00,2022-0
 すべてのステージをクリア",1,,,"{""area_ids"": [929], ""difficulty"": 2}",,,,,,2025-12-02 05:00:00,2038-01-01 00:00:00,1
 16220,Mission::QuestClearMission::ClearAllAreasMission,5,最強激突!!セルゲーム,,1,3,"物語イベント「最強激突!!
 セルゲーム」の全難易度で
-すべてのステージをクリア",1,,,"{""area_ids"": [369], ""difficulty"": 2}",,,,,,2022-03-09 00:00:00,2038-01-01 00:00:00,1
+すべてのステージをクリア",1,,,"{""area_ids"": [934], ""difficulty"": 2}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 16221,Mission::QuestClearMission::ClearAllAreasMission,5,絶望への反抗!!,,1,3,"物語イベント
 「絶望への反抗!!」の全難易度で
 すべてのステージをクリア",1,,,"{""area_ids"": [371], ""difficulty"": 2}",,,,,,2022-03-09 00:00:00,2038-01-01 00:00:00,1
@@ -37806,7 +37832,7 @@ Goku's Family"" 15 times!",15,,,"{""sugoroku_map_ids"": [8040011, 8040021, 80400
 のステージ32をクリア",1,,,"{""sugoroku_map_ids"": [7200325]}",,,,,,2022-07-07 00:00:00,2038-01-01 00:00:00,1
 17797,Mission::QuestClearMission::ClearAllSugorokuMapsMission,5,地球を守る最強親子,,1,3,"超激戦イベント
 「地球を守る最強親子」の全難易度で
-すべてのステージをクリア",2,,,"{""sugoroku_map_ids"": [5760012, 5760014]}",,,,,,2022-04-27 11:00:00,2038-01-01 00:00:00,1
+すべてのステージをクリア",4,,,"{""sugoroku_map_ids"": [5760012, 5760014, 5760022, 5760023]}",,,,,,2022-04-27 11:00:00,2038-01-01 00:00:00,1
 17798,Mission::QuestClearMission::ClearAllSugorokuMapsMission,5,究極の完全体への道,,1,3,"超激戦イベント
 「究極の完全体への道」の全難易度で
 すべてのステージをクリア",2,,,"{""sugoroku_map_ids"": [5770012, 5770014]}",,,,,,2022-04-27 11:00:00,2038-01-01 00:00:00,1
@@ -109017,6 +109043,12 @@ on SUPER 3 once!",1,,,"{""sugoroku_map_ids"": [17680025]}",,1768.0,,,,2026-08-29
 33915,Mission::QuestAndZBattleClearMission::CountMission,5,ぜったいにゆるさんぞ虫ケラども!!!!!,,1,3,"「超激闘大全」のステージ2を
 「伝説の存在」カテゴリに属するキャラクターを
 6体編成してクリア",1,,,"{""sugoroku_map_ids"": [17690025], ""all_card_category_ids"": [77, 77, 77, 77, 77, 77]}",,,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+33916,Mission::QuestAndZBattleClearMission::CountMission,5,未来を変える闘い,,1,3,"「超激闘大全」のステージ3を
+「人造人間」カテゴリに属するキャラクターを
+6体編成してクリア",1,,,"{""sugoroku_map_ids"": [17690035], ""all_card_category_ids"": [21, 21, 21, 21, 21, 21]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33917,Mission::QuestAndZBattleClearMission::CountMission,5,忍び寄る恐怖,,1,3,"「超激闘大全」のステージ3を
+「託された意志」カテゴリに属するキャラクターを
+6体編成してクリア",1,,,"{""sugoroku_map_ids"": [17690035], ""all_card_category_ids"": [81, 81, 81, 81, 81, 81]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 33918,Mission::CompleteMission,5,大魔界の冒険者,,1,3,"バーストモード「大魔界の冒険者」にて
 ギミックを8000以上のスコアになるよう設定しクリア",1,,,"{""mission_ids"": [33629]}",,,,,,2026-08-07 05:00:00,2026-08-21 14:59:59,1
 33919,Mission::QuestAndZBattleClearMission::CountMission,1769,Clear Stage 1 once.,,1,3,"Clear Stage 1 of the Challenge Event
@@ -109201,6 +109233,79 @@ Recoome + Guldo from the Challenge Event
 33966,Mission::CompleteMission,1773,"Complete all the missions of 
 ""Scout Battle [Ginyu Force]"".",,1,3,"Complete all the missions of the
 Challenge Event ""Scout Battle [Ginyu Force]""!",16,,,"{""mission_ids"": [33950, 33951, 33952, 33953, 33954, 33955, 33956, 33957, 33958, 33959, 33960, 33961, 33962, 33963, 33964, 33965]}",,1773.0,,,,2026-08-29 09:00:00,2026-10-20 07:59:59,0
+33967,Mission::QuestAndZBattleClearMission::CountMission,200201,Clear Node 2.,,10,3,"Clear Node 2 of ""Androids/Cell Saga"" 
+in Dokkan Frontier!",1,,,"{""origin_battle_ids"": [20020102]}",,,,2002.0,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33968,Mission::QuestAndZBattleClearMission::CountMission,200202,【SP-開放用】※タイトルは表示されない,,10,3,"Clear Node 4 of ""Androids/Cell Saga"" 
+in Dokkan Frontier!",1,,,"{""origin_battle_ids"": [20020104]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33969,Mission::QuestAndZBattleClearMission::CountMission,200201,"Select the specified character 
+as leader and clear Node 1.",,10,3,"Select [Second Super Saiyan]
+Super Saiyan Trunks (Teen)
+as leader and clear Node 1
+of ""Androids/Cell Saga""
+in Dokkan Frontier!
+
+{cards:card_id:1011721}",1,,,"{""leader_card_ids"": [1011721], ""origin_battle_ids"": [20020101]}",,,,,20020101.0,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33970,Mission::QuestAndZBattleClearMission::CountMission,200201,Clear Node 1 under special conditions.,,10,3,"Clear Node 1 of ""Androids/Cell Saga""
+in Dokkan Frontier within 3 turns!",1,,,"{""origin_battle_ids"": [20020101], ""min_turn_in_boss_battle"": 3}",,,,,20020101.0,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33971,Mission::QuestAndZBattleClearMission::CountMission,200201,"Deal 10 million or more damage 
+and clear Node 2.",,10,3,"Deal 10 million or more damage with
+a single attack and clear Node 2 of
+""Androids/Cell Saga"" in Dokkan Frontier!",1,,,"{""origin_battle_ids"": [20020102], ""max_damage_to_boss"": 10000000}",,,,,20020102.0,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33972,Mission::QuestAndZBattleClearMission::CountMission,200201,Clear Node 2 under special conditions.,,10,3,"Clear Node 2 of ""Androids/Cell Saga""
+in Dokkan Frontier within 2 turns!",1,,,"{""origin_battle_ids"": [20020102], ""min_turn_in_boss_battle"": 2}",,,,,20020102.0,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+33973,Mission::OriginBattleClearMission::ClearAllOriginBattlesMission,200201,"Clear Nodes 1 to 7 of 
+""Androids/Cell Saga"" in Dokkan Frontier.",,10,3,"Clear Nodes 1 to 7 of ""Androids/Cell Saga""
+in Dokkan Frontier!",7,,,"{""origin_battle_ids"": [20020101, 20020102, 20020103, 20020104, 20020201, 20020202, 20020203]}",,,,2002.0,,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33974,Mission::QuestAndZBattleClearMission::CountMission,200201,Clear Node 5.,,10,3,"Clear Node 5 of ""Androids/Cell Saga"" 
+in Dokkan Frontier!",1,,,"{""origin_battle_ids"": [20020201]}",,,,2002.0,,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33975,Mission::QuestAndZBattleClearMission::CountMission,200201,"Select the specified character 
+as leader and clear Node 6.",,10,3,"Select [Awakening of the Prince]
+Vegeta as leader and clear Node 6 of
+""Androids/Cell Saga"" in Dokkan Frontier!
+
+{cards:card_id:1028491}",1,,,"{""leader_card_ids"": [1028491], ""origin_battle_ids"": [20020202]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33976,Mission::QuestAndZBattleClearMission::CountMission,200201,"Select the specified character 
+as leader and clear Node 7.",,10,3,"Select [Awakening of the Prince]
+Vegeta as leader and clear Node 7 of
+""Androids/Cell Saga"" in Dokkan Frontier!
+
+{cards:card_id:1028491}",1,,,"{""leader_card_ids"": [1028491], ""origin_battle_ids"": [20020203]}",,,,,20020203.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33977,Mission::QuestAndZBattleClearMission::CountMission,200201,"Activate the specified character's 
+Active Skill and clear Node 6.",,10,3,"Activate [Awakening of the Prince]
+Vegeta's Active Skill and clear Node 6 of
+""Androids/Cell Saga"" in Dokkan Frontier!
+
+{cards:card_id:1028491}",1,,,"{""origin_battle_ids"": [20020202], ""active_skill_set_exec_count_conditions"": [{""count_gteq"": 1, ""active_skill_set_id"": 233}]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33978,Mission::QuestAndZBattleClearMission::CountMission,200201,"Activate the specified character's 
+Active Skill and clear Node 6.",,10,3,"Activate [Awakening of the Prince]
+Super Saiyan Vegeta's Active Skill and
+clear Node 6 of ""Androids/Cell Saga""
+in Dokkan Frontier!
+
+{cards:card_id:4028501}",1,,,"{""origin_battle_ids"": [20020202], ""active_skill_set_exec_count_conditions"": [{""count_gteq"": 1, ""active_skill_set_id"": 232}]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33979,Mission::QuestAndZBattleClearMission::CountMission,200201,"Clear Node 6 with the specified 
+""Dr. Gero"" on your team.",,10,3,"Clear Node 6 of ""Androids/Cell Saga""
+in Dokkan Frontier with
+[Meticulously Planned Operation]
+Dr. Gero on your team!
+
+{cards:card_id:1034551}",1,,,"{""card_ids"": [1034551], ""origin_battle_ids"": [20020202]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33980,Mission::QuestAndZBattleClearMission::CountMission,200201,"Clear Node 6 without 
+any characters becoming LOST.",,10,3,"Clear Node 6 of ""Androids/Cell Saga"" in
+Dokkan Frontier without any characters
+in Group A and Group B becoming LOST!",1,,,"{""origin_battle_ids"": [20020202], ""require_player_actor_not_lost"": true}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33981,Mission::QuestAndZBattleClearMission::CountMission,200201,"Clear Node 6 with the specified 
+""Spy Robot"" on your team.",,10,3,"Clear Node 6 of ""Androids/Cell Saga""
+in Dokkan Frontier with [Tiny Spy]
+Spy Robot on your team!
+
+{cards:card_id:1034561}",1,,,"{""card_ids"": [1034561], ""origin_battle_ids"": [20020202]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
+33982,Mission::QuestAndZBattleClearMission::CountMission,200201,"Activate the specified character's 
+Active Skill and clear Node 6.",,10,3,"Activate [Tiny Spy] Spy Robot's Active Skill
+and clear Node 6 of ""Androids/Cell Saga""
+in Dokkan Frontier!
+
+{cards:card_id:1034561}",1,,,"{""origin_battle_ids"": [20020202], ""active_skill_set_exec_count_conditions"": [{""count_gteq"": 1, ""active_skill_set_id"": 387}]}",,,,,20020202.0,2026-09-25 05:00:00,2038-01-01 00:00:00,1
 33983,Mission::QuestAndZBattleClearMission::CountMission,1723,"Clear Stage 9 of ""Perfect Cooperation! 
 Team Battle"" once.",,1,3,"Clear Stage 9 of the Challenge Event
 ""Perfect Cooperation! Team Battle"" once!",1,,,"{""sugoroku_map_ids"": [17230094]}",,1723.0,,,,2026-09-03 05:00:00,2038-01-01 00:00:00,1
@@ -109386,6 +109491,34 @@ clear Stage 4 of the Dokkan Event
 on SUPER!",1,,,"{""genkai_battle_id"": 49, ""target_point_value"": 8000}",,507.0,,,,2026-09-03 05:00:00,2026-10-20 08:00:01,0
 34015,Mission::CompleteMission,5,極悪非道の宇宙皇帝,,1,3,"バーストモード「極悪非道の宇宙皇帝」にて
 ギミックを8000以上のスコアになるよう設定しクリア",1,,,"{""mission_ids"": [34014]}",,,,,,2026-09-03 05:00:00,2026-10-20 08:00:01,1
+34016,Mission::QuestAndZBattleClearMission::CountMission,10419,"Clear ""Chamber of Spirit and Time"" once.",,1,3,"Clear the Bonus Event 
+""Ultimate Leveling Up! 
+Chamber of Spirit and Time"" 
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [12230012, 12230013, 12230023]}",internal:EventTopScene:1223,,,,,2026-09-15 00:00:00,2026-09-15 23:59:59,0
+34017,Mission::QuestAndZBattleClearMission::CountMission,10419,"Clear ""Turtle School's 
+Intensive Training"" once.",,1,3,"Clear the Limited-Attempts Event
+""Study Hard, Play Hard! Turtle School's
+Intensive Training"" once on any difficulty!",1,,,"{""sugoroku_map_ids"": [2230011, 2230012]}",internal:EventTopScene:223,,,,,2026-09-15 00:00:00,2026-09-15 23:59:59,0
+34018,Mission::QuestAndZBattleClearMission::CountMission,10419,Clear any stage 3 times.,,1,3,"Clear any of the stages 3 times! 
+ 
+* World Tournament and 
+Ultimate Clash excluded.",3,,,{},internal:EventTopScene,,,,,2026-09-15 00:00:00,2026-09-15 23:59:59,0
+34019,Mission::CardTrainingMission::UpSkillLevelMission,10419,Level up any Super Attack once.,,1,3,Level up any character's Super Attack once!,1,,,{},internal:CharacterTrainingScene,,,,,2026-09-15 00:00:00,2026-09-15 23:59:59,0
+34020,Mission::CompleteMission,10419,Complete all the specified missions.,,1,3,"Complete all the ""Dokkan Special Day Missions""!",4,,,"{""mission_ids"": [34016, 34017, 34018, 34019]}",,,,,,2026-09-15 00:00:00,2026-09-15 23:59:59,0
+34021,Mission::QuestAndZBattleClearMission::CountMission,10420,"Clear ""Chamber of Spirit and Time"" once.",,1,3,"Clear the Bonus Event 
+""Ultimate Leveling Up! 
+Chamber of Spirit and Time"" 
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [2980012, 2980013]}",internal:EventTopScene:298,,,,,2026-09-30 00:00:00,2026-09-30 23:59:59,0
+34022,Mission::QuestAndZBattleClearMission::CountMission,10420,"Clear ""Turtle School's 
+Intensive Training"" once.",,1,3,"Clear the Limited-Attempts Event
+""Study Hard, Play Hard! Turtle School's
+Intensive Training"" once on any difficulty!",1,,,"{""sugoroku_map_ids"": [2230011, 2230012]}",internal:EventTopScene:223,,,,,2026-09-30 00:00:00,2026-09-30 23:59:59,0
+34023,Mission::QuestAndZBattleClearMission::CountMission,10420,Clear any stage 3 times.,,1,3,"Clear any of the stages 3 times! 
+ 
+* World Tournament and 
+Ultimate Clash excluded.",3,,,{},internal:EventTopScene,,,,,2026-09-30 00:00:00,2026-09-30 23:59:59,0
+34024,Mission::CardTrainingMission::UpSkillLevelMission,10420,Level up any Super Attack once.,,1,3,Level up any character's Super Attack once!,1,,,{},internal:CharacterTrainingScene,,,,,2026-09-30 00:00:00,2026-09-30 23:59:59,0
+34025,Mission::CompleteMission,10420,Complete all the specified missions.,,1,3,"Complete all the ""Dokkan Special Day Missions""!",4,,,"{""mission_ids"": [34021, 34022, 34023, 34024]}",,,,,,2026-09-30 00:00:00,2026-09-30 23:59:59,0
 34026,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 4 of the specified Dokkan Event 
 on SUPER under special conditions. (A)",,1,3,"Clear Stage 4 of the Dokkan Event
 ""The Evil Emperor of the Universe""
@@ -113942,6 +114075,51 @@ in a single attempt.",,1,3,"Defeat 4 bosses and clear
 Stage 2 of the Challenge Event 
 ""Collection of Epic Battles"" 
 in a single attempt!",4,,,"{""in_one_quest"": true, ""sugoroku_map_ids"": [17690025]}",,1769.0,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+34773,Mission::QuestAndZBattleClearMission::CountMission,1769,Clear Stage 3 once.,,1,3,"Clear Stage 3 of the Challenge Event 
+""Collection of Epic Battles"" once!",1,,,"{""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34774,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Super Vegeta"" and clear Stage 3.",,1,3,"Defeat ""Super Vegeta"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9322641], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34775,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Dr. Gero & Android #19"" 
+and clear Stage 3.",,1,3,"Defeat ""Dr. Gero & Android #19"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9023371], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34776,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Androids #17 & #18"" 
+and clear Stage 3.",,1,3,"Defeat ""Androids #17 & #18"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9108771], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34777,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Hercule"" and clear Stage 3.",,1,3,"Defeat ""Hercule"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9117861], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34778,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Cell Jr."" and clear Stage 3.",,1,3,"Defeat ""Cell Jr."" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9600661], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34779,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Super Saiyan Gohan (Youth)"" 
+and clear Stage 3.",,1,3,"Defeat ""Super Saiyan Gohan (Youth)"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9217631], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34780,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Cell (Perfect Form)"" 
+and clear Stage 3.",,1,3,"Defeat ""Cell (Perfect Form)"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9317901], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34781,Mission::QuestClearMission::DefeatEnemiesMission,1769,"Defeat ""Trunks (Teen) (Future)"" 
+and clear Stage 3.",,1,3,"Defeat ""Trunks (Teen) (Future)"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9014031], ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34782,Mission::QuestAndZBattleClearMission::CountMission,1769,"Clear Stage 3 with 6 characters 
+of the specified Category.",,1,3,"Clear Stage 3 of the Challenge Event
+""Collection of Epic Battles"" once with
+6 ""Androids/Cell Saga"" Category
+characters on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [17690035], ""all_card_category_ids"": [38, 38, 38, 38, 38, 38]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34783,Mission::QuestClearMission::GetTrainingItemsMission,1769,"Defeat 4 bosses and clear Stage 3 
+in a single attempt.",,1,3,"Defeat 4 bosses and clear 
+Stage 3 of the Challenge Event 
+""Collection of Epic Battles"" 
+in a single attempt!",4,,,"{""in_one_quest"": true, ""sugoroku_map_ids"": [17690035]}",,1769.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 34784,Mission::QuestFinishMission::RoundPassedMission,713,"Clear Phase 1 of Stage 40 
 in ""Dragon Ball History""!",,2870,3,"Defeat ""Cui""
 in Phase 1 of Stage 40
@@ -114055,6 +114233,181 @@ on SUPER 3 without using any Support Items!",1,,,"{""sugoroku_map_ids"": [176800
 
 Complete the mission and claim the
 rewards by 15:59 PST the next day.",1,,,"{""sugoroku_map_ids"": [2190011]}",,219.0,,,,2026-08-29 09:00:00,2026-09-12 23:59:59,0
+34815,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 1 once.,,1,3,"Clear Stage 1 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740012, 17740013]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34816,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 1 on SUPER with a team 
+that includes characters of 5 Types.",,1,3,"Clear Stage 1 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER
+once with an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [17740013], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34817,Mission::QuestAndZBattleClearMission::CountMission,1774,"Deal 30 million or more damage with 
+a single attack and clear Stage 1 on SUPER.",,1,3,"Deal 30 million or more damage
+with a single attack in Stage 1 of
+the Challenge Event ""Scout Battle
+[Cell Jr.]"" on SUPER!",1,,,"{""sugoroku_map_ids"": [17740013], ""max_damage_to_boss"": 30000000}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34818,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 2 once.,,1,3,"Clear Stage 2 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740022, 17740023]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34819,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 2 on SUPER with a team 
+that includes characters of 5 Types.",,1,3,"Clear Stage 2 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER
+once with an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [17740023], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34820,Mission::QuestAndZBattleClearMission::CountMission,1774,"Deal 30 million or more damage with 
+a single attack and clear Stage 2 on SUPER.",,1,3,"Deal 30 million or more damage
+with a single attack in Stage 2 of
+the Challenge Event ""Scout Battle
+[Cell Jr.]"" on SUPER!",1,,,"{""sugoroku_map_ids"": [17740023], ""max_damage_to_boss"": 30000000}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34821,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 3 once.,,1,3,"Clear Stage 3 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740032, 17740033]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34822,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 3 on SUPER with a team 
+that includes characters of 5 Types.",,1,3,"Clear Stage 3 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER
+once with an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [17740033], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34823,Mission::QuestAndZBattleClearMission::CountMission,1774,"Deal 30 million or more damage with 
+a single attack and clear Stage 3 on SUPER.",,1,3,"Deal 30 million or more damage
+with a single attack in Stage 3 of
+the Challenge Event ""Scout Battle
+[Cell Jr.]"" on SUPER!",1,,,"{""sugoroku_map_ids"": [17740033], ""max_damage_to_boss"": 30000000}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34824,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 4 once.,,1,3,"Clear Stage 4 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740042, 17740043]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34825,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 4 on SUPER with a team 
+that includes characters of 5 Types.",,1,3,"Clear Stage 4 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER
+once with an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [17740043], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34826,Mission::QuestAndZBattleClearMission::CountMission,1774,"Deal 30 million or more damage with 
+a single attack and clear Stage 4 on SUPER.",,1,3,"Deal 30 million or more damage
+with a single attack in Stage 4 of
+the Challenge Event ""Scout Battle
+[Cell Jr.]"" on SUPER!",1,,,"{""sugoroku_map_ids"": [17740043], ""max_damage_to_boss"": 30000000}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34827,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 5 once.,,1,3,"Clear Stage 5 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740052, 17740053]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34828,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 5 on SUPER with a team 
+that includes characters of 5 Types.",,1,3,"Clear Stage 5 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER
+once with an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [17740053], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34829,Mission::QuestAndZBattleClearMission::CountMission,1774,"Deal 30 million or more damage with 
+a single attack and clear Stage 5 on SUPER.",,1,3,"Deal 30 million or more damage
+with a single attack in Stage 5 of
+the Challenge Event ""Scout Battle
+[Cell Jr.]"" on SUPER!",1,,,"{""sugoroku_map_ids"": [17740053], ""max_damage_to_boss"": 30000000}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34830,Mission::QuestAndZBattleClearMission::CountMission,1774,Clear Stage 6 on SUPER once.,,1,3,"Clear Stage 6 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER once!",1,,,"{""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34831,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER with 
+the specified ""Cell Jr."" on your team.",,1,3,"Include the Extreme AGL Type 
+[Treacherous Clone] Cell Jr., 
+who can be recruited from the 
+Challenge Event ""Scout Battle 
+[Cell Jr.]"", on your team and 
+clear Stage 6 on SUPER once!
+
+* Friends do not count.
+
+{cards:card_id:1034611}",1,,,"{""card_ids"": [1034611], ""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34832,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER with 
+the specified ""Cell Jr."" on your team.",,1,3,"Include the Extreme TEQ Type 
+[Treacherous Clone] Cell Jr., 
+who can be recruited from the 
+Challenge Event ""Scout Battle 
+[Cell Jr.]"", on your team and 
+clear Stage 6 on SUPER once!
+
+* Friends do not count.
+
+{cards:card_id:1034621}",1,,,"{""card_ids"": [1034621], ""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34833,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER with 
+the specified ""Cell Jr."" on your team.",,1,3,"Include the Extreme INT Type 
+[Treacherous Clone] Cell Jr., 
+who can be recruited from the 
+Challenge Event ""Scout Battle 
+[Cell Jr.]"", on your team and 
+clear Stage 6 on SUPER once!
+
+* Friends do not count.
+
+{cards:card_id:1034631}",1,,,"{""card_ids"": [1034631], ""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34834,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER with 
+the specified ""Cell Jr."" on your team.",,1,3,"Include the Extreme STR Type 
+[Treacherous Clone] Cell Jr., 
+who can be recruited from the 
+Challenge Event ""Scout Battle 
+[Cell Jr.]"", on your team and 
+clear Stage 6 on SUPER once!
+
+* Friends do not count.
+
+{cards:card_id:1034641}",1,,,"{""card_ids"": [1034641], ""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34835,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER with 
+the specified ""Cell Jr."" on your team.",,1,3,"Include the Extreme PHY Type 
+[Treacherous Clone] Cell Jr., 
+who can be recruited from the 
+Challenge Event ""Scout Battle 
+[Cell Jr.]"", on your team and 
+clear Stage 6 on SUPER once!
+
+* Friends do not count.
+
+{cards:card_id:1034651}",1,,,"{""card_ids"": [1034651], ""sugoroku_map_ids"": [17740063]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34836,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 with 6 characters 
+of the specified Category once.",,1,3,"Clear Stage 6 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER once
+with 6 ""Androids/Cell Saga"" Category
+characters on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [17740063], ""all_card_category_ids"": [38, 38, 38, 38, 38, 38]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34837,Mission::QuestAndZBattleClearMission::CountMission,1774,"Clear Stage 6 on SUPER 
+without using a Support Item.",,1,3,"Clear Stage 6 of the Challenge Event
+""Scout Battle [Cell Jr.]"" on SUPER once
+without using any Support Items!",1,,,"{""sugoroku_map_ids"": [17740063], ""require_use_no_support_item"": true}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34838,Mission::CardPotentialReleaseMission::ReleaseCountMission,1774,"Activate 90% of any of the 
+specified characters' Hidden Potential.",,1,3,"Recruit [Treacherous Clone] Cell Jr.
+of any Type from the Challenge Event
+""Scout Battle [Cell Jr.]"" and activate 
+90% of that character's Hidden Potential!
+
+{cards:card_id:1034611,1034621,1034631,1034641,1034651}",301,90.0,334.0,"{""card_ids"": [1034611, 1034621, 1034631, 1034641, 1034651]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34839,Mission::CompleteMission,1774,"Complete all the missions of 
+""Scout Battle [Cell Jr.]"".",,1,3,"Complete all the missions of the
+Challenge Event ""Scout Battle [Cell Jr.]""!",24,,,"{""mission_ids"": [34815, 34816, 34817, 34818, 34819, 34820, 34821, 34822, 34823, 34824, 34825, 34826, 34827, 34828, 34829, 34830, 34831, 34832, 34833, 34834, 34835, 34836, 34837, 34838]}",,1774.0,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
 34840,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 2 of the specified Dokkan Event 
 on SUPER under special conditions. (A)",,1,3,"Clear Stage 2 of the Dokkan Event
 ""Adventurers in the Demon Realm""
@@ -114309,6 +114662,30 @@ Category characters on your team!
 * Friends do not count.
 
 {cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [6190043], ""all_card_category_ids"": [87, 87, 87, 87, 87, 87]}",,619.0,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+34874,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 3 of ""Special Battle 2026"" 
+on SUPER.",,1,3,"Clear Stage 3 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER once!",1,,,"{""sugoroku_map_ids"": [17680033]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34875,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 3 of ""Special Battle 2026"" 
+on SUPER 2.",,1,3,"Clear Stage 3 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 2 once!",1,,,"{""sugoroku_map_ids"": [17680034]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34876,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 3 of ""Special Battle 2026"" 
+on SUPER 3.",,1,3,"Clear Stage 3 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 3 once!",1,,,"{""sugoroku_map_ids"": [17680035]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34877,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 4 of ""Special Battle 2026"" 
+on SUPER.",,1,3,"Clear Stage 4 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER once!",1,,,"{""sugoroku_map_ids"": [17680043]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34878,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 4 of ""Special Battle 2026"" 
+on SUPER 2.",,1,3,"Clear Stage 4 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 2 once!",1,,,"{""sugoroku_map_ids"": [17680044]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34879,Mission::QuestAndZBattleClearMission::CountMission,1768,"Clear Stage 4 of ""Special Battle 2026"" 
+on SUPER 3.",,1,3,"Clear Stage 4 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 3 once!",1,,,"{""sugoroku_map_ids"": [17680045]}",,1768.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 34880,Mission::QuestAndZBattleClearMission::CountMission,1770,Clear the event once.,,1,3,"Clear the Challenge Event
 ""Captain's Chaos-Bringing
 Secret Strategy"" once!",1,,,"{""sugoroku_map_ids"": [17700014]}",,1770.0,,,,2026-09-03 05:00:00,2026-10-20 07:59:59,0
@@ -114367,6 +114744,15 @@ reach a score of 8000 or higher and
 clear Stage 4 of the Dokkan Event 
 ""The Evil Emperor of the Universe"" 
 on SUPER!",1,,,"{""genkai_battle_id"": 49, ""target_point_value"": 8000}",internal:EventTopScene:507,,,,,2026-09-03 05:00:00,2026-10-20 07:59:59,0
+34888,Mission::QuestClearMission::DefeatEnemiesMission,10422,Mission G,,1,3,"Defeat ""Super Saiyan Trunks (Future)"" and
+clear Stage 3 of the Challenge Event
+""Collection of Epic Battles""!",1,,,"{""enemy_card_ids"": [9114051], ""sugoroku_map_ids"": [17690035]}",internal:EventTopScene:1769,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34889,Mission::QuestAndZBattleClearMission::CountMission,10422,Mission H,,1,3,"Clear Stage 3 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 3 without using any Support Items!",1,,,"{""sugoroku_map_ids"": [17680035], ""require_use_no_support_item"": true}",internal:EventTopScene:1768,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34890,Mission::QuestAndZBattleClearMission::CountMission,10422,Mission I,,1,3,"Clear Stage 4 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+on SUPER 3 without using any Support Items!",1,,,"{""sugoroku_map_ids"": [17680045], ""require_use_no_support_item"": true}",internal:EventTopScene:1768,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
 34896,Mission::CardAwakeningMission::OptimalCountMission,3211,"Perform 1 step of Extreme Z-Awakening 
 on Piccolo.",,1,3,"Perform 1 step of Extreme Z-Awakening
 on [Exceptional Wisdom] Piccolo!
@@ -114413,6 +114799,176 @@ on [Determined to Fight] Goku (Kaioken)!
 をLv50までクリア",1,,,"{""target_lv"": 50, ""z_battle_ids"": [211]}",,,,,,2026-09-03 05:00:00,2038-01-01 00:00:00,1
 34906,Mission::ZBattleClearMission::ReachLevelMission,5,ナメック星編2,,1,3,"極限Zバトル「ナメック星編2」
 をLv77までクリア",1,,,"{""target_lv"": 77, ""z_battle_ids"": [211]}",,,,,,2026-09-03 05:00:00,2038-01-01 00:00:00,1
+34907,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 1 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 1 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Revenge"" Category 
+character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340012], ""all_card_category_ids"": [48]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34908,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 2 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 2 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Tournament Participants"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340022], ""all_card_category_ids"": [91]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34909,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 3 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 3 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Accelerated Battle"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340032], ""all_card_category_ids"": [80]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34910,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 4 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 4 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Resurrected Warriors"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340042], ""all_card_category_ids"": [7]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34911,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 5 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 5 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Androids"" Category 
+character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340052], ""all_card_category_ids"": [21]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34912,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 6 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 6 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Transformation Boost"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340062], ""all_card_category_ids"": [23]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34913,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 7 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 7 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Miraculous Awakening"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340072], ""all_card_category_ids"": [66]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34914,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 8 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 8 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Sworn Enemies"" Category
+character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340082], ""all_card_category_ids"": [78]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34915,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 9 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 9 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Battle of Fate"" Category
+character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340092], ""all_card_category_ids"": [83]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34916,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 10 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 10 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Worldwide Chaos"" 
+Category character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340102], ""all_card_category_ids"": [82]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34917,Mission::QuestAndZBattleClearMission::CountMission,934,"Clear Stage 11 on Z-HARD 
+under special conditions.",,10,3,"Clear Stage 11 of the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"" on Z-HARD with 
+at least 1 ""Time Travelers"" Category
+character on your team!
+
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""sugoroku_map_ids"": [9340112], ""all_card_category_ids"": [26]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34918,Mission::QuestAndZBattleClearMission::CountMission,934,Clear Stage 1 on Z-HARD once.,,10,3,"Clear Stage 1 of the Dragon Ball Story
+""Ultimate Confrontation! The Cell Games""
+on Z-HARD once!",1,,,"{""sugoroku_map_ids"": [9340012]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34919,Mission::QuestClearMission::ClearAllSugorokuMapsMission,934,Clear all stages on NORMAL.,,10,3,"Clear all stages of the Dragon Ball Story
+""Ultimate Confrontation! The Cell Games""
+on NORMAL!",10,,,"{""sugoroku_map_ids"": [9340010, 9340020, 9340030, 9340040, 9340050, 9340070, 9340080, 9340090, 9340100, 9340110]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34920,Mission::QuestClearMission::ClearAllSugorokuMapsMission,934,Clear all stages on Z-HARD.,,10,3,"Clear all stages of the Dragon Ball Story
+""Ultimate Confrontation! The Cell Games""
+on Z-HARD!",11,,,"{""sugoroku_map_ids"": [9340012, 9340022, 9340032, 9340042, 9340052, 9340062, 9340072, 9340082, 9340092, 9340102, 9340112]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34921,Mission::CardTrainingMission::UpSpecificCardSkillLevelMission,934,"Level up the specified character's 
+Super Attack to Lv. 10.",,10,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
+""Ultimate Confrontation! The Cell Games"" 
+and level up his Super Attack to Lv. 10!
+
+* The mission can be completed even if
+this character has been Dokkan Awakened.
+
+{cards:card_id:1017730,1017731,1017741}",1,,,"{""card_ids"": [1017730, 1017731, 1017741], ""target_lv"": 10}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34922,Mission::CardAcquisitionMission::AwakeningMission,934,"Dokkan Awaken 
+the specified character.",,10,3,"Recruit [Aim to Surpass Super Saiyan] Goku 
+to your team from the Dragon Ball Story 
+""Ultimate Confrontation! The Cell Games"" 
+and Dokkan Awaken him!
+
+{cards:card_id:1017730,1017731}",1,,,"{""card_ids"": [1017741]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34923,Mission::SupportMemoryGetMission::CompleteSupportMemoryMission,934,Complete the specified Support Memory.,,1,3,"Complete the Support Memory 
+""Gohan's Birthday"", which can be 
+obtained in the Dragon Ball Story 
+""Ultimate Confrontation! The Cell Games""!",1,,,"{""support_memory_ids"": [20023]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34924,Mission::SupportMemoryUseMission::UseSupportMemoryMission,934,Use the specified Support Memory.,,1,3,"Use the Support Memory
+""Gohan's Birthday"", which can be
+obtained in the Dragon Ball Story
+""Ultimate Confrontation! 
+The Cell Games"", in any stage!",1,,,"{""support_memory_ids"": [20023]}",,934.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34925,Mission::QuestAndZBattleClearMission::CountMission,3136,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Tenacious Secret Plan""
+at Lv. 31 or higher with
+an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Super and Extreme Types included.
+* Friends do not count.",1,,,"{""is_or_branch"": false, ""z_battle_ids"": [136], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}], ""z_battle_level_gteq"": 31}",,,136.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34926,Mission::QuestAndZBattleClearMission::CountMission,3136,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Tenacious Secret Plan""
+at Lv. 31 or higher with
+6 ""Androids/Cell Saga"" Category
+characters on your team!
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""z_battle_ids"": [136], ""z_battle_level_gteq"": 31, ""all_card_category_ids"": [38, 38, 38, 38, 38, 38]}",,,136.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34927,Mission::QuestAndZBattleClearMission::CountMission,3136,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Tenacious Secret Plan"" within
+1 minute at Lv. 31 or higher!",1,,,"{""z_battle_ids"": [136], ""clear_time_lt"": ""00:01:00"", ""z_battle_level_gteq"": 31}",,,136.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 34929,Mission::QuestAndZBattleClearMission::CountMission,200102,【SP-開放用】※タイトルは表示されない,,10,3,"Clear Node 18 of ""Planet Namek Saga""
 in Dokkan Frontier within 4 turns!",1,,,"{""origin_battle_ids"": [20010601], ""min_turn_in_boss_battle"": 4}",,,,,,2026-09-09 05:00:00,2038-01-01 00:00:00,1
 34930,Mission::QuestAndZBattleClearMission::CountMission,200102,【SP-開放用】※タイトルは表示されない,,10,3,"Deal 10 million or more damage with
@@ -114431,9 +114987,64 @@ on your team!",1,,,"{""origin_battle_ids"": [20010631], ""all_card_category_ids"
 34958,Mission::CardAwakeningMission::OptimalCountMission,5,大宇宙の頂点,,1,3,"頂上決戦イベント「大宇宙の頂点」
 で仲間になるLRフリーザ(第一形態)
 を超極限Z覚醒させる",1,,,"{""card_ids"": [1009381], ""optimal_awakening_type"": 2}",,,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+34959,Mission::QuestAndZBattleClearMission::CountMission,3213,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Super Power Counterattack""
+within 2 minutes at Lv. 10 or higher!",1,,,"{""z_battle_ids"": [213], ""clear_time_lt"": ""00:02:00"", ""z_battle_level_gteq"": 10}",,,213.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34960,Mission::QuestAndZBattleClearMission::CountMission,3213,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Super Power Counterattack""
+within 2 minutes and 30 seconds
+at Lv. 20 or higher!",1,,,"{""z_battle_ids"": [213], ""clear_time_lt"": ""00:02:30"", ""z_battle_level_gteq"": 20}",,,213.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34961,Mission::QuestAndZBattleClearMission::CountMission,3213,"Clear the specified Extreme Z-Battle 
+under special conditions.",,1,3,"Win the Extreme Z-Battle
+""Super Power Counterattack""
+at Lv. 20 or higher with
+an ""Androids"" Category
+character on your team!
+* Friends do not count.
+
+{cards: by_conditions}",1,,,"{""z_battle_ids"": [213], ""z_battle_level_gteq"": 20, ""any_card_category_ids"": [21]}",,,213.0,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+34973,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 2 of the specified Dokkan Event 
+on SUPER under special conditions. (A)",,2,3,"Clear Stage 2 of the Dokkan Event
+""Invincible Father and Son,
+Protectors of Earth""
+on SUPER once with
+an AGL Type character,
+a TEQ Type character,
+an INT Type character,
+a STR Type character and
+a PHY Type character on your team!
+
+* Friends do not count.",1,,,"{""sugoroku_map_ids"": [5760023], ""element_conditions"": [{""element"": 0, ""num_gteq"": 1}, {""element"": 1, ""num_gteq"": 1}, {""element"": 2, ""num_gteq"": 1}, {""element"": 3, ""num_gteq"": 1}, {""element"": 4, ""num_gteq"": 1}]}",internal:EventTopScene:576,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34974,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 2 of the specified Dokkan Event 
+on SUPER under special conditions. (B)",,2,3,"Clear Stage 2 of the Dokkan Event
+""Invincible Father and Son,
+Protectors of Earth"" on SUPER once
+without using any Support Items!",1,,,"{""sugoroku_map_ids"": [5760023], ""require_use_no_support_item"": true}",internal:EventTopScene:576,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34975,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 2 of the specified Dokkan Event 
+on SUPER under special conditions. (C)",,2,3,"Deal 3 million or more damage 
+with a single attack in Stage 2 of the 
+Dokkan Event ""Invincible Father and Son, 
+Protectors of Earth"" on SUPER!",1,,,"{""sugoroku_map_ids"": [5760023], ""max_damage_to_boss"": 3000000}",internal:EventTopScene:576,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+34976,Mission::QuestAndZBattleClearMission::CountMission,10421,"Clear Stage 2 of the specified Dokkan Event 
+on SUPER under special conditions. (D)",,2,3,"Deal 7.77 million or more damage 
+with a single attack in Stage 2 of the 
+Dokkan Event ""Invincible Father and Son, 
+Protectors of Earth"" on SUPER!",1,,,"{""sugoroku_map_ids"": [5760023], ""max_damage_to_boss"": 7770000}",internal:EventTopScene:576,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
 34993,Mission::QuestAndZBattleClearMission::CountMission,736,"Clear Stage 7 of ""Extreme Z-Area 
 GT Edition"" once.",,2510,3,"Clear Stage 7 of the event
 ""Extreme Z-Area GT Edition"" once!",1,,,"{""sugoroku_map_ids"": [7360073]}",,736.0,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+35004,Mission::QuestAndZBattleClearMission::CountMission,1314,"Clear Stage 6 of ""Vegeta, 
+the Proud Warrior"" on Z-HARD once.",,1,3,"Clear Stage 6 of the Story Event
+""Super Warrior Memorial 
+[Vegeta, the Proud Warrior]"" 
+on Z-HARD once!",1,,,"{""sugoroku_map_ids"": [13140062]}",,1314.0,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+35006,Mission::QuestAndZBattleClearMission::CountMission,120257,"Clear ""In Search of the Light of Hope"" once.",,1,3,"Clear the Limited-Attempts Event
+""In Search of the Light of Hope"" once!
+
+Complete the mission and claim the 
+rewards by 15:59 PST the next day.",1,,,"{""sugoroku_map_ids"": [2570011]}",,257.0,,,,2026-09-13 04:30:00,2026-09-28 23:59:59,1
 35046,Mission::CompleteMission,5,"ヒストリー
 ナメック星編 VSフリーザ軍",,1,3,"チャレンジイベント
 「インフィニットドラゴンヒストリー」
@@ -114442,6 +115053,12 @@ GT Edition"" once.",,2510,3,"Clear Stage 7 of the event
 5属性の超系キャラクターを編成してクリア",1,,,"{""sugoroku_map_ids"": [17690025], ""element_conditions"": [{""element"": 10, ""num_gteq"": 1}, {""element"": 11, ""num_gteq"": 1}, {""element"": 12, ""num_gteq"": 1}, {""element"": 13, ""num_gteq"": 1}, {""element"": 14, ""num_gteq"": 1}]}",,,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
 35048,Mission::QuestAndZBattleClearMission::CountMission,5,ナメック星の悪夢!,,1,3,"「超激闘大全」のステージ2を
 5属性の極系キャラクターを編成してクリア",1,,,"{""sugoroku_map_ids"": [17690025], ""element_conditions"": [{""element"": 20, ""num_gteq"": 1}, {""element"": 21, ""num_gteq"": 1}, {""element"": 22, ""num_gteq"": 1}, {""element"": 23, ""num_gteq"": 1}, {""element"": 24, ""num_gteq"": 1}]}",,,,,,2026-08-29 09:00:00,2038-01-01 00:00:00,1
+35055,Mission::ZBattleClearMission::ReachLevelMission,5,超パワーの反撃,,1,3,"極限Zバトル「超パワーの反撃」
+をLv30までクリア",1,,,"{""target_lv"": 30, ""z_battle_ids"": [213]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+35056,Mission::ZBattleClearMission::ReachLevelMission,5,超パワーの反撃,,1,3,"極限Zバトル「超パワーの反撃」
+をLv50までクリア",1,,,"{""target_lv"": 50, ""z_battle_ids"": [213]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
+35057,Mission::ZBattleClearMission::ReachLevelMission,5,超パワーの反撃,,1,3,"極限Zバトル「超パワーの反撃」
+をLv77までクリア",1,,,"{""target_lv"": 77, ""z_battle_ids"": [213]}",,,,,,2026-09-13 04:30:00,2038-01-01 00:00:00,1
 80001,Mission::BattleStartMission::UseActMission,1000,"[Daily] Consume at least 
 50 STA (weekend only)!",,14001,6,"Come join the Quests and Events, 
 and consume at least 50 
@@ -138010,6 +138627,39 @@ on Board 1.",1,3,Complete all the missions on Board 1!,9,,,{},,,,,,2026-08-29 09
 3034111,Mission::BoardMission::CampaignCompleteMission,30341,Complete all the missions on the boards.,"Complete 
 all the missions 
 on the boards.",1,3,Complete all the missions on the boards!,1,,,{},,,,,,2026-08-29 09:00:00,2026-10-20 07:59:59,0
+3035101,Mission::QuestAndZBattleClearMission::CountMission,30351,"Clear Stage 3 of ""Special Battle 2026"".","Clear Stage 3 of 
+""Special Battle 2026"".",1,3,"Clear Stage 3 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [17680033, 17680034, 17680035]}",internal:EventTopScene:1768,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035102,Mission::QuestAndZBattleClearMission::CountMission,30351,"Clear Stage 4 of ""Special Battle 2026"".","Clear Stage 4 of 
+""Special Battle 2026"".",1,3,"Clear Stage 4 of the Challenge Event
+""Global Campaign! Special Battle 2026""
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [17680043, 17680044, 17680045]}",internal:EventTopScene:1768,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035103,Mission::QuestAndZBattleClearMission::CountMission,30351,"Clear Stage 6 of 
+""Scout Battle [Cell Jr.]"".","Clear Stage 6 of 
+""Scout Battle 
+[Cell Jr.]"".",1,3,"Clear Stage 6 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once!",1,,,"{""sugoroku_map_ids"": [17740063]}",internal:EventTopScene:1774,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035104,Mission::QuestAndZBattleClearMission::CountMission,30351,"Clear Stage 3 of 
+""Collection of Epic Battles"".","Clear Stage 3 of 
+""Collection of 
+Epic Battles"".",1,3,"Clear Stage 3 of the Challenge Event
+""Collection of Epic Battles"" once!",1,,,"{""sugoroku_map_ids"": [17690035]}",internal:EventTopScene:1769,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035105,Mission::QuestAndZBattleClearMission::CountMission,30351,"Clear Node 1 of ""Androids/Cell Saga"" 
+in Dokkan Frontier.","Clear Node 1 of 
+""Androids/Cell Saga"" 
+in Dokkan Frontier.",1,3,"Clear Node 1 of ""Androids/Cell Saga"" 
+in Dokkan Frontier!",1,,,"{""origin_battle_ids"": [20020101]}",internal:OriginMapScene?episode=2002&battle=20020101,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035106,Mission::RMBattleClearMission::CountMission,30351,??????,??????,1,3,This mission will become available soon.,1,,,"{""rmbattle_id"": 108}",,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035107,Mission::QuestFinishMission::RoundPassedMission,30351,??????,??????,1,3,This mission will become available soon.,1,,,"{""pass"": true, ""round_ids"": [172310431], ""require_clear"": false, ""sugoroku_map_ids"": [17230104]}",,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035108,Mission::GenkaiBattleMission::TotalPointMission,30351,??????,??????,1,3,This mission will become available soon.,1,,,"{""genkai_battle_id"": 50, ""target_point_value"": 4000}",,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035109,Mission::QuestAndZBattleClearMission::CountMission,30351,??????,??????,1,3,This mission will become available soon.,1,,,"{""sugoroku_map_ids"": [17750015]}",,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035110,Mission::BoardMission::BoardCompleteMission,30351,Complete all the missions on Board 1.,"Complete 
+all the missions 
+on Board 1.",1,3,Complete all the missions on Board 1!,9,,,{},,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3035111,Mission::BoardMission::CampaignCompleteMission,30351,Complete all the missions on the boards.,"Complete 
+all the missions 
+on the boards.",1,3,Complete all the missions on the boards!,1,,,{},,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
 3036101,Mission::QuestAndZBattleClearMission::CountMission,30361,"Clear ""Turtle School's 
 Intensive Training"" once.","Clear ""Turtle School's 
 Intensive Training"" 
@@ -138142,6 +138792,145 @@ on Board 2.",1,3,Complete all the missions on Board 2!,9,,,{},,,,,,2026-08-29 09
 3036211,Mission::BoardMission::CampaignCompleteMission,30362,Complete all the missions on the boards.,"Complete 
 all the missions 
 on the boards.",1,3,Complete all the missions on the boards!,1,,,{},,,,,,2026-08-29 09:00:00,2026-10-20 07:59:59,0
+3037101,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear ""Turtle School's 
+Intensive Training"" once.","Clear ""Turtle School's 
+Intensive Training"" 
+once.",1,3,"Clear the Limited-Attempts Event
+""Study Hard, Play Hard! Turtle School's
+Intensive Training"" once on any difficulty!",1,,,"{""sugoroku_map_ids"": [2230011, 2230012]}",internal:EventTopScene:223,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037102,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear ""God-Level Intensive Training"" 3 times.","Clear ""God-Level 
+Intensive Training"" 
+3 times.",1,3,"Clear the Bonus Event
+""In Search of Greater Power!
+God-Level Intensive Training"" 3 times!",3,,,"{""sugoroku_map_ids"": [12110011]}",internal:EventTopScene:1211,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037103,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear Stage 4 of 
+""Vegeta, the Proud Warrior"".","Clear Stage 4 of 
+""Vegeta, the 
+Proud Warrior"".",1,3,"Clear Stage 4 of the Story Event
+""Super Warrior Memorial 
+[Vegeta, the Proud Warrior]"" 
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [13140040, 13140042]}",internal:EventTopScene:1314,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037104,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear Stage 1 of 
+""Ultimate Confrontation! The Cell Games"".","Clear Stage 1 of 
+""Ultimate Confrontation! 
+The Cell Games"".",1,3,"Clear Stage 1 of the Dragon Ball Story
+""Ultimate Confrontation! The Cell Games""
+once on any difficulty!",1,,,"{""sugoroku_map_ids"": [9340010, 9340012]}",internal:DBStoryAreaSelect:934,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037105,Mission::SupportMemoryUseMission::UseSupportMemoryMission,30371,Use a Support Memory once.,"Use a 
+Support Memory 
+once.",1,3,Use any Support Memory in any stage once!,1,,,{},internal:EventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037106,Mission::QuestAndZBattleClearMission::CountMission,30371,Clear any Dokkan Event once.,"Clear any 
+Dokkan Event 
+once.",1,3,Clear any stage of a Dokkan Event once!,1,,,"{""area_category_ids"": [10]}",internal:AwakenEventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037107,Mission::QuestAndZBattleClearMission::CountMission,30371,Win any Extreme Z-Battle once.,"Win any 
+Extreme Z-Battle 
+once.",1,3,Defeat any enemy in Extreme Z-Battle once!,1,,,"{""battle_types"": [""z_battle""]}",internal:ZbattleTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037108,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear any event in the 
+""Growth"" Category 5 times.","Clear any event 
+in the ""Growth"" 
+Category 5 times.",1,3,"Clear any stage in the ""Growth"" Category 
+of the Event page 5 times!",5,,,"{""area_category_ids"": [1, 8, 9, 10, 11, 12]}",internal:AwakenEventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037109,Mission::QuestAndZBattleClearMission::CountMission,30371,"Clear any event in the 
+""Story"" Category 5 times.","Clear any event 
+in the ""Story"" 
+Category 5 times.",1,3,"Clear any stage in the ""Story"" Category
+of the Event page 5 times!",5,,,"{""area_category_ids"": [2, 7]}",internal:StoryTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037110,Mission::BoardMission::BoardCompleteMission,30371,Complete all the missions on Board 1.,"Complete 
+all the missions 
+on Board 1.",1,3,Complete all the missions on Board 1!,9,,,{},,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037201,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear any stage with at least 4 characters 
+of the specified Category.","Clear any stage with 
+at least 4 characters of 
+the specified Category.",1,3,"Clear any stage with at least
+4 ""Kamehameha"" Category
+characters on your team!
+
+* Friends do not count.
+* World Tournament and
+Ultimate Clash excluded.
+
+{cards: by_conditions}",1,,,"{""all_card_category_ids"": [39, 39, 39, 39]}",internal:EventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037202,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear any stage with at least 4 characters 
+of the specified Category.","Clear any stage with 
+at least 4 characters of 
+the specified Category.",1,3,"Clear any stage with at least
+4 ""Androids/Cell Saga"" Category
+characters on your team!
+
+* Friends do not count.
+* World Tournament and
+Ultimate Clash excluded.
+
+{cards: by_conditions}",1,,,"{""all_card_category_ids"": [38, 38, 38, 38]}",internal:EventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037203,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear Stage 1 of 
+""Scout Battle [Cell Jr.]"".","Clear Stage 1 of 
+""Scout Battle 
+[Cell Jr.]"".",1,3,"Clear Stage 1 of the Challenge Event
+""Scout Battle [Cell Jr.]"" once
+on any difficulty!",1,,,"{""sugoroku_map_ids"": [17740012, 17740013]}",internal:EventTopScene:1774,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037204,Mission::CardTrainingMission::UpSpecificCardSkillLevelMission,30372,"Level up any of the specified characters' 
+Super Attack to Lv. 10.","Level up any of the 
+specified characters' 
+Super Attack to Lv. 10.",1,3,"Recruit a character whose name is
+""[Treacherous Clone] Cell Jr.""
+from the Challenge Event
+""Scout Battle [Cell Jr.]"" and level up
+that character's Super Attack to Lv. 10!
+
+{cards:card_id:1034611,1034621,1034631,1034641,1034651}",1,,,"{""card_ids"": [1034611, 1034621, 1034631, 1034641, 1034651], ""target_lv"": 10}",internal:CharacterTrainingScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037205,Mission::CardPotentialReleaseMission::ReleaseCountMission,30372,"Activate 90% of any of the specified 
+characters' Hidden Potential.","Activate 90% of any of 
+the specified characters' 
+Hidden Potential.",1,3,"Recruit a character whose name is
+""[Treacherous Clone] Cell Jr.""
+from the Challenge Event
+""Scout Battle [Cell Jr.]"" and activate
+90% of that character's Hidden Potential!
+
+{cards:card_id:1034611,1034621,1034631,1034641,1034651}",301,90.0,334.0,"{""card_ids"": [1034611, 1034621, 1034631, 1034641, 1034651]}",internal:PotentialMapScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037206,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear any stage with the specified 
+characters on your team.","Clear any stage with 
+the specified characters 
+on your team.",1,3,"Clear any stage with a team that includes
+""[Treacherous Clone] Cell Jr."" of
+Extreme AGL Type,
+Extreme TEQ Type,
+Extreme INT Type,
+Extreme STR Type and
+Extreme PHY Type once!
+
+* Friends do not count.
+* [Treacherous Clone] Cell Jr. can be recruited
+from the event ""Scout Battle [Cell Jr.]"".
+
+{cards:card_id:1034611,1034621,1034631,1034641,1034651}",1,,,"{""card_ids"": [1034611, 1034621, 1034631, 1034641, 1034651]}",internal:EventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037207,Mission::BattleStartMission::UseActMission,30372,Consume at least 1000 STA.,"Consume at least 
+1000 STA.",1,3,"Come join the Quests and Events, and
+consume at least 1000 STA during the event!
+
+* STA consumed in the World Tournament
+will not be counted.",1000,,,{},internal:EventTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037208,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear any event in the 
+""Challenge"" Category 10 times.","Clear any event 
+in the ""Challenge"" 
+Category 10 times.",1,3,"Clear any stage in the ""Challenge""
+Category of the Event page 10 times!",10,,,"{""area_category_ids"": [20]}",internal:ChallengeTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037209,Mission::QuestAndZBattleClearMission::CountMission,30372,"Clear any event in the 
+""Bonus"" Category 20 times.","Clear any event 
+in the ""Bonus"" 
+Category 20 times.",1,3,"Clear any stage in the ""Bonus"" Category
+of the Event page 20 times!
+
+* Limited-Attempts Events can only be
+attempted a set number of times within
+the specified period. Bonus Events allow
+you to get items or Zeni.",20,,,"{""area_category_ids"": [4, 5, 6]}",internal:BonusTopScene,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037210,Mission::BoardMission::BoardCompleteMission,30372,Complete all the missions on Board 2.,"Complete 
+all the missions 
+on Board 2.",1,3,Complete all the missions on Board 2!,9,,,{},,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
+3037211,Mission::BoardMission::CampaignCompleteMission,30372,Complete all the missions on the boards.,"Complete 
+all the missions 
+on the boards.",1,3,Complete all the missions on the boards!,1,,,{},,,,,,2026-09-13 04:30:00,2026-10-20 07:59:59,0
 4001201,Mission::QuestAndZBattleClearMission::CountMission,6,"Clear a stage without 
 using a Support Item.",,300,6,"Clear a stage without 
 using a Support Item.",1,,,"{""sugoroku_map_ids"": [40012], ""require_use_no_support_item"": true}",,,,,,2017-11-20 00:00:00,2038-01-01 00:00:00,1

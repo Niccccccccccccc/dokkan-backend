@@ -7073,6 +7073,32 @@ to a maximum of 1,999,999",0,0,0,0,,0,0,0,0,0,16,3.0,1999999.0,,{},0.0
 211019,Penetration,Increases damage dealt to enemies,0,0,0,0,,0,0,0,0,0,3,420.0,,,{},0.0
 211020,Damage Reduction (All),Reduces damage received by 80%,0,0,0,0,,0,0,0,0,0,7,80.0,,,{},0.0
 211021,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,350.0,100.0,,{},0.0
+213000,Damage Reduction (All),Reduces damage received by 35%,0,0,0,0,,0,0,0,0,0,7,35.0,,,{},0.0
+213001,Type Damage Reduction,"Reduces damage received from AGL, TEQ, INT, 
+STR, PHY, Super AGL, Super TEQ, Super INT, 
+Super STR and Super PHY Types by 60%",0,0,0,0,,0,0,0,0,0,15,130944.0,60.0,,{},0.0
+213002,Penetration,Increases damage dealt to enemies,0,0,0,0,,0,0,0,0,0,3,160.0,,,{},0.0
+213003,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,210.0,100.0,,{},0.0
+213004,Damage Reduction (All),Reduces damage received by 40%,0,0,0,0,,0,0,0,0,0,7,40.0,,,{},0.0
+213005,Disable DEF Reduction,Disables DEF Reduction,0,-1,0,100,,1,0,0,0,0,13,2.0,,,{},0.0
+213006,Damage Reduction (All),Reduces damage received by 45%,0,0,0,0,,0,0,0,0,0,7,45.0,,,{},0.0
+213007,Stun Immunity,Grants immunity to being stunned,0,-1,0,100,,1,0,0,0,0,10,,,,{},0.0
+213008,Damage Reduction (All),Reduces damage received by 50%,0,0,0,0,,0,0,0,0,0,7,50.0,,,{},0.0
+213009,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,240.0,100.0,,{},0.0
+213010,Damage Limitation (Certain Rarity or Below),"Limits damage dealt by SSR or below characters 
+to a maximum of 1,999,999",0,0,0,0,,0,0,0,0,0,16,3.0,1999999.0,,{},0.0
+213011,Damage Reduction (All),Reduces damage received by 55%,0,0,0,0,,0,0,0,0,0,7,55.0,,,{},0.0
+213012,Penetration,Increases damage dealt to enemies,0,0,0,0,,0,0,0,0,0,3,170.0,,,{},0.0
+213013,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,270.0,100.0,,{},0.0
+213014,Disable ATK & DEF Reduction,Disables ATK & DEF Reduction,0,-1,0,100,,1,0,0,0,0,13,3.0,,,{},0.0
+213015,Disable Interruption,Disables Interruption,0,-1,0,100,,1,0,0,0,0,18,,,,{},0.0
+213016,Damage Reduction (All),Reduces damage received by 60%,0,0,0,0,,0,0,0,0,0,7,60.0,,,{},0.0
+213017,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,300.0,100.0,,{},0.0
+213018,Disable Super Attack Sealing,Nullifies Super Attack sealing effect,0,-1,0,100,,1,0,0,0,0,14,,,,{},0.0
+213019,Damage Reduction (All),Reduces damage received by 65%,0,0,0,0,,0,0,0,0,0,7,65.0,,,{},0.0
+213020,Penetration,Increases damage dealt to enemies,0,0,0,0,,0,0,0,0,0,3,180.0,,,{},0.0
+213021,Damage Reduction (All),Reduces damage received by 70%,0,0,0,0,,0,0,0,0,0,7,70.0,,,{},0.0
+213022,ATK Boost,Greatly increases ATK,0,0,0,0,,0,0,0,0,0,1,390.0,100.0,,{},0.0
 500000,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,55.0,,,{},0.0
 500010,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,55.0,,,{},0.0
 500020,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,60.0,,,{},0.0
@@ -9985,6 +10011,9 @@ a Physical Super Attack",5,-1,0,100,"{""source"": ""3712"", ""compiled"": 3712}"
 starting from the 4th turn",1,-1,0,100,"{""source"": ""3246"", ""compiled"": 3246}",1,0,0,0,0,9,,,,{},0.0
 532240,Critical Hit,"Performs a critical hit when attacking 
 starting from the 5th turn",1,-1,0,100,"{""source"": ""3283"", ""compiled"": 3283}",1,0,0,0,0,26,100.0,80.0,,{},2.0
+532300,Saiyan Fighting Spirit,Grants immunity to being stunned,0,-1,0,100,,1,0,0,0,0,10,0.0,0.0,0.0,{},0.0
+532310,Ki Amplification,Nullifies Super Attack sealing effect,0,-1,0,100,,1,0,0,0,0,14,0.0,0.0,0.0,{},0.0
+532320,Battle of the Warrior Race,Disables ATK Reduction,0,-1,0,100,,1,0,0,0,0,13,1.0,0.0,0.0,{},0.0
 532400,ATK Boost,ATK +20% with each Super Attack performed,6,-1,0,100,"{""source"": ""2125"", ""compiled"": 2125}",1,0,0,0,0,25,20.0,9999.0,0.0,{},2.0
 532410,ATK Boost,ATK +20% with each Super Attack performed,6,-1,0,100,"{""source"": ""2125"", ""compiled"": 2125}",1,0,0,0,0,25,20.0,9999.0,0.0,{},2.0
 532420,DEF Boost,DEF +20% with each Super Attack performed,6,-1,0,100,"{""source"": ""2125"", ""compiled"": 2125}",1,0,0,0,0,25,20.0,9999.0,1.0,{},2.0
@@ -10069,6 +10098,102 @@ from the character's entry turn",1,-1,0,100,"{""source"": ""3378"", ""compiled""
 533310,Disable Super Attacks,Seals all enemies' Super Attacks,1,1,0,100,,11,0,0,100,0,11,0.0,0.0,0.0,{},0.0
 533330,Disable Super Attacks,Seals all enemies' Super Attacks,1,1,0,100,,11,0,0,100,0,11,0.0,0.0,0.0,{},0.0
 533400,ATK & DEF Boost,ATK & DEF +20%,1,-1,0,100,,1,0,0,0,0,23,20.0,20.0,,{},2.0
+533500,Damage Reduction,Reduces damage received,1,99,0,100,,1,0,0,0,0,24,150.0,0.0,0.0,{},0.0
+533510,Lowered Damage Reduction Rate,"Damage reduction rate -3% with 
+each turn passed (no more than -15%)",1,99,0,100,,1,0,0,0,0,25,-3.0,-15.0,4.0,{},0.0
+533520,Damage Reduction,Reduces damage received,1,99,0,100,,1,0,0,0,0,24,140.0,0.0,0.0,{},0.0
+533530,Lowered Damage Reduction Rate,"Damage reduction rate -3% with 
+each turn passed (no more than -15%)",1,99,0,100,,1,0,0,0,0,25,-3.0,-15.0,4.0,{},0.0
+533540,Damage Reduction,Reduces damage received,1,99,0,100,,1,0,0,0,0,24,130.0,0.0,0.0,{},0.0
+533550,Lowered Damage Reduction Rate,"Damage reduction rate -3% with 
+each turn passed (no more than -15%)",1,99,0,100,,1,0,0,0,0,25,-3.0,-15.0,4.0,{},0.0
+533560,Lowered DEF,"DEF -10% within the turn 
+with each attack received 
+(no more than -50%)",5,1,0,100,"{""source"": ""24"", ""compiled"": 24}",1,0,0,0,0,25,10.0,50.0,1.0,{},3.0
+533570,Ki Reduction,Enemies' Ki -3,1,1,0,100,,2,0,0,0,0,19,3.0,,,{},1.0
+533580,ATK Boost,ATK +20% with each turn passed,1,-1,0,100,,1,0,0,0,0,25,20.0,9999.0,0.0,{},2.0
+533590,DEF Boost,DEF +20% with each turn passed,1,-1,0,100,,1,0,0,0,0,25,20.0,9999.0,1.0,{},2.0
+533600,Change Ki Spheres,Changes INT Ki Spheres to STR Ki Spheres,1,0,0,100,,1,0,0,0,0,4,4.0,8.0,,{},0.0
+533610,Ki Sphere Damage,"Enemy receives 20,000 damage 
+per STR Ki Sphere obtained 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,1,0,0,0,0,30,8.0,100.0,,"{""damage"": 20000, ""minimum"": 1}",0.0
+533620,Ki Sphere Damage,"Enemy receives 30,000 damage 
+per STR Ki Sphere obtained 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,1,0,0,0,0,30,8.0,100.0,,"{""damage"": 30000, ""minimum"": 1}",
+533630,Ki Sphere Damage,"Enemy receives 50,000 damage 
+per STR Ki Sphere obtained 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,1,0,0,0,0,30,8.0,100.0,,"{""damage"": 50000, ""minimum"": 1}",
+533700,ATK Boost,ATK +20% with each turn passed,1,-1,0,100,,1,0,0,0,0,25,20.0,9999.0,0.0,{},2.0
+533710,ATK Boost,"ATK +50% for 2 turns 
+from the character's entry turn",1,2,1,100,,1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533720,Evasion,"Chance of evading attacks +20% 
+for 2 turns from the character's entry turn",1,2,1,100,,1,0,0,0,0,25,20.0,20.0,3.0,{},2.0
+533730,ATK Boost,"ATK +100% for 2 turns 
+from the character's entry turn",1,2,1,100,,1,0,0,0,0,23,100.0,0.0,0.0,{},2.0
+533740,Ki Reduction,Enemies' Ki -2,1,1,0,100,,2,0,0,0,0,19,2.0,0.0,,{},1.0
+533750,Damage Skill,"Deals 30% of enemy's max HP as damage 
+to the enemy every turn 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,11,100,0,0,0,28,30.0,,,{},2.0
+533760,Lowered ATK,"ATK -10% within the turn 
+with each attack received 
+(no more than -50%)",5,1,0,100,"{""source"": ""24"", ""compiled"": 24}",1,0,0,0,0,25,10.0,50.0,0.0,{},3.0
+533770,ATK Boost,ATK +50% when HP is 30% or less,1,1,0,100,"{""source"": ""15"", ""compiled"": 15}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533780,ATK Boost,ATK +10% with each attack received (up to 170%),5,-1,0,100,"{""source"": ""24"", ""compiled"": 24}",1,0,0,0,0,25,10.0,170.0,0.0,{},2.0
+533790,DEF Boost,DEF +10% with each attack received (up to 180%),5,-1,0,100,"{""source"": ""24"", ""compiled"": 24}",1,0,0,0,0,25,10.0,180.0,1.0,{},2.0
+533800,Ki Reduction,"Enemies' Ki -4 for 2 turns 
+from the character's entry turn",1,2,1,100,,2,0,0,0,0,19,4.0,0.0,,{},1.0
+533810,Lowered ATK & DEF,"Enemies' ATK -19% and DEF -20% 
+on the 3rd turn from the character's entry turn",1,-1,0,100,"{""source"": ""3378"", ""compiled"": 3378}",2,0,0,0,0,23,19.0,20.0,0.0,{},3.0
+533820,Ki Reduction,Enemies' Ki -12,1,1,0,100,,2,0,0,0,0,19,12.0,0.0,,{},1.0
+533830,Increased Evasion Chance,"Chance of evading attacks +5% within the turn 
+with each Super Attack performed (up to 10%)",6,1,0,100,"{""source"": ""2125"", ""compiled"": 2125}",1,0,0,0,0,25,5.0,10.0,3.0,{},2.0
+533840,ATK & DEF Boost,"ATK & DEF +100% when 
+a ""Goku's Family"" Category 
+character is present",1,1,0,100,"{""source"": ""202"", ""compiled"": 202}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+533850,ATK & DEF Boost,"ATK & DEF +100% when 
+an ""Earthlings"" Category 
+character is present",1,1,0,100,"{""source"": ""3491"", ""compiled"": 3491}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+533860,ATK & DEF Boost,"ATK & DEF +100% when 
+a ""Namekians"" Category 
+character is present",1,1,0,100,"{""source"": ""3186"", ""compiled"": 3186}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+533870,ATK & DEF Boost,"ATK & DEF +100% when 
+a ""Vegeta's Family"" Category 
+character is present",1,1,0,100,"{""source"": ""203"", ""compiled"": 203}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+533880,ATK & DEF Boost,"ATK & DEF +100% when 
+a ""Hybrid Saiyans"" Category 
+character is present",1,1,0,100,"{""source"": ""3675"", ""compiled"": 3675}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+533890,ATK Boost,ATK +50% when HP is 80% or less,1,1,0,100,"{""source"": ""42"", ""compiled"": 42}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533900,ATK Boost,"Receives an additional ATK +50% 
+when HP is 50% or less",1,1,0,100,"{""source"": ""27"", ""compiled"": 27}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533910,ATK Boost,"Receives an additional ATK +50% 
+when HP is 20% or less",1,1,0,100,"{""source"": ""17"", ""compiled"": 17}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533920,Damage Skill,"Deals 99% of enemy's max HP as damage 
+to the enemy every turn 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,11,100,0,0,0,28,99.0,,,{},2.0
+533930,Damage Reduction Rate Boost,"Damage reduction rate raised 
+before receiving 5 attacks",1,99,1,100,,1,0,0,0,0,24,5.0,,,{},0.0
+533931,"Deactivate ""Damage Reduction Rate Boost""",,5,1,1,100,"{""source"": ""785"", ""compiled"": 785}",1,0,0,0,0,22,10.0,533930.0,1.0,{},0.0
+533940,Damage Reduction Rate Boost,"Damage reduction rate +58% 
+before receiving 10 attacks",1,99,1,100,,1,0,0,0,0,24,42.0,,,{},0.0
+533941,"Deactivate ""Damage Reduction Rate Boost""",,5,1,1,100,"{""source"": ""2042"", ""compiled"": 2042}",1,0,0,0,0,22,10.0,533940.0,1.0,{},0.0
+533950,Guaranteed Hit,"Disables Evasion and attacks guaranteed to hit 
+starting from the 3rd turn",1,-1,0,100,"{""source"": ""3378"", ""compiled"": 3378}",1,0,0,0,0,9,,,,{},0.0
+533960,ATK Boost,"ATK +100% on the 3rd turn 
+from the character's entry turn",1,-1,0,100,"{""source"": ""3422"", ""compiled"": 3422}",1,0,0,0,0,23,100.0,0.0,,{},2.0
+533970,ATK Boost,ATK +50% when HP is 80% or less,1,1,0,100,"{""source"": ""42"", ""compiled"": 42}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533980,ATK Boost,"Receives an additional ATK +50% 
+when HP is 50% or less",1,1,0,100,"{""source"": ""27"", ""compiled"": 27}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+533990,ATK Boost,"Receives an additional ATK +50% 
+when HP is 20% or less",1,1,0,100,"{""source"": ""17"", ""compiled"": 17}",1,0,0,0,0,23,50.0,0.0,0.0,{},2.0
+534000,Damage Skill,"Deals 50% of enemy's max HP as damage 
+to the enemy every turn 
+(will not be KO'd due to receiving this damage)",1,1,0,100,,11,100,0,0,0,28,50.0,,,{},2.0
+534010,Damage Negation,Reduces damage below a certain amount to 0,1,1,0,100,,1,0,0,0,0,20,3.0,15000000.0,0.0,{},0.0
+534020,ATK & DEF Boost,ATK & DEF +100% when HP is 50% or less,1,1,0,100,"{""source"": ""27"", ""compiled"": 27}",1,0,0,0,0,23,100.0,100.0,0.0,{},2.0
+534030,ATK Boost,ATK +50% with each turn passed,1,-1,0,100,,1,0,0,0,0,25,50.0,9999.0,0.0,{},2.0
+534040,ATK Boost,ATK +50% with each turn passed,1,-1,0,100,,1,0,0,0,0,25,50.0,9999.0,0.0,{},2.0
+534050,ATK Boost,ATK +100% when HP is 50% or less,1,1,0,100,"{""source"": ""27"", ""compiled"": 27}",1,0,0,0,0,23,100.0,0.0,0.0,{},2.0
+534060,Regeneration,Recovers HP,0,0,0,0,,0,0,0,0,0,2,100.0,100.0,0.0,{},0.0
 600000,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,0.0,,,{},0.0
 600001,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,1.0,,,{},0.0
 600002,Damage Reduction,Reduces damage received,0,0,0,0,,0,0,0,0,0,7,2.0,,,{},0.0
@@ -12060,6 +12185,8 @@ put an end to you!",ATK +111% with each turn passed (up to 333%),1,-1,0,100,,1,0
 with each turn passed 
 (no more than -33%)",1,99,0,100,,1,0,0,0,0,25,-11.0,-33.0,4.0,{},0.0
 2001960,Regeneration,Recovers HP,0,0,0,0,,0,0,0,0,0,2,100.0,100.0,0.0,{},0.0
+2001970,Energy Absorption,Absorbs Ki Blast Super Attacks,1,1,0,100,,1,0,0,0,0,12,80.0,1.0,4.0,{},0.0
+2001990,Haaaagh!!!,ATK & DEF +50% when HP is 75% or less,1,1,0,100,"{""source"": ""3848"", ""compiled"": 3848}",1,0,0,0,0,23,50.0,50.0,0.0,{},2.0
 2002000,ATK & DEF Boost,"ATK & DEF +100% on the 2nd turn 
 from the character's entry turn",1,-1,0,100,"{""source"": ""3338"", ""compiled"": 3338}",1,0,0,0,0,23,100.0,100.0,,{},2.0
 2002010,ATK Boost,ATK +30% with each turn passed (up to 300%),1,-1,0,100,,1,0,0,0,0,25,30.0,300.0,0.0,{},2.0
@@ -12068,3 +12195,9 @@ from the character's entry turn",1,-1,0,100,"{""source"": ""3338"", ""compiled""
 (no more than -50%)",5,-1,0,100,"{""source"": ""24"", ""compiled"": 24}",1,0,0,0,0,25,5.0,50.0,0.0,{},3.0
 2002040,Recover,Recovers 40% HP when HP is 40% or less,0,0,0,0,,0,0,0,0,0,2,100.0,,0.0,{},0.0
 2002050,You're going down!!!,ATK +50% with each turn passed (up to 150%),1,-1,0,100,,1,0,0,0,0,25,50.0,150.0,0.0,{},2.0
+2002400,Damage Negation,Reduces damage below a certain amount to 0,1,1,0,100,,1,0,0,0,0,20,3.0,3000000.0,0.0,{},0.0
+2002410,Damage Negation,Reduces damage below a certain amount to 0,1,1,0,100,,1,0,0,0,0,20,3.0,2000000.0,0.0,{},0.0
+2002420,Damage Negation,Reduces damage below a certain amount to 0,1,1,0,100,,1,0,0,0,0,20,3.0,2500000.0,0.0,{},0.0
+2002430,Damage Negation,Reduces damage below a certain amount to 0,1,1,0,100,,1,0,0,0,0,20,3.0,3000000.0,0.0,{},0.0
+2002440,Barrier,Nullifies damage from Ki Blast Super Attacks,4,1,0,100,"{""source"": ""1410"", ""compiled"": 1410}",1,0,0,0,0,21,0.0,0.0,11.0,{},0.0
+2002441,Barrier,,5,1,0,100,,1,0,0,0,0,22,10.0,2002440.0,1.0,{},0.0

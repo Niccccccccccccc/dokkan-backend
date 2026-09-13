@@ -144,10 +144,10 @@ Challenge the ""Great Pontas""!","Clear all stages of the Story Event
 the 'Great Pontas'!"" on all difficulties.",0,0,0,0,normal_bronze,internal:EventTopScene:175,28367000,0,2022-03-09 00:00:00,2038-01-01 00:00:00
 68,2,Emerge! Mysterious Monster Cell,"Clear all stages of the Dragon Ball Story 
 ""Emerge! Mysterious Monster Cell"" on all difficulties.",0,0,0,0,normal_bronze,internal:DBStoryAreaSelect:929,28929000,0,2025-12-02 05:00:00,2038-01-01 00:00:00
-69,2,"Ultimate Confrontation! 
-The Cell Games","Clear all stages of the Story Event 
+69,2,"Ultimate Confrontation!
+The Cell Games","Clear all stages of the Dragon Ball Story 
 ""Ultimate Confrontation! The Cell Games"" 
-on all difficulties.",0,0,0,0,normal_bronze,internal:EventTopScene:369,28369000,0,2022-03-09 00:00:00,2038-01-01 00:00:00
+on all difficulties.",0,0,0,0,normal_bronze,internal:DBStoryAreaSelect:934,28934000,0,2026-09-13 04:30:00,2038-01-01 00:00:00
 70,2,Fight Against Despair!,"Clear all stages of the Story Event 
 ""Fight Against Despair!"" on all difficulties.",0,0,0,0,normal_bronze,internal:EventTopScene:371,28371000,0,2022-03-09 00:00:00,2038-01-01 00:00:00
 71,2,Super Android 13!,"Clear all stages of the Story Event 
@@ -2710,10 +2710,10 @@ Challenge Event ""Fearsome Activation! Cell Max"".",2,0,0,2,normal_gold,internal
 1148,2,"Conqueror of the
 Extreme ""Revenge"" Path","Clear Stage 42 of the Challenge Event 
 ""Extreme Super Battle Road"".",2,0,0,2,normal_gold,internal:EventTopScene:720,22720041,0,2023-04-28 06:30:00,2038-01-01 00:00:00
-1149,2,Battle to Change the Future,"Complete all the missions related to Stage 3 of 
-the Challenge Event ""Collection of Epic Battles"".",2,0,0,2,normal_gold,internal:EventTopScene:760,22760004,0,2023-03-13 06:30:00,2038-01-01 00:00:00
-1150,2,Looming Terror,"Complete all the missions related to Stage 4 of 
-the Challenge Event ""Collection of Epic Battles"".",2,0,0,2,normal_gold,internal:EventTopScene:760,22760005,0,2023-03-13 06:30:00,2038-01-01 00:00:00
+1149,2,Battle to Change the Future,"Clear Stage 3 of ""Collection of Epic Battles"" with 
+6 ""Androids"" Category characters on your team.",2,0,0,2,normal_gold,internal:EventTopScene:1769,22760004,0,2023-03-13 06:30:00,2038-01-01 00:00:00
+1150,2,Looming Terror,"Clear Stage 3 of ""Collection of Epic Battles"" with 
+6 ""Entrusted Will"" Category characters on your team.",2,0,0,2,normal_gold,internal:EventTopScene:1769,22760005,0,2023-03-13 06:30:00,2038-01-01 00:00:00
 1151,2,"Conqueror of the
 ""Connected Hope"" Path","Clear Stage 66 of the Challenge Event ""Super Battle Road"".",2,0,0,2,normal_gold,internal:EventTopScene:710,22710065,0,2023-04-28 06:30:00,2038-01-01 00:00:00
 1152,30102,Legend Reborn,"Clear the Extreme Z-Battle 
@@ -6128,3 +6128,12 @@ and Super Extreme Z-Awaken the character.",2,0,0,2,normal_gold,internal:EventTop
 2386,2,"Dragon Ball History
 Planet Namek Saga (vs. Frieza's Army)","Complete all the missions related to Stage 40 of 
 the Challenge Event ""Infinite Dragon Ball History"".",2,0,0,2,normal_gold,internal:EventTopScene:713,22713039,0,2026-09-09 05:00:00,2038-01-01 00:00:00
+2389,30213,Super Power Counterattack,"Clear the Extreme Z-Battle 
+""Super Power Counterattack"" 
+up to Lv. 30.",0,0,0,0,normal_bronze,internal:ZbattleTopScene:213,1,0,2026-09-13 04:30:00,2038-01-01 00:00:00
+2390,30213,Super Power Counterattack,"Clear the Extreme Z-Battle 
+""Super Power Counterattack"" 
+up to Lv. 50.",1,0,0,1,normal_silver,internal:ZbattleTopScene:213,1,0,2026-09-13 04:30:00,2038-01-01 00:00:00
+2391,30213,Super Power Counterattack,"Clear the Extreme Z-Battle 
+""Super Power Counterattack"" 
+up to Lv. 77.",2,0,0,2,normal_gold,internal:ZbattleTopScene:213,1,0,2026-09-13 04:30:00,2038-01-01 00:00:00

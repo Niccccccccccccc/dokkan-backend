@@ -340,6 +340,7 @@ id,type,name,image_path,dragonball_session_id,priority
 929,MissionCategory::ExtraMissionCategory,929_【DBストーリー】出現!!謎の怪物セル,images/en/mission/mission_banner_event_929.png,,70929
 931,MissionCategory::ExtraMissionCategory,931_【DBストーリー】ドラゴンボール超 スーパーヒーロー,images/en/mission/mission_banner_event_931.png,,70931
 933,MissionCategory::ExtraMissionCategory,【DBストーリー】激突!!100億パワーの戦士たち,images/en/mission/mission_banner_event_933.png,,70933
+934,MissionCategory::ExtraMissionCategory,934_【DBストーリー】最強激突!!セルゲーム,images/en/mission/mission_banner_event_934.png,,2609085
 1000,MissionCategory::DailyMissionCategory,Daily Missions,,,1
 1201,MissionCategory::ExtraMissionCategory,【特別編】超絶技巧の仕事人,images/en/mission/mission_banner_event_1201.png,,86718
 1202,MissionCategory::ExtraMissionCategory,【回数制限】パンのひみつの冒険,images/en/mission/mission_banner_event_1202.png,,86830
@@ -368,7 +369,7 @@ id,type,name,image_path,dragonball_session_id,priority
 1311,MissionCategory::ExtraMissionCategory,【物語】超戦士列伝 ドラゴンボールGT編,images/en/mission/mission_banner_event_1311.png,,50102
 1312,MissionCategory::ExtraMissionCategory,【物語】超戦士列伝 ドラゴンボール超編,images/en/mission/mission_banner_event_1312.png,,50103
 1313,MissionCategory::ExtraMissionCategory,1313_【物語】超戦士列伝 ドラゴンボールZ編,images/en/mission/mission_banner_event_1313.png,,50101
-1314,MissionCategory::ExtraMissionCategory,【物語】超戦士メモリアル〜誇り高き戦士ベジータ〜,images/en/mission/mission_banner_event_1314.png,,2608273
+1314,MissionCategory::ExtraMissionCategory,【物語】超戦士メモリアル〜誇り高き戦士ベジータ〜,images/en/mission/mission_banner_event_1314.png,,2609086
 1522,MissionCategory::ExtraMissionCategory,暴走する戦闘生物,images/en/mission/mission_banner_event_1522.png,,86956
 1701,MissionCategory::ExtraMissionCategory,【チャレンジ】至上のバトルスペクタクル 超戦士集結編,images/en/mission/mission_banner_event_1701.png,,81707
 1702,MissionCategory::ExtraMissionCategory,究極のレッドゾーン 孫悟空の軌跡編,images/en/mission/mission_banner_event_1702.png,,81702
@@ -427,10 +428,11 @@ id,type,name,image_path,dragonball_session_id,priority
 1764,MissionCategory::ExtraMissionCategory,【チャレンジ】新ナメック星の危機！超装甲を突破せよ,images/en/mission/mission_banner_event_1764.png,,86968
 1765,MissionCategory::ExtraMissionCategory,【チャレンジ】究極のレッドゾーン改 スーパーヒーロー編,images/en/mission/mission_banner_event_1765.png,,86974
 1766,MissionCategory::ExtraMissionCategory,【チャレンジ】至上のバトルスペクタクル改 DAIMA編,images/en/mission/mission_banner_event_1766.png,,86986
-1768,MissionCategory::ExtraMissionCategory,【チャレンジ】GLCP記念！SPECIAL BATTLE 2026,images/en/mission/mission_banner_event_1768_A.png,,2608269
+1768,MissionCategory::ExtraMissionCategory,【チャレンジ】GLCP記念！SPECIAL BATTLE 2026,images/en/mission/mission_banner_event_1768_B.png,,2608269
 1769,MissionCategory::ExtraMissionCategory,【チャレンジ】超激闘大全,images/en/mission/mission_banner_event_1769_R1.png,,2608213
 1770,MissionCategory::ExtraMissionCategory,1770_波乱を招く隊長の秘策,images/en/mission/mission_banner_event_1770.png,,2609028
 1773,MissionCategory::ExtraMissionCategory,【チャレンジ】スカウトバトル ギニュー特戦隊,images/en/mission/mission_banner_event_1773.png,,2608270
+1774,MissionCategory::ExtraMissionCategory,【チャレンジ】スカウトバトル セルジュニア,images/en/mission/mission_banner_event_1774.png,,2609082
 2000,MissionCategory::JointCampaignPrivateMissionCategory,WW連動企画の個人ミッション,,,1
 2001,MissionCategory::JointCampaignMissionCategory,WW連動企画の協力(対決)ミッション,,,1
 3001,MissionCategory::ExtraMissionCategory,【極限Zバトル】最強の奥義 超サイヤ人3,images/en/mission/mission_banner_event_zbattle_001.png,,10001
@@ -566,7 +568,7 @@ id,type,name,image_path,dragonball_session_id,priority
 3133,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル】バンパでの新たな生活_ブロリー&チライ&レモ[極体],images/en/mission/mission_banner_event_zbattle_133.png,,10133
 3134,MissionCategory::ExtraMissionCategory,[en]134_【極限Zバトル】真の極意_孫悟空(身勝手の極意)[極速],images/en/mission/mission_banner_event_zbattle_134.png,,10134
 3135,MissionCategory::ExtraMissionCategory,[en]135_【極限Zバトル】真の戦闘民族_超サイヤ人ゴッドSSベジータ(進化)[超知],images/en/mission/mission_banner_event_zbattle_135.png,,10135
-3136,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル】執念の秘策　超ベジータ[超力],images/en/mission/mission_banner_event_zbattle_136.png,,10136
+3136,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル】執念の秘策　超ベジータ[超力],images/en/mission/mission_banner_event_zbattle_136.png,,2609255
 3137,MissionCategory::ExtraMissionCategory,[en]137_【極限Zバトル】果てしない力の凌駕　超サイヤ人ゴッドSS孫悟空(界王拳) &超サイヤ人ゴッドSSベジータ(進化)[超体],images/en/mission/mission_banner_event_zbattle_137.png,,10137
 3138,MissionCategory::ExtraMissionCategory,[en]20240331_138_【極限Zバトル】怒涛の反撃_バーダック[超速],images/en/mission/mission_banner_event_zbattle_138.png,,10138
 3139,MissionCategory::ExtraMissionCategory,[en]20240408_139_【極限Zバトル】メチャすごい合体パワー_ゴテンクス[超知],images/en/mission/mission_banner_event_zbattle_139.png,,10139
@@ -640,6 +642,7 @@ id,type,name,image_path,dragonball_session_id,priority
 3209,MissionCategory::ExtraMissionCategory,【極限Zバトル】ヒロインコレクション編6,images/en/mission/mission_banner_event_zbattle_209.png,,10209
 3210,MissionCategory::ExtraMissionCategory,【極限Zバトル】全てを賭けた極限バトル,images/en/mission/mission_banner_event_zbattle_210.png,,2608215
 3211,MissionCategory::ExtraMissionCategory,【極限Zバトル】ナメック星編2,images/en/mission/mission_banner_event_zbattle_211.png,,2609029
+3213,MissionCategory::ExtraMissionCategory,【極限Zバトル】超パワーの反撃_超サイヤ人トランクス(青年期),images/en/mission/mission_banner_event_zbattle_213.png,,2609084
 3701,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル Lv.SUPER追加】最強の奥義_超サイヤ人3孫悟空,images/en/mission/mission_banner_event_zbattle_701.png,,10701
 3702,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル Lv.SUPER追加】正義の死神大暴れ_超サイヤ人3ゴテンクス,images/en/mission/mission_banner_event_zbattle_702.png,,10702
 3703,MissionCategory::ExtraMissionCategory,[en]【極限Zバトル Lv.SUPER追加】心なき破壊衝動_魔人ブウ(純粋)[極体],images/en/mission/mission_banner_event_zbattle_703.png,,10703
@@ -1060,6 +1063,8 @@ id,type,name,image_path,dragonball_session_id,priority
 10416,MissionCategory::ExtraMissionCategory,SPECIAL DAY限定ミッション,images/en/mission/mission_banner_plain_camp_20250515.png,,9999999
 10417,MissionCategory::ExtraMissionCategory,SPECIAL DAY限定ミッション,images/en/mission/mission_banner_plain_camp_20250515.png,,9999999
 10418,MissionCategory::ExtraMissionCategory,極限Z覚醒応援キャンペーン,images/en/mission/mission_banner_kyokugen_camp_20260813.png,,100415
+10419,MissionCategory::ExtraMissionCategory,SPECIAL DAY限定ミッション,images/en/mission/mission_banner_plain_camp_20250515.png,,9999999
+10420,MissionCategory::ExtraMissionCategory,SPECIAL DAY限定ミッション,images/en/mission/mission_banner_plain_camp_20250515.png,,9999999
 10421,MissionCategory::ExtraMissionCategory,GLOBAL CP記念！DOKKAN覚醒応援キャンペーン(2026),images/en/mission/mission_banner_dokkan_camp_20260829.png,,2608275
 10422,MissionCategory::ExtraMissionCategory,激闘必至！EXミッション(11周年合わせ),images/en/mission/mission_banner_plain_camp_20260829_34.png,,2608276
 20000,MissionCategory::ExtraMissionCategory,龍の原石(緑)獲得ウィークリーミッション&交換所(回数リセット),images/en/mission/mission_banner_genseki_camp_20250129.png,,100244
@@ -1132,8 +1137,11 @@ id,type,name,image_path,dragonball_session_id,priority
 30331,MissionCategory::BoardMissionCategory,テンションMAX！夏休みミッション,,,1
 30332,MissionCategory::BoardMissionCategory,テンションMAX！夏休みミッション_2枚目,,,1
 30341,MissionCategory::BoardMissionCategory,GLOBALチケットGETミッション_第1弾,,,1
+30351,MissionCategory::BoardMissionCategory,GLOBALチケットGETミッション_第2弾,,,1
 30361,MissionCategory::BoardMissionCategory,GLOBAL DOKKANミッション_第1弾,,,1
 30362,MissionCategory::BoardMissionCategory,GLOBAL DOKKANミッション_第1弾_2枚目,,,1
+30371,MissionCategory::BoardMissionCategory,GLOBAL DOKKANミッション_第2弾,,,1
+30372,MissionCategory::BoardMissionCategory,GLOBAL DOKKANミッション_第2弾_2枚目,,,1
 60011,MissionCategory::BoardMissionCategory,[en]超戦士の極意改修リニューアル　初級1枚目,,,5000
 60012,MissionCategory::BoardMissionCategory,[en]超戦士の極意改修リニューアル　初級2枚目,,,5000
 60013,MissionCategory::BoardMissionCategory,[en]超戦士の極意改修リニューアル　初級3枚目,,,5000
@@ -1203,6 +1211,7 @@ _1枚目",,,1
 120203,MissionCategory::ExtraMissionCategory,【回数制限】スタミナ満タン！食いしんぼうサイヤ人,images/en/mission/mission_banner_event_203.png,,86693
 120217,MissionCategory::ExtraMissionCategory,[en]【回数制限】驚異のパワーアップ！最長老の導き,images/en/mission/mission_banner_event_217.png,,80145
 120254,MissionCategory::ExtraMissionCategory,【回数制限】もっと強く!! 孫親子の超修業(回数イベリニューアル),images/en/mission/mission_banner_event_254.png,,86969
+120257,MissionCategory::ExtraMissionCategory,257_【回数制限】希望の光を求めて,images/en/mission/mission_banner_event_257.png,,2609087
 120267,MissionCategory::ExtraMissionCategory,【回数制限】完成させろ！希望の必殺技,images/en/mission/mission_banner_event_267.png,,267
 120269,MissionCategory::ExtraMissionCategory,【特別編】がんばれ！明日のスーパーヒーロー！,images/en/mission/mission_banner_event_269.png,,86980
 120274,MissionCategory::ExtraMissionCategory,【回数制限】さらなる力を求めて！神レベルの猛特訓(リニューアル),images/en/mission/mission_banner_event_274.png,,274
@@ -1210,6 +1219,8 @@ _1枚目",,,1
 140217,MissionCategory::ExtraMissionCategory,【回数制限】驚異のパワーアップ！最長老の導き,images/en/mission/mission_banner_event_217.png,,80145
 200101,MissionCategory::OriginMissionCategory,ナメック星編,,,1
 200102,MissionCategory::InvisibleMissionCategory,ナメック星編_SP開放,,,1
+200201,MissionCategory::OriginMissionCategory,人造人間/セル編,,,1
+200202,MissionCategory::InvisibleMissionCategory,人造人間/セル編_SP開放,,,1
 900001,MissionCategory::ExtraMissionCategory,Exploding Gratitude! Dokkan Thank-You Special Missions,images/en/mission/mission_banner_plain_camp_20211118.png,,900001
 900002,MissionCategory::ExtraMissionCategory,[Super Weekend] ,images/en/dummy_image/dummy_image.png,,900002
 900003,MissionCategory::ExtraMissionCategory,[Super Weekend] ,images/en/dummy_image/dummy_image.png,,900003
